@@ -276,7 +276,7 @@ Hệ thống gồm 2 luồng:
 
 ### Khoảng trống cần hoàn thiện (glue layer)
 
-- [ ] **Dựng index trước:** `python -m src.task4_chunking_indexing` (sau khi có dữ liệu Task 1–3).
+- [x] **Dựng index trước:** `python -m group_project.ingestion.run_pipeline` (Nguyễn Thành Đạt — FAISS tại `group_project/data/faiss/`).
 - [ ] **Backend `group_project/app.py` (FastAPI):** endpoint `POST /chat` bọc
       `task9.retrieve` + `task10.generate_with_citation`; nạp model/collection 1 lần khi khởi động.
 - [ ] **Conversation memory:** lưu lịch sử theo session để hỗ trợ follow-up.
@@ -290,12 +290,48 @@ Hệ thống gồm 2 luồng:
 | Thành viên | MSSV       | Nhiệm vụ                                             | Trạng thái |
 |----------|------------|------------------------------------------------------|------------|
 |Trần Bá Đạt| 2A202600778 | Implement search -> retrival pipeline and merge code | |
-|Nguyễn Thành Đạt|2A202600771 | Data collection -> chunking data                     | |
+|Nguyễn Thành Đạt|2A202600771 | Data collection → chunking + **FAISS** index | ✅ |
 |Nguyễn Thị Bảo Trân|2A202600917| UI/UX + Create a evaluation data set and testing     | |
 
 ---
 
 ## Hướng Dẫn Chạy
+
+### Ingestion pipeline — Nguyễn Thành Đạt (FAISS)
+
+Chạy từ **repo root** (sau `pip install -r requirements.txt`):
+
+```bash
+# Chạy đầy đủ: Task 1 → 2 → 3 → 4 (FAISS)
+python -m group_project.ingestion.run_pipeline
+
+# Nhanh: copy data từ bài cá nhân rồi build FAISS index
+python -m group_project.ingestion.run_pipeline --copy-from-individual
+
+# Chỉ rebuild FAISS (đã có landing + standardized)
+python -m group_project.ingestion.run_pipeline --skip-collect --skip-crawl --skip-convert
+```
+
+**Output:**
+- `group_project/data/landing/{legal,news}/` — raw data
+- `group_project/data/standardized/{legal,news}/*.md` — markdown
+- `group_project/data/faiss/index.faiss` — FAISS vector index (IndexFlatIP, cosine)
+- `group_project/data/faiss/metadata.pkl` — chunk content + metadata
+
+**Cấu hình indexing (Task 4):**
+- Chunking: `RecursiveCharacterTextSplitter`, size=1000, overlap=150, separator `\nChương `/`\nĐiều `
+- Embedding: `intfloat/multilingual-e5-small` (384d), prefix `passage: `/`query: `
+- Vector store: **FAISS** (dense search; BM25 lexical dùng metadata pickle)
+
+**API cho retrieval (Task 5):**
+```python
+from group_project.ingestion.chunk_and_index import faiss_search, get_faiss_store
+
+results = faiss_search("hình phạt tàng trữ ma tuý", top_k=5)
+# → [{"content": "...", "score": 0.82, "metadata": {"source": "...", "type": "legal"}}]
+```
+
+### Chatbot / Evaluation
 
 ```bash
 # Cài đặt dependencies
