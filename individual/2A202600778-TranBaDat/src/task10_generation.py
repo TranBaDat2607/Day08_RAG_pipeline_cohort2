@@ -75,20 +75,18 @@ def reorder_for_llm(chunks: list[dict]) -> list[dict]:
     Returns:
         List reordered để maximize LLM attention.
     """
-    # TODO: Implement reordering
-    #
-    # if len(chunks) <= 2:
-    #     return chunks
-    #
-    # # Split into first half (important → đầu) and second half (important → cuối)
-    # reordered = []
-    # for i in range(0, len(chunks), 2):
-    #     reordered.append(chunks[i])  # Odd positions go first
-    # for i in range(len(chunks) - 1 - (len(chunks) % 2 == 0), 0, -2):
-    #     reordered.append(chunks[i])  # Even positions go last (reversed)
-    #
-    # return reordered
-    raise NotImplementedError("Implement reorder_for_llm")
+    if len(chunks) <= 2:
+        return list(chunks)
+
+    # chunks vào đã sorted theo score giảm dần (score cao = quan trọng).
+    # - left: các vị trí chẵn (0, 2, 4, ...) giữ NGUYÊN thứ tự -> chunk tốt nhất ở đầu.
+    # - right: các vị trí lẻ (1, 3, 5, ...) ĐẢO ngược -> chunk tốt nhì nằm ở cuối.
+    # Kết quả: quan trọng nhất ở đầu & cuối, kém quan trọng dồn vào giữa.
+    #   Input  [0,1,2,3,4]  ->  left=[0,2,4], right=reversed([1,3])=[3,1]
+    #   Output [0,2,4,3,1]   (chunk tốt nhất vẫn đứng đầu)
+    left = chunks[0::2]
+    right = chunks[1::2][::-1]
+    return left + right
 
 
 # =============================================================================
@@ -106,18 +104,16 @@ def format_context(chunks: list[dict]) -> str:
     Returns:
         Formatted context string.
     """
-    # TODO: Implement context formatting
-    #
-    # context_parts = []
-    # for i, chunk in enumerate(chunks, 1):
-    #     source = chunk.get("metadata", {}).get("source", f"Source {i}")
-    #     doc_type = chunk.get("metadata", {}).get("type", "unknown")
-    #     context_parts.append(
-    #         f"[Document {i} | Source: {source} | Type: {doc_type}]\n"
-    #         f"{chunk['content']}\n"
-    #     )
-    # return "\n---\n".join(context_parts)
-    raise NotImplementedError("Implement format_context")
+    context_parts = []
+    for i, chunk in enumerate(chunks, 1):
+        metadata = chunk.get("metadata", {}) or {}
+        source = metadata.get("source") or metadata.get("filename") or f"Source {i}"
+        doc_type = metadata.get("type", "unknown")
+        context_parts.append(
+            f"[Document {i} | Source: {source} | Type: {doc_type}]\n"
+            f"{chunk.get('content', '')}\n"
+        )
+    return "\n---\n".join(context_parts)
 
 
 # =============================================================================
@@ -146,43 +142,47 @@ def generate_with_citation(query: str, top_k: int = TOP_K) -> dict:
             'retrieval_source': str  # 'hybrid' hoặc 'pageindex'
         }
     """
-    # TODO: Implement generation pipeline
-    #
-    # # Step 1: Retrieve
-    # chunks = retrieve(query, top_k=top_k)
-    #
-    # # Step 2: Reorder
-    # reordered = reorder_for_llm(chunks)
-    #
-    # # Step 3: Format context
-    # context = format_context(reordered)
-    #
-    # # Step 4: Build prompt
-    # user_message = f"""Context:\n{context}\n\n---\n\nQuestion: {query}"""
-    #
-    # # Step 5: Call LLM
-    # from openai import OpenAI
-    # client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
-    #
-    # response = client.chat.completions.create(
-    #     model="gpt-4o-mini",
-    #     messages=[
-    #         {"role": "system", "content": SYSTEM_PROMPT},
-    #         {"role": "user", "content": user_message}
-    #     ],
-    #     temperature=TEMPERATURE,
-    #     top_p=TOP_P,
-    # )
-    #
-    # answer = response.choices[0].message.content
-    #
-    # # Step 6: Return
-    # return {
-    #     "answer": answer,
-    #     "sources": chunks,
-    #     "retrieval_source": chunks[0].get("source", "hybrid") if chunks else "none"
-    # }
-    raise NotImplementedError("Implement generate_with_citation")
+    # Step 1: Retrieve relevant chunks (hybrid + fallback PageIndex, xem Task 9).
+    chunks = retrieve(query, top_k=top_k)
+
+    # Không có evidence -> không gọi LLM, trả thẳng câu "không xác minh được".
+    if not chunks:
+        return {
+            "answer": "Tôi không thể xác minh thông tin này từ nguồn hiện có.",
+            "sources": [],
+            "retrieval_source": "none",
+        }
+
+    # Step 2: Reorder để tránh "lost in the middle".
+    reordered = reorder_for_llm(chunks)
+
+    # Step 3: Format context kèm nhãn source để LLM trích dẫn được.
+    context = format_context(reordered)
+
+    # Step 4: Build prompt (system + context + question).
+    user_message = f"Context:\n{context}\n\n---\n\nQuestion: {query}"
+
+    # Step 5: Gọi LLM (OpenAI). temperature thấp + top_p 0.9 -> factual, ít bịa.
+    from openai import OpenAI
+
+    client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
+    response = client.chat.completions.create(
+        model="gpt-4o-mini",
+        messages=[
+            {"role": "system", "content": SYSTEM_PROMPT},
+            {"role": "user", "content": user_message},
+        ],
+        temperature=TEMPERATURE,
+        top_p=TOP_P,
+    )
+    answer = response.choices[0].message.content or ""
+
+    # Step 6: Return answer + sources + retrieval_source.
+    return {
+        "answer": answer,
+        "sources": chunks,
+        "retrieval_source": chunks[0].get("source", "hybrid"),
+    }
 
 
 if __name__ == "__main__":
