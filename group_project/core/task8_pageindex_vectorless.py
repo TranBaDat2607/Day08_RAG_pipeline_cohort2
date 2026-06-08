@@ -36,8 +36,9 @@ from dotenv import load_dotenv
 # landing, standardized của nhóm); .env đặt ở repo root (theo CLAUDE.md).
 GROUP_DIR = Path(__file__).resolve().parent.parent
 REPO_ROOT = GROUP_DIR.parent
-load_dotenv()                       # tìm .env từ cwd trở lên
-load_dotenv(REPO_ROOT / ".env")     # và .env ở repo root (không ghi đè biến đã set)
+load_dotenv()                                    # tìm .env từ cwd trở lên
+load_dotenv(REPO_ROOT / ".env", override=True)   # .env ở repo root
+load_dotenv(GROUP_DIR / ".env", override=True)   # ưu tiên group_project/.env (nơi nhóm để key)
 
 PAGEINDEX_API_KEY = os.getenv("PAGEINDEX_API_KEY", "")
 DATA_DIR = GROUP_DIR / "data"

@@ -14,10 +14,13 @@ from pathlib import Path
 
 from dotenv import load_dotenv
 
-# .env ở repo root (core/ -> group_project/ -> repo root) theo CLAUDE.md.
-_REPO_ROOT = Path(__file__).resolve().parent.parent.parent
+# Nạp .env: ưu tiên group_project/.env (nơi nhóm để key), rồi tới repo root.
+# override=True để giá trị trong .env thắng biến môi trường cũ/đã hết hạn của shell.
+_GROUP_DIR = Path(__file__).resolve().parent.parent
+_REPO_ROOT = _GROUP_DIR.parent
 load_dotenv()
-load_dotenv(_REPO_ROOT / ".env")
+load_dotenv(_REPO_ROOT / ".env", override=True)
+load_dotenv(_GROUP_DIR / ".env", override=True)
 
 from .task9_retrieval_pipeline import retrieve
 
