@@ -1,6 +1,7 @@
 # Ngày 8 — RAG Pipeline v2
 
 **Chương 2 | Ngày 8 trong 15**
+**Web Chatbot (live demo):** **[oggishi.github.io/Day08_RAG_pipeline_cohort2](https://oggishi.github.io/Day08_RAG_pipeline_cohort2/)**
 
 ---
 
