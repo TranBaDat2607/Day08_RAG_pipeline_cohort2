@@ -1,0 +1,52 @@
+name: Deploy backend to Hugging Face Space
+
+# Đồng bộ backend (FastAPI + pipeline RAG) sang Hugging Face Space — nơi chạy
+# Docker container thật (GitHub Pages chỉ host được static site, không chạy
+# được Python). Push lên Space sẽ tự kích hoạt HF rebuild image.
+#
+# Yêu cầu cấu hình trước (xem README phần "Manual setup"):
+#   - Secret HF_TOKEN: access token của Hugging Face (quyền write vào Space)
+#   - Secret HF_SPACE: "username/space-name" của Space đã tạo (SDK: Docker)
+#   - Trong Space settings, set các secret: OPENAI_API_KEY, WEAVIATE_URL,
+#     WEAVIATE_API_KEY, PAGEINDEX_API_KEY, JINA_API_KEY
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "api/**"
+      - "src/**"
+      - "data/standardized/**"
+      - "requirements.txt"
+      - "Dockerfile"
+      - ".github/workflows/deploy-backend.yml"
+  workflow_dispatch:
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Stage Space files
+        run: |
+          rm -rf /tmp/space && mkdir -p /tmp/space/data
+          cp -r src /tmp/space/
+          cp -r api /tmp/space/
+          cp -r data/standardized /tmp/space/data/
+          rm -rf /tmp/space/data/standardized/_pageindex_pdf_cache
+          cp requirements.txt Dockerfile /tmp/space/
+          cp api/SPACE_README.md /tmp/space/README.md
+
+      - name: Push to Hugging Face Space
+        env:
+          HF_TOKEN: ${{ secrets.HF_TOKEN }}
+          HF_SPACE: ${{ secrets.HF_SPACE }}
+        run: |
+          cd /tmp/space
+          git init -q
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git commit -q -m "Sync from GitHub ${{ github.sha }}"
+          git push -f "https://user:${HF_TOKEN}@huggingface.co/spaces/${HF_SPACE}" HEAD:main

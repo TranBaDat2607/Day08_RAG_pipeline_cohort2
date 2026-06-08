@@ -13,5 +13,70 @@
     "question": "Danh mục các chất ma tuý thuộc nhóm I theo quy định pháp luật Việt Nam gồm những chất nào?",
     "expected_answer": "Nhóm I gồm các chất ma tuý tuyệt đối cấm sử dụng trong y học và đời sống, bao gồm heroin, cocaine, methamphetamine, MDMA (ecstasy), cannabis (cần sa), và các chất tương tự.",
     "expected_context": "Nghị định 57/2022/NĐ-CP, Phụ lục I"
+  },
+  {
+    "question": "Theo Luật Phòng, chống ma túy số 73/2021/QH14, phạm vi điều chỉnh của luật này gồm những nội dung gì?",
+    "expected_answer": "Luật quy định về phòng, chống ma túy; quản lý người sử dụng trái phép chất ma túy; cai nghiện ma túy; trách nhiệm của cá nhân, gia đình, cơ quan, tổ chức trong phòng, chống ma túy; quản lý nhà nước và hợp tác quốc tế về phòng, chống ma túy.",
+    "expected_context": "Luật Phòng, chống ma túy 73/2021/QH14, Điều 1"
+  },
+  {
+    "question": "Theo Luật Phòng, chống ma túy, 'chất ma túy' được định nghĩa như thế nào?",
+    "expected_answer": "Chất ma túy là chất gây nghiện, chất hướng thần được quy định trong danh mục chất ma túy do Chính phủ ban hành.",
+    "expected_context": "Luật Phòng, chống ma túy 73/2021/QH14 (bản 120/2025/QH15), Điều 2 khoản 1"
+  },
+  {
+    "question": "Pháp luật định nghĩa 'người sử dụng trái phép chất ma túy' là người như thế nào?",
+    "expected_answer": "Là người có hành vi sử dụng chất ma túy mà không được sự cho phép của người hoặc cơ quan chuyên môn có thẩm quyền và xét nghiệm chất ma túy trong cơ thể có kết quả dương tính.",
+    "expected_context": "Luật Phòng, chống ma túy (120/2025/QH15), Điều 2 khoản 9"
+  },
+  {
+    "question": "Những hành vi nào bị nghiêm cấm theo quy định của Luật Phòng, chống ma túy?",
+    "expected_answer": "Một số hành vi bị nghiêm cấm gồm: trồng cây có chứa chất ma túy; nghiên cứu, sản xuất, tàng trữ, vận chuyển, mua bán trái phép chất ma túy; chiếm đoạt chất ma túy; sử dụng hoặc tổ chức sử dụng trái phép chất ma túy; cưỡng bức, lôi kéo người khác sử dụng ma túy; sản xuất, mua bán phương tiện dùng vào việc sản xuất hoặc sử dụng trái phép ma túy; cản trở công tác xét nghiệm, cai nghiện; kỳ thị người sử dụng/cai nghiện ma túy.",
+    "expected_context": "Luật Phòng, chống ma túy (120/2025/QH15), Điều 5"
+  },
+  {
+    "question": "Nghị định 105/2021/NĐ-CP quy định chi tiết và hướng dẫn thi hành những nội dung gì của Luật Phòng, chống ma túy?",
+    "expected_answer": "Nghị định quy định chi tiết và hướng dẫn thi hành các nội dung về công tác phối hợp của các cơ quan chuyên trách phòng, chống tội phạm về ma túy; kiểm soát các hoạt động hợp pháp liên quan đến ma túy; và quản lý người sử dụng trái phép chất ma túy.",
+    "expected_context": "Nghị định 105/2021/NĐ-CP, Điều 1"
+  },
+  {
+    "question": "Theo Nghị định 105/2021/NĐ-CP, nguyên tắc phối hợp giữa các cơ quan chuyên trách phòng, chống tội phạm về ma túy là gì?",
+    "expected_answer": "Mỗi khu vực, địa bàn do một cơ quan chịu trách nhiệm chính, chủ trì trong công tác phòng ngừa, đấu tranh với tội phạm về ma túy; các cơ quan khác phối hợp theo chức năng nhiệm vụ; đảm bảo đoàn kết, hiệp đồng, hỗ trợ lẫn nhau và bảo vệ bí mật nhà nước khi trao đổi thông tin.",
+    "expected_context": "Nghị định 105/2021/NĐ-CP, Điều 3"
+  },
+  {
+    "question": "Đối tượng áp dụng của Nghị định 105/2021/NĐ-CP là những ai?",
+    "expected_answer": "Nghị định áp dụng đối với các cơ quan, tổ chức, cá nhân có liên quan đến công tác phối hợp phòng, chống tội phạm về ma túy; kiểm soát các hoạt động hợp pháp liên quan đến ma túy; và quản lý người sử dụng trái phép chất ma túy.",
+    "expected_context": "Nghị định 105/2021/NĐ-CP, Điều 2"
+  },
+  {
+    "question": "Ca sĩ Long Nhật và Sơn Ngọc Minh bị bắt vì lý do gì và có bao nhiêu người liên quan trong vụ việc?",
+    "expected_answer": "Ca sĩ Long Nhật và Sơn Ngọc Minh (cựu thành viên nhóm V.Music), cùng 69 người khác, bị Công an TP.HCM bắt vì liên quan đến ma túy.",
+    "expected_context": "article_01.md - Bắt ca sĩ Long Nhật và ca sĩ Sơn Ngọc Minh vì liên quan ma túy"
+  },
+  {
+    "question": "Diễn viên hài Hiệp Gà bị bắt và xử phạt như thế nào về tội liên quan đến ma túy?",
+    "expected_answer": "Tháng 4/2007, Hiệp Gà bị công an phường Phương Liên (Hà Nội) bắt quả tang tàng trữ heroin, khai đã nghiện ma túy khoảng 4-5 tháng. Ngày 31/7/2007, TAND quận Đống Đa tuyên phạt anh 24 tháng tù giam về tội tàng trữ trái phép chất ma túy.",
+    "expected_context": "article_04.md - Sao Việt bị bắt, ngồi tù, mất danh tiếng vì chất cấm"
+  },
+  {
+    "question": "Ca sĩ Châu Việt Cường bị kết án bao nhiêu năm tù và về tội gì?",
+    "expected_answer": "Châu Việt Cường bị TAND TP Hà Nội tuyên phạt 13 năm tù về tội giết người (sau khi nhét tỏi vào miệng nạn nhân trong lúc ảo giác do dùng ma túy đá); tại phúc thẩm được giảm xuống còn 11 năm tù, và ra tù trước thời hạn vào tháng 1/2025 sau hơn 6 năm thụ án.",
+    "expected_context": "article_04.md - Sao Việt bị bắt, ngồi tù, mất danh tiếng vì chất cấm"
+  },
+  {
+    "question": "Trước Nguyễn Công Trí, những nghệ sĩ Việt nào từng bị bắt vì liên quan đến ma túy?",
+    "expected_answer": "Một số nghệ sĩ từng bị bắt vì liên quan ma túy gồm Hiệp Gà (2007), Châu Việt Cường (2018), cùng các trường hợp khác như Hữu Tín và Nhikolai Đinh được nhắc đến trong loạt bài về sao Việt vướng vòng lao lý vì chất cấm.",
+    "expected_context": "article_05.md - Ngoài Nguyễn Công Trí, những nghệ sĩ nào từng bị bắt vì ma tuý?"
+  },
+  {
+    "question": "Sơn Ngọc Minh là ai và có sự nghiệp như thế nào trước khi bị bắt vì liên quan đến ma túy?",
+    "expected_answer": "Sơn Ngọc Minh là cựu thành viên nhóm nhạc V.Music, từng tham gia một số cuộc thi người mẫu và chương trình truyền hình trước khi bị khởi tố, bắt tạm giam vì tham gia đường dây ma túy quy mô lớn.",
+    "expected_context": "article_02.md - Ca sĩ Sơn Ngọc Minh vừa bị bắt vì liên quan đến ma túy là ai?"
+  },
+  {
+    "question": "Theo quy định pháp luật, người sử dụng trái phép chất ma túy có những trách nhiệm gì?",
+    "expected_answer": "Người sử dụng trái phép chất ma túy có trách nhiệm tuân thủ các quy định về quản lý, xét nghiệm, cai nghiện theo yêu cầu của cơ quan có thẩm quyền, đồng thời chịu sự quản lý, giáo dục nhằm phòng ngừa tái sử dụng và hỗ trợ quá trình cai nghiện, hoà nhập cộng đồng.",
+    "expected_context": "Luật Phòng, chống ma túy (120/2025/QH15), Điều 25"
   }
 ]

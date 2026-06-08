@@ -1,0 +1,381 @@
+<!DOCTYPE html>
+<html lang="vi" data-theme="light">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>LuậtMaTuý AI — Tư vấn pháp luật phòng chống ma tuý</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600;700;800&family=IBM+Plex+Sans:wght@300;400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css" />
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>⚖️</text></svg>" />
+</head>
+<body>
+
+<!-- AUTH SCREEN -->
+<div class="auth-screen" id="authScreen">
+  <div class="auth-bg-pattern"></div>
+  <div class="auth-layout">
+
+    <!-- Hero -->
+    <div class="auth-hero">
+      <div class="auth-hero-emblem">
+        <div class="emblem-ring emblem-ring-1"></div>
+        <div class="emblem-ring emblem-ring-2"></div>
+        <div class="emblem-core">⚖</div>
+      </div>
+      <div class="auth-hero-brand">
+        <div class="auth-hero-title">LuậtMaTuý <span class="brand-ai">AI</span></div>
+        <div class="auth-hero-sub">Hệ thống tư vấn pháp luật phòng, chống ma tuý</div>
+      </div>
+      <div class="auth-hero-divider"></div>
+      <p class="auth-hero-desc">
+        Tra cứu và giải đáp các quy định pháp luật liên quan đến phòng chống ma tuý tại Việt Nam — nhanh chóng, chính xác, dựa trên văn bản pháp luật hiện hành.
+      </p>
+      <div class="auth-legal-badges">
+        <div class="legal-badge">
+          <span class="lbadge-icon">📜</span>
+          <span>Luật PCMT 2021</span>
+        </div>
+        <div class="legal-badge">
+          <span class="lbadge-icon">⚖</span>
+          <span>BLHS 2015 (sửa đổi 2017)</span>
+        </div>
+        <div class="legal-badge">
+          <span class="lbadge-icon">🏛</span>
+          <span>Nghị định, Thông tư hướng dẫn</span>
+        </div>
+      </div>
+      <div class="auth-warning-note">
+        <span class="warning-icon">⚠</span>
+        <span>Thông tin mang tính tham khảo. Vui lòng tham vấn luật sư cho vụ việc cụ thể.</span>
+      </div>
+    </div>
+
+    <!-- Form -->
+    <div class="auth-form-panel">
+      <div class="auth-tabs">
+        <button class="auth-tab active" id="tabLogin">Đăng nhập</button>
+        <button class="auth-tab" id="tabRegister">Đăng ký</button>
+      </div>
+
+      <!-- Login -->
+      <div id="loginSection">
+        <h2 class="auth-form-title">Chào mừng trở lại</h2>
+        <p class="auth-form-sub">Đăng nhập vào tài khoản LuậtMaTuý AI</p>
+        <div class="auth-form" id="loginForm">
+          <div class="auth-field">
+            <label class="auth-label" for="loginEmail">Email</label>
+            <input class="auth-input" type="email" id="loginEmail" placeholder="email@example.com" autocomplete="email"/>
+          </div>
+          <div class="auth-field">
+            <label class="auth-label" for="loginPassword">Mật khẩu</label>
+            <div class="auth-pw-wrap">
+              <input class="auth-input" type="password" id="loginPassword" placeholder="••••••••" autocomplete="current-password"/>
+              <button type="button" class="auth-pw-toggle" data-target="loginPassword" aria-label="Hiện mật khẩu">
+                <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M1 12s4-8 11-8 11 8 11 8-4 8-11 8-11-8-11-8z"/><circle cx="12" cy="12" r="3"/></svg>
+              </button>
+            </div>
+          </div>
+          <div class="auth-error" id="loginError"></div>
+          <button class="btn-auth-submit" id="loginSubmit">Đăng nhập</button>
+        </div>
+        <div class="auth-demo-hint">
+          <strong>Tài khoản demo:</strong><br>
+          <code>admin@luatmatuy.vn</code> / <code>admin123</code> — Quản trị viên<br>
+          <code>nguyen@phapluat.vn</code> / <code>demo123</code> — Người dùng
+        </div>
+      </div>
+
+      <!-- Register -->
+      <div id="registerSection" style="display:none;">
+        <h2 class="auth-form-title">Tạo tài khoản</h2>
+        <p class="auth-form-sub">Bắt đầu tra cứu pháp luật ma tuý ngay hôm nay</p>
+        <div class="auth-form" id="registerForm">
+          <div class="auth-field">
+            <label class="auth-label" for="regName">Họ và tên</label>
+            <input class="auth-input" type="text" id="regName" placeholder="Nguyễn Văn A" autocomplete="name"/>
+          </div>
+          <div class="auth-field">
+            <label class="auth-label" for="regEmail">Email</label>
+            <input class="auth-input" type="email" id="regEmail" placeholder="email@example.com" autocomplete="email"/>
+          </div>
+          <div class="auth-field">
+            <label class="auth-label" for="regPassword">Mật khẩu</label>
+            <div class="auth-pw-wrap">
+              <input class="auth-input" type="password" id="regPassword" placeholder="Tối thiểu 6 ký tự" autocomplete="new-password"/>
+              <button type="button" class="auth-pw-toggle" data-target="regPassword" aria-label="Hiện mật khẩu">
+                <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M1 12s4-8 11-8 11 8 11 8-4 8-11 8-11-8-11-8z"/><circle cx="12" cy="12" r="3"/></svg>
+              </button>
+            </div>
+          </div>
+          <div class="auth-field">
+            <label class="auth-label" for="regConfirm">Xác nhận mật khẩu</label>
+            <input class="auth-input" type="password" id="regConfirm" placeholder="Nhập lại mật khẩu" autocomplete="new-password"/>
+          </div>
+          <div class="auth-error" id="registerError"></div>
+          <button class="btn-auth-submit" id="registerSubmit">Tạo tài khoản</button>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- Overlay -->
+<div class="overlay" id="overlay"></div>
+
+<!-- SIDEBAR -->
+<aside class="sidebar" id="sidebar">
+  <div class="sidebar-header">
+    <a href="#" class="logo">
+      <div class="logo-icon">⚖</div>
+      <div class="logo-text">
+        <span class="logo-name">LuậtMaTuý AI</span>
+        <span class="logo-tagline">Tư vấn pháp luật</span>
+      </div>
+    </a>
+    <button class="btn-new-chat" id="newChatBtn">
+      <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5">
+        <line x1="12" y1="5" x2="12" y2="19"/><line x1="5" y1="12" x2="19" y2="12"/>
+      </svg>
+      <span>Cuộc hội thoại mới</span>
+    </button>
+  </div>
+
+  <div class="sidebar-topics">
+    <div class="topics-label">Chủ đề nhanh</div>
+    <div class="topic-chips">
+      <button class="topic-chip" data-suggest="Các hành vi bị cấm trong Luật Phòng chống ma tuý 2021 là gì?">Hành vi bị cấm</button>
+      <button class="topic-chip" data-suggest="Mức phạt tù cho tội tàng trữ ma tuý theo BLHS 2015?">Tàng trữ ma tuý</button>
+      <button class="topic-chip" data-suggest="Quy trình cai nghiện bắt buộc theo pháp luật Việt Nam?">Cai nghiện bắt buộc</button>
+      <button class="topic-chip" data-suggest="Trách nhiệm pháp lý khi mua bán ma tuý với số lượng lớn?">Mua bán ma tuý</button>
+      <button class="topic-chip" data-suggest="Phân loại các chất ma tuý và tiền chất ma tuý theo quy định pháp luật?">Phân loại ma tuý</button>
+      <button class="topic-chip" data-suggest="Chính sách hỗ trợ người sau cai nghiện tái hoà nhập cộng đồng?">Tái hoà nhập</button>
+    </div>
+  </div>
+
+  <div class="history-section">
+    <div class="history-label">Lịch sử hội thoại</div>
+    <div id="historyList"></div>
+  </div>
+
+  <div class="sidebar-footer">
+    <div class="law-refs-label">Văn bản pháp luật tham chiếu</div>
+    <div class="law-refs">
+      <div class="law-ref-item">Luật PCMT số 73/2021/QH14</div>
+      <div class="law-ref-item">BLHS 2015 – Chương XX</div>
+      <div class="law-ref-item">NĐ 105/2021/NĐ-CP</div>
+      <div class="law-ref-item">TT 48/2015/TT-BYT</div>
+    </div>
+  </div>
+</aside>
+
+<!-- MAIN -->
+<main class="main">
+
+  <header class="topbar">
+    <div class="topbar-left">
+      <button class="btn-sidebar-toggle" id="sidebarToggle" aria-label="Toggle sidebar">
+        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+          <line x1="3" y1="6" x2="21" y2="6"/><line x1="3" y1="12" x2="21" y2="12"/><line x1="3" y1="18" x2="21" y2="18"/>
+        </svg>
+      </button>
+      <div class="topbar-brand">
+        <span class="topbar-icon">⚖</span>
+        <span class="session-title">Tư vấn Pháp luật Ma tuý</span>
+      </div>
+    </div>
+    <div class="topbar-right">
+      <div class="status-indicator">
+        <div class="status-dot-live"></div>
+        <span>Đang hoạt động</span>
+      </div>
+      <!-- User button -->
+      <div class="topbar-user-wrap" id="topbarUserWrap">
+        <button class="topbar-user-btn" id="topbarUserBtn">
+          <div class="topbar-user-avatar" id="topbarAvatar">U</div>
+          <span class="topbar-user-name" id="topbarName">Người dùng</span>
+          <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="6 9 12 15 18 9"/></svg>
+        </button>
+        <div class="user-dropdown" id="userDropdown">
+          <div class="dropdown-header">
+            <div class="dropdown-avatar" id="dropdownAvatar">U</div>
+            <div class="dropdown-info">
+              <div class="dropdown-name" id="dropdownName">Người dùng</div>
+              <div class="dropdown-email" id="dropdownEmail">user@example.com</div>
+              <span class="role-badge" id="dropdownRoleBadge">User</span>
+            </div>
+          </div>
+          <div class="dropdown-divider"></div>
+          <button class="dropdown-item admin-only" id="userMgmtBtn">
+            <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"/><circle cx="9" cy="7" r="4"/><path d="M23 21v-2a4 4 0 0 0-3-3.87"/><path d="M16 3.13a4 4 0 0 1 0 7.75"/></svg>
+            Quản lý người dùng
+          </button>
+          <button class="dropdown-item" id="settingsBtn">
+            <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="3"/><path d="M19.4 15a1.65 1.65 0 0 0 .33 1.82l.06.06a2 2 0 0 1-2.83 2.83l-.06-.06a1.65 1.65 0 0 0-1.82-.33 1.65 1.65 0 0 0-1 1.51V21a2 2 0 0 1-4 0v-.09A1.65 1.65 0 0 0 9 19.4a1.65 1.65 0 0 0-1.82.33l-.06.06a2 2 0 0 1-2.83-2.83l.06-.06A1.65 1.65 0 0 0 4.68 15a1.65 1.65 0 0 0-1.51-1H3a2 2 0 0 1 0-4h.09A1.65 1.65 0 0 0 4.6 9a1.65 1.65 0 0 0-.33-1.82l-.06-.06a2 2 0 0 1 2.83-2.83l.06.06A1.65 1.65 0 0 0 9 4.68a1.65 1.65 0 0 0 1-1.51V3a2 2 0 0 1 4 0v.09a1.65 1.65 0 0 0 1 1.51 1.65 1.65 0 0 0 1.82-.33l.06-.06a2 2 0 0 1 2.83 2.83l-.06.06A1.65 1.65 0 0 0 19.4 9a1.65 1.65 0 0 0 1.51 1H21a2 2 0 0 1 0 4h-.09a1.65 1.65 0 0 0-1.51 1z"/></svg>
+            Cài đặt
+          </button>
+          <div class="dropdown-divider"></div>
+          <button class="dropdown-item danger" id="logoutBtn">
+            <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M9 21H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h4"/><polyline points="16 17 21 12 16 7"/><line x1="21" y1="12" x2="9" y2="12"/></svg>
+            Đăng xuất
+          </button>
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <!-- Chat area -->
+  <div class="chat-area" id="chatArea">
+
+    <!-- Welcome screen -->
+    <div class="welcome-screen" id="welcomeScreen">
+      <div class="welcome-emblem">
+        <div class="we-ring we-ring-1"></div>
+        <div class="we-ring we-ring-2"></div>
+        <div class="we-core">⚖</div>
+      </div>
+      <h1 class="welcome-title">LuậtMaTuý <em>AI</em></h1>
+      <p class="welcome-sub">Hệ thống tư vấn pháp luật phòng, chống ma tuý Việt Nam.<br>Đặt câu hỏi để được giải đáp dựa trên văn bản pháp luật hiện hành.</p>
+
+      <div class="suggestion-grid">
+        <div class="suggestion-card" data-suggest="Tội vận chuyển trái phép chất ma tuý bị xử lý như thế nào theo Bộ luật Hình sự?">
+          <div class="sc-num">01</div>
+          <div class="sc-icon">🚔</div>
+          <div class="sc-title">Vận chuyển ma tuý</div>
+          <div class="sc-desc">Tội danh và khung hình phạt theo BLHS</div>
+        </div>
+        <div class="suggestion-card" data-suggest="Người nghiện ma tuý có quyền và nghĩa vụ gì theo Luật Phòng chống ma tuý 2021?">
+          <div class="sc-num">02</div>
+          <div class="sc-icon">📋</div>
+          <div class="sc-title">Quyền người nghiện</div>
+          <div class="sc-desc">Quy định về quyền và nghĩa vụ pháp lý</div>
+        </div>
+        <div class="suggestion-card" data-suggest="Hành vi sử dụng ma tuý lần đầu bị xử phạt hành chính như thế nào?">
+          <div class="sc-num">03</div>
+          <div class="sc-icon">📝</div>
+          <div class="sc-title">Xử phạt hành chính</div>
+          <div class="sc-desc">Mức phạt khi sử dụng ma tuý lần đầu</div>
+        </div>
+        <div class="suggestion-card" data-suggest="Điều kiện và thủ tục để được cai nghiện tự nguyện tại cơ sở cai nghiện theo quy định pháp luật?">
+          <div class="sc-num">04</div>
+          <div class="sc-icon">🏥</div>
+          <div class="sc-title">Cai nghiện tự nguyện</div>
+          <div class="sc-desc">Điều kiện và thủ tục cai nghiện tự nguyện</div>
+        </div>
+      </div>
+
+      <div class="welcome-chips">
+        <span class="wchip wchip-red">⚠ Chỉ mang tính tham khảo</span>
+        <span class="wchip wchip-blue">📜 Cập nhật theo luật mới nhất</span>
+        <span class="wchip wchip-gold">🏛 Dựa trên văn bản chính thức</span>
+      </div>
+    </div>
+
+    <div class="messages-container" id="messagesContainer" style="display:none;"></div>
+  </div>
+
+  <!-- Input area -->
+  <div class="input-area">
+    <div class="input-wrap">
+      <div class="input-box">
+        <div class="input-prefix">
+          <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><line x1="12" y1="8" x2="12" y2="12"/><line x1="12" y1="16" x2="12.01" y2="16"/></svg>
+        </div>
+        <textarea id="msgInput" rows="1"
+          placeholder="Đặt câu hỏi về pháp luật ma tuý… (vd: Hình phạt cho tội mua bán ma tuý là gì?)"
+          aria-label="Nhập câu hỏi"></textarea>
+        <div class="input-actions">
+          <button class="btn-send" id="sendBtn" disabled aria-label="Gửi">
+            <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5">
+              <line x1="22" y1="2" x2="11" y2="13"/><polygon points="22 2 15 22 11 13 2 9 22 2"/>
+            </svg>
+          </button>
+        </div>
+      </div>
+      <div class="input-footer">
+        <span>⚠ Thông tin chỉ mang tính tham khảo, không thay thế tư vấn pháp lý chính thức.</span>
+        <span class="input-footer-hint">Enter để gửi · Shift+Enter xuống dòng</span>
+      </div>
+    </div>
+  </div>
+</main>
+
+<!-- USER MANAGEMENT PANEL -->
+<div class="settings-backdrop" id="userMgmtBackdrop"></div>
+<aside class="usermgmt-panel" id="userMgmtPanel" aria-label="Quản lý người dùng">
+  <div class="usermgmt-header">
+    <div class="usermgmt-title">
+      <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+        <path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"/><circle cx="9" cy="7" r="4"/>
+        <path d="M23 21v-2a4 4 0 0 0-3-3.87"/><path d="M16 3.13a4 4 0 0 1 0 7.75"/>
+      </svg>
+      <span>Quản lý người dùng</span>
+    </div>
+    <div class="usermgmt-actions">
+      <button class="btn-add-user" id="addUserBtn">
+        <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5">
+          <line x1="12" y1="5" x2="12" y2="19"/><line x1="5" y1="12" x2="19" y2="12"/>
+        </svg>
+        Thêm người dùng
+      </button>
+      <button class="settings-close" id="userMgmtClose" aria-label="Đóng">✕</button>
+    </div>
+  </div>
+  <div class="usermgmt-body">
+    <div class="usermgmt-stats" id="userMgmtStats"></div>
+    <div class="usermgmt-search">
+      <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" style="color:var(--text-muted);flex-shrink:0">
+        <circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/>
+      </svg>
+      <input type="text" id="userSearchInput" placeholder="Tìm theo tên hoặc email…"/>
+    </div>
+    <div id="userFormCard" class="user-form-card" style="display:none;"></div>
+    <div id="userList" class="user-list"></div>
+  </div>
+</aside>
+
+<!-- SETTINGS PANEL -->
+<div class="settings-backdrop" id="settingsBackdrop"></div>
+<aside class="settings-panel" id="settingsPanel" aria-label="Cài đặt">
+  <div class="settings-header">
+    <div class="settings-title">
+      <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+        <circle cx="12" cy="12" r="3"/>
+        <path d="M19.4 15a1.65 1.65 0 0 0 .33 1.82l.06.06a2 2 0 0 1-2.83 2.83l-.06-.06a1.65 1.65 0 0 0-1.82-.33 1.65 1.65 0 0 0-1 1.51V21a2 2 0 0 1-4 0v-.09A1.65 1.65 0 0 0 9 19.4a1.65 1.65 0 0 0-1.82.33l-.06.06a2 2 0 0 1-2.83-2.83l.06-.06A1.65 1.65 0 0 0 4.68 15a1.65 1.65 0 0 0-1.51-1H3a2 2 0 0 1 0-4h.09A1.65 1.65 0 0 0 4.6 9a1.65 1.65 0 0 0-.33-1.82l-.06-.06a2 2 0 0 1 2.83-2.83l.06.06A1.65 1.65 0 0 0 9 4.68a1.65 1.65 0 0 0 1-1.51V3a2 2 0 0 1 4 0v.09a1.65 1.65 0 0 0 1 1.51 1.65 1.65 0 0 0 1.82-.33l.06-.06a2 2 0 0 1 2.83 2.83l-.06.06A1.65 1.65 0 0 0 19.4 9a1.65 1.65 0 0 0 1.51 1H21a2 2 0 0 1 0 4h-.09a1.65 1.65 0 0 0-1.51 1z"/>
+      </svg>
+      <span>Cài đặt</span>
+    </div>
+    <button class="settings-close" id="settingsClose" aria-label="Đóng">✕</button>
+  </div>
+  <div class="settings-body">
+    <section>
+      <div class="settings-section-label">Giao diện</div>
+      <div class="theme-options">
+        <button class="theme-opt" data-theme-val="dark">
+          <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/></svg>
+          <span>Tối</span>
+        </button>
+        <button class="theme-opt" data-theme-val="light">
+          <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+            <circle cx="12" cy="12" r="5"/>
+            <line x1="12" y1="1" x2="12" y2="3"/><line x1="12" y1="21" x2="12" y2="23"/>
+            <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"/><line x1="18.36" y1="18.36" x2="19.78" y2="19.78"/>
+            <line x1="1" y1="12" x2="3" y2="12"/><line x1="21" y1="12" x2="23" y2="12"/>
+            <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"/><line x1="18.36" y1="5.64" x2="19.78" y2="4.22"/>
+          </svg>
+          <span>Sáng</span>
+        </button>
+        <button class="theme-opt" data-theme-val="system">
+          <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+            <rect x="2" y="3" width="20" height="14" rx="2"/><line x1="8" y1="21" x2="16" y2="21"/><line x1="12" y1="17" x2="12" y2="21"/>
+          </svg>
+          <span>Hệ thống</span>
+        </button>
+      </div>
+    </section>
+  </div>
+</aside>
+
+<script src="app.js"></script>
+</body>
+</html>
