@@ -219,7 +219,7 @@ function loadSession(session) {
   state.activeSession=session.id; state.chatStarted=true;
   welcomeScr.style.display='none'; msgContainer.style.display='';
   msgContainer.innerHTML='';
-  addMessage('user',`Cho tôi biết về: ${escapeHTML(session.title)}`);
+  addMessage('user',`Cho tôi biết về: ${escapeHTML(session.title)}`,`Cho tôi biết về: ${session.title}`);
   setTimeout(()=>callChatAPI(`Cho tôi biết về: ${session.title}`),300);
   buildHistory(); closeSidebar();
 }
@@ -229,7 +229,7 @@ function sendMessage() {
   const text=textarea.value.trim();
   if(!text||state.isTyping)return;
   if(!state.chatStarted){ state.chatStarted=true; welcomeScr.style.display='none'; msgContainer.style.display=''; }
-  addMessage('user',escapeHTML(text));
+  addMessage('user',escapeHTML(text),text);
   textarea.value=''; sendBtn.disabled=true; autoResize(textarea);
   callChatAPI(text);
 }
@@ -240,15 +240,32 @@ function sendMessage() {
 // Space sau khi deploy (xem .github/workflows/deploy-backend.yml).
 const API_BASE = 'http://localhost:8000';
 
+// session_id ổn định cho mỗi trình duyệt -> backend giữ conversation memory để
+// hỗ trợ follow-up (xem group_project/app.py).
+function getSessionId() {
+  let sid = localStorage.getItem('luatmatuy-session-id');
+  if (!sid) {
+    sid = 'sess-' + Date.now().toString(36) + '-' + Math.random().toString(36).slice(2, 8);
+    localStorage.setItem('luatmatuy-session-id', sid);
+  }
+  return sid;
+}
+
 async function callChatAPI(userText) {
   state.isTyping=true;
   const typingRow=showTyping();
+
+  // Gửi kèm vài lượt gần nhất làm history để backend hiểu ngữ cảnh follow-up.
+  const history = state.messages
+    .slice(-6)
+    .map(m => ({ role: m.role, content: m.rawText || '' }))
+    .filter(m => m.content);
 
   try {
     const response = await fetch(`${API_BASE}/chat`, {
       method:'POST',
       headers:{'Content-Type':'application/json'},
-      body: JSON.stringify({ query: userText })
+      body: JSON.stringify({ query: userText, session_id: getSessionId(), history })
     });
 
     if (!response.ok) throw new Error(`HTTP ${response.status}`);

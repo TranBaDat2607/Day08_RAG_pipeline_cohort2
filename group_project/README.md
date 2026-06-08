@@ -277,11 +277,20 @@ Hệ thống gồm 2 luồng:
 ### Khoảng trống cần hoàn thiện (glue layer)
 
 - [x] **Dựng index trước:** `python -m group_project.ingestion.run_pipeline` (Nguyễn Thành Đạt — FAISS tại `group_project/data/faiss/`).
-- [ ] **Backend `group_project/app.py` (FastAPI):** endpoint `POST /chat` bọc
-      `task9.retrieve` + `task10.generate_with_citation`; nạp model/collection 1 lần khi khởi động.
-- [ ] **Conversation memory:** lưu lịch sử theo session để hỗ trợ follow-up.
-- [ ] **Nối frontend:** sửa `web/app.js` để `fetch('/chat')` thay cho dữ liệu mock localStorage,
-      và render `answer` + `sources`.
+- [x] **Pipeline merge (`group_project/core/`):** Task 5–10 của bài cá nhân (Trần Bá Đạt) được
+      port sang dùng vector store FAISS chung — `core/task5..task10`. Entry point: `core.task9.retrieve`
+      và `core.task10.generate_with_citation`.
+- [x] **Backend `group_project/app.py` (FastAPI):** endpoint `POST /chat` bọc
+      `core.task9.retrieve` + `core.task10.generate_with_citation`; warm-up model/FAISS store 1 lần khi
+      khởi động; phục vụ luôn UI tĩnh ở `web/` tại `/`.
+- [x] **Conversation memory:** lưu lịch sử theo `session_id` ở backend (`SESSIONS`) + ghép ngữ cảnh
+      câu hỏi trước vào query để hỗ trợ follow-up (không đổi contract Task 9/10).
+- [x] **Nối frontend:** `web/app.js` gọi `fetch('/chat')` (kèm `session_id` + `history`) và render
+      `answer` + `sources` (`formatSources` đọc `source`/`score` do backend trả về).
+
+> **Cho người làm Evaluation:** import pipeline qua
+> `from group_project.core.task10_generation import generate_with_citation` — trả về
+> `{ "answer", "sources": [{"content","score","metadata"}], "retrieval_source" }`.
 
 ---
 
@@ -289,7 +298,7 @@ Hệ thống gồm 2 luồng:
 
 | Thành viên | MSSV       | Nhiệm vụ                                             | Trạng thái |
 |----------|------------|------------------------------------------------------|------------|
-|Trần Bá Đạt| 2A202600778 | Implement search -> retrival pipeline and merge code | |
+|Trần Bá Đạt| 2A202600778 | Implement search -> retrival pipeline and merge code (`group_project/core/` + `app.py`) | ✅ |
 |Nguyễn Thành Đạt|2A202600771 | Data collection → chunking + **FAISS** index | ✅ |
 |Nguyễn Thị Bảo Trân|2A202600917| UI/UX + Create a evaluation data set and testing     | |
 
@@ -337,10 +346,22 @@ results = faiss_search("hình phạt tàng trữ ma tuý", top_k=5)
 # Cài đặt dependencies
 pip install -r requirements.txt
 
-# Chạy app
-streamlit run app.py
-# hoặc
-chainlit run app.py
+# Chạy backend FastAPI (bọc Task 9 + Task 10) + phục vụ UI tĩnh web/
+uvicorn group_project.app:app --reload --port 8000
+# rồi mở http://localhost:8000  (đăng nhập tài khoản demo trong web/app.js)
+
+# Thử nhanh API:
+curl -X POST http://localhost:8000/chat \
+  -H "Content-Type: application/json" \
+  -d '{"query": "Hình phạt tội tàng trữ trái phép chất ma tuý?"}'
+```
+
+**Thử từng module pipeline (chạy từ repo root):**
+```bash
+python -m group_project.core.task5_semantic_search    # dense (FAISS)
+python -m group_project.core.task6_lexical_search     # BM25 (+ TF-IDF bonus)
+python -m group_project.core.task9_retrieval_pipeline # hybrid + fallback
+python -m group_project.core.task10_generation        # generation (cần OPENAI_API_KEY)
 ```
 
 ---
