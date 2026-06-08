@@ -67,3 +67,4 @@ Thumbs.db
 desktop.ini
 .claude/
 .deepeval/
+data/chroma_db/*
