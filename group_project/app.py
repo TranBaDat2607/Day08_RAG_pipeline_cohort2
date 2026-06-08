@@ -12,8 +12,9 @@ Sau đó mở http://localhost:8000 — backend phục vụ luôn UI tĩnh ở g
 
 Luồng một lượt /chat:
     UI POST { query, session_id?, history? }
-      -> (nếu có history/memory) ghép ngữ cảnh hội thoại vào query để hỗ trợ follow-up
-      -> generate_with_citation(query)  [Task 10 -> Task 9 hybrid + fallback PageIndex]
+      -> chat_agent.chat(query, history)  [tool calling: tự định tuyến RAG vs chat thường]
+            • câu hỏi pháp luật ma tuý -> gọi tool -> Task 9 hybrid + Task 10 generation
+            • câu xã giao / ngoài phạm vi -> LLM trả lời trực tiếp (không RAG)
       -> trả { answer, sources, retrieval_source }
 """
 
@@ -27,15 +28,14 @@ from fastapi.middleware.cors import CORSMiddleware
 from fastapi.staticfiles import StaticFiles
 from pydantic import BaseModel
 
-from .core.task10_generation import generate_with_citation
+from .core.chat_agent import chat as agent_chat
 
 WEB_DIR = Path(__file__).resolve().parent / "web"
 
-# Conversation memory đơn giản, lưu theo session_id ở tầng backend (KHÔNG đổi
-# contract Task 9/10). Mỗi entry là list các lượt {"role", "content"}.
+# Conversation memory đơn giản, lưu theo session_id ở tầng backend (dự phòng khi
+# client không gửi history). Mỗi entry là một lượt {"role": "user"|"ai", "content"}.
 SESSIONS: dict[str, list[dict]] = {}
-_MAX_TURNS = 6          # số lượt gần nhất giữ lại cho mỗi session
-_MAX_HISTORY_CTX = 4    # số lượt đưa vào ngữ cảnh khi rewrite query follow-up
+_MAX_TURNS = 8          # số lượt gần nhất giữ lại cho mỗi session
 
 
 @asynccontextmanager
@@ -73,34 +73,16 @@ class ChatRequest(BaseModel):
     history: list[dict] | None = None  # [{"role": "user"|"ai", "content": str}, ...]
 
 
-def _recent_user_turns(session_id: str | None, history: list[dict] | None) -> list[str]:
-    """Gộp lịch sử client gửi lên + memory backend, lấy các câu hỏi user gần nhất."""
-    turns: list[dict] = []
-    if session_id and session_id in SESSIONS:
-        turns.extend(SESSIONS[session_id])
-    if history:
-        turns.extend(history)
-    user_msgs = [
-        (t.get("content") or "").strip()
-        for t in turns
-        if (t.get("role") in ("user",)) and (t.get("content") or "").strip()
-    ]
-    return user_msgs[-_MAX_HISTORY_CTX:]
-
-
-def _contextualize(query: str, prior_user_msgs: list[str]) -> str:
+def _history_for_agent(session_id: str | None, history: list[dict] | None, query: str) -> list[dict]:
     """
-    Hỗ trợ follow-up: ghép các câu hỏi trước vào query để retrieval hiểu ngữ cảnh
-    (vd "thế còn hình phạt thì sao?" cần biết đang nói về tội gì). Giữ nguyên contract
-    Task 9/10 — chỉ làm giàu chuỗi query đầu vào.
+    Lịch sử hội thoại đưa cho agent. Ưu tiên history client gửi; nếu không có thì
+    dùng memory backend theo session. Bỏ lượt user cuối nếu trùng đúng câu hỏi hiện
+    tại (UI đã thêm nó vào history trước khi gọi) để không lặp.
     """
-    if not prior_user_msgs:
-        return query
-    ctx = "\n".join(f"- {m}" for m in prior_user_msgs)
-    return (
-        f"Bối cảnh các câu hỏi trước trong hội thoại:\n{ctx}\n\n"
-        f"Câu hỏi hiện tại: {query}"
-    )
+    turns = list(history) if history else list(SESSIONS.get(session_id or "", []))
+    if turns and turns[-1].get("role") == "user" and (turns[-1].get("content") or "").strip() == query:
+        turns = turns[:-1]
+    return turns[-_MAX_TURNS:]
 
 
 def _shape_sources(sources: list[dict]) -> list[dict]:
@@ -147,15 +129,14 @@ def chat(req: ChatRequest) -> dict:
             "retrieval_source": "none",
         }
 
-    # Follow-up: ghép ngữ cảnh các câu hỏi trước (client history + memory backend).
-    # Bỏ lượt trùng đúng với câu hỏi hiện tại (UI đã thêm nó vào history trước khi gọi).
-    prior = [m for m in _recent_user_turns(req.session_id, req.history) if m != query]
-    effective_query = _contextualize(query, prior)
+    # Agent tự định tuyến: gọi tool RAG khi là câu hỏi pháp luật, hoặc trả lời
+    # hội thoại thường. History giúp xử lý follow-up tự nhiên.
+    history = _history_for_agent(req.session_id, req.history, query)
 
     try:
-        result = generate_with_citation(effective_query)
+        result = agent_chat(query, history=history)
     except Exception as e:  # noqa: BLE001 — không để lỗi LLM/retrieval làm sập API
-        print(f"[/chat] Lỗi generate: {e}")
+        print(f"[/chat] Lỗi agent: {e}")
         return {
             "answer": "Có lỗi xảy ra khi xử lý câu hỏi. Vui lòng thử lại.",
             "sources": [],
