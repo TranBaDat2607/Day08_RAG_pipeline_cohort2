@@ -1,0 +1,999 @@
+{
+  "n_cases": 18,
+  "configs": {
+    "A_hybrid_rerank": {
+      "label": "Hybrid (semantic ∥ lexical) + RRF + MMR rerank",
+      "label_short": "hybrid rerank",
+      "agg": {
+        "faithfulness": {
+          "avg": 0.81005291005291,
+          "pass_rate": 0.7222222222222222,
+          "n": 18
+        },
+        "answer_relevancy": {
+          "avg": 0.9027777777777778,
+          "pass_rate": 0.8333333333333334,
+          "n": 18
+        },
+        "context_recall": {
+          "avg": 0.9652777777777778,
+          "pass_rate": 0.9444444444444444,
+          "n": 18
+        },
+        "context_precision": {
+          "avg": 0.9046296296296297,
+          "pass_rate": 0.8888888888888888,
+          "n": 18
+        },
+        "overall_avg": 0.8956845238095238
+      },
+      "cases": [
+        {
+          "question": "Hình phạt cho tội tàng trữ trái phép chất ma tuý theo Điều 249 Bộ luật Hình sự là gì?",
+          "expected_answer": "Theo Điều 249 Bộ luật Hình sự 2015 (sửa đổi, bổ sung 2025), người nào tàng trữ trái phép chất ma tuý mà không nhằm mục đích mua bán, vận chuyển, sản xuất thì ở khung cơ bản (khoản 1) bị phạt tù từ 3 năm đến 5 năm. Nếu có tình tiết tăng nặng, mức án có thể tăng lên 5-10 năm, 10-15 năm, 15-20 năm hoặc tù chung thân.",
+          "expected_context": "Bộ luật Hình sự 2015 (sửa đổi 2025), Điều 249 — trích trong bài báo Báo Quảng Ninh",
+          "answer": "Theo Điều 249 Bộ luật Hình sự năm 2015 (sửa đổi, bổ sung 2025), hình phạt cho tội tàng trữ trái phép chất ma túy được quy định như sau: người nào tàng trữ trái phép chất ma túy mà không nhằm mục đích mua bán, vận chuyển, sản xuất trái phép chất ma túy sẽ bị phạt tù từ 3 năm đến 5 năm [Document 5]. \n\nNgoài hình phạt tù, người phạm tội còn có thể bị phạt tiền từ 5 triệu đồng đến 500 triệu đồng, cấm đảm nhiệm chức vụ, cấm hành nghề hoặc làm công việc nhất định từ 1 năm đến 5 năm, hoặc tịch thu một phần hoặc toàn bộ tài sản [Document 5].",
+          "retrieval_source": "hybrid",
+          "num_chunks": 5,
+          "scores": {
+            "faithfulness": {
+              "score": 0.4,
+              "reason": "The score is 0.40 because the actual output includes additional penalties such as fines, bans from professions, and asset confiscation, which are not mentioned in the retrieval context that only discusses imprisonment terms."
+            },
+            "answer_relevancy": {
+              "score": 0.8333333333333334,
+              "reason": "The score is 0.83 because while the response provided relevant information about penalties, it included an irrelevant statement regarding asset confiscation that did not directly address the specific punishment for drug possession under Article 249 of the Penal Code."
+            },
+            "context_recall": {
+              "score": 1.0,
+              "reason": "The score is 1.00 because the expected output perfectly aligns with the information provided in the 2nd node of the retrieval context, specifically referencing 'Điều 249 Bộ luật Hình sự 2015' and discussing penalties for drug possession."
+            },
+            "context_precision": {
+              "score": 1.0,
+              "reason": "The score is 1.00 because the relevant nodes are ranked higher than the irrelevant nodes. The first node provides a direct answer by stating that 'Hành vi tàng trữ trái phép chất ma túy được pháp luật quy định cụ thể tại Điều 249 Bộ luật Hình sự 2015 (sửa đổi, bổ sung 2025)' and details the penalty range of 'phạt tù từ 3 năm đến 5 năm'. The second node further elaborates on the penalties, confirming that 'người nào tàng trữ trái phép chất ma túy mà không nhằm mục đích mua bán, vận chuyển, sản xu"
+            }
+          }
+        },
+        {
+          "question": "Tội mua bán trái phép chất ma tuý theo Điều 251 bị xử lý như thế nào?",
+          "expected_answer": "Theo Điều 251 Bộ luật Hình sự 2015 (sửa đổi 2025), tội mua bán trái phép chất ma tuý ở khung cơ bản bị phạt tù từ 3 năm đến 7 năm. Nếu có tình tiết tăng nặng (phạm tội có tổ chức, số lượng lớn, qua biên giới...), mức án có thể tăng lên 7-15 năm, 15-20 năm, tù chung thân hoặc tử hình. Ngoài ra còn có thể bị phạt tiền từ 5 triệu đến 500 triệu đồng.",
+          "expected_context": "Bộ luật Hình sự 2015 (sửa đổi 2025), Điều 251",
+          "answer": "Tội mua bán trái phép chất ma túy được quy định tại Điều 251 của Bộ luật Hình sự 2015, sửa đổi bởi khoản 18 Điều 1 Luật sửa đổi Bộ luật Hình sự 2025. Theo quy định này, người phạm tội có thể bị phạt tù từ 3 năm đến 7 năm ở khung cơ bản [Document 1 | Source: article_03.md]. \n\nNgoài ra, tội mua bán trái phép chất ma túy được coi là một trong những tội phạm đặc biệt nghiêm trọng, vì vậy chính sách xử lý đối với hành vi này rất nặng nề [Document 1 | Source: article_03.md]. \n\nNếu có thêm thông tin cụ thể về các hình phạt bổ sung hoặc các tình tiết tăng nặng, tôi không thể xác minh thông tin này từ nguồn hiện có.",
+          "retrieval_source": "hybrid",
+          "num_chunks": 5,
+          "scores": {
+            "faithfulness": {
+              "score": 0.8,
+              "reason": "The score is 0.80 because the actual output incorrectly states that Điều 251 of the Penal Code 2015 was amended by Clause 18 of Article 1 of the 2025 Amending Law, which is not supported by the retrieval context."
+            },
+            "answer_relevancy": {
+              "score": 0.8333333333333334,
+              "reason": "The score is 0.83 because while the response provided relevant information about the punishment for drug trafficking, it included an irrelevant statement regarding the inability to verify additional penalties, which detracted from the focus on the main question."
+            },
+            "context_recall": {
+              "score": 1.0,
+              "reason": "The score is 1.00 because every aspect of the expected output is fully supported by the information in node 2 of the retrieval context, confirming the accuracy and relevance of the details regarding penalties for drug trafficking."
+            },
+            "context_precision": {
+              "score": 1.0,
+              "reason": "The score is 1.00 because all relevant nodes are ranked higher than the irrelevant nodes. The first node provides a direct answer regarding penalties for drug trafficking, stating that 'đối với hành vi mua bán trái phép chất ma túy, đây là một trong những tội phạm đặc biệt nghiêm trọng' and the second node reinforces this by mentioning 'hình phạt tử hình chỉ áp dụng với ba loại tội phạm về ma túy'. In contrast, the third node discusses drug classification, the fourth focuses on family responsibi"
+            }
+          }
+        },
+        {
+          "question": "Mức hình phạt cho tội tổ chức sử dụng trái phép chất ma tuý theo Điều 255 là bao nhiêu?",
+          "expected_answer": "Theo Điều 255 Bộ luật Hình sự 2015 (sửa đổi 2025), tội tổ chức sử dụng trái phép chất ma tuý có mức hình phạt thấp nhất là 3 năm tù giam và cao nhất lên đến 20 năm tù hoặc tù chung thân. Người phạm tội còn có thể bị phạt tiền từ 50 triệu đến 500 triệu đồng.",
+          "expected_context": "Bộ luật Hình sự 2015 (sửa đổi 2025), Điều 255",
+          "answer": "Mức hình phạt cho tội tổ chức sử dụng trái phép chất ma túy theo Điều 255 Bộ luật Hình sự 2015 sửa đổi bởi khoản 19 Điều 1 Luật sửa đổi Bộ luật Hình sự 2025 là từ 3 năm tù giam đến 20 năm tù giam hoặc tù chung thân. Ngoài ra, người phạm tội còn có thể bị phạt tiền từ 50 triệu đồng đến 500 triệu đồng, phạt quản chế, cấm cư trú từ 1 năm đến 5 năm hoặc tịch thu một phần hoặc toàn bộ tài sản [Document 1].",
+          "retrieval_source": "hybrid",
+          "num_chunks": 5,
+          "scores": {
+            "faithfulness": {
+              "score": 0.6666666666666666,
+              "reason": "The score is 0.67 because the actual output inaccurately states the penalty for organizing illegal drug use without referencing the amendments from the 2025 law, leading to a lack of alignment with the retrieval context."
+            },
+            "answer_relevancy": {
+              "score": 1.0,
+              "reason": "The score is 1.00 because the response directly addresses the question about the penalties for organizing the illegal use of drugs under Article 255 without any irrelevant statements."
+            },
+            "context_recall": {
+              "score": 1.0,
+              "reason": "The score is 1.00 because all elements of the expected output are directly supported by the information in node 1 of the retrieval context, confirming a perfect alignment."
+            },
+            "context_precision": {
+              "score": 1.0,
+              "reason": "The score is 1.00 because the first node provides a clear and direct answer to the question regarding the punishment for organizing illegal drug use, stating that 'Mức hình phạt thấp nhất là 3 năm tù giam và cao nhất lên đến 20 năm tù giam hoặc tù chung thân.' The subsequent nodes, ranked lower, do not address the specific punishment, with the second node discussing severity without specifics, the third focusing on family responsibilities, the fourth on drug weights, and the fifth providing hist"
+            }
+          }
+        },
+        {
+          "question": "Người sử dụng trái phép chất ma tuý lần đầu nhưng chưa đến mức truy cứu hình sự bị xử phạt ra sao?",
+          "expected_answer": "Đối với hành vi sử dụng trái phép chất ma tuý lần đầu nhưng chưa đến mức bị truy cứu trách nhiệm hình sự, theo Nghị định 282/2025/NĐ-CP người vi phạm có thể bị phạt cảnh cáo hoặc phạt tiền từ 1 triệu đến 2 triệu đồng, có thể bị tịch thu tang vật và áp dụng biện pháp cai nghiện tự nguyện hoặc bắt buộc.",
+          "expected_context": "Nghị định 282/2025/NĐ-CP, Điều 30 — trích trong bài báo Báo Quảng Ninh",
+          "answer": "Người sử dụng trái phép chất ma túy lần đầu nhưng chưa đến mức bị truy cứu trách nhiệm hình sự sẽ bị xử phạt theo quy định tại khoản 1 và điểm a khoản 8 Điều 30 Nghị định 282/2025/NĐ-CP. Cụ thể, người vi phạm có thể bị phạt cảnh cáo hoặc phạt tiền từ 1 triệu đồng đến 2 triệu đồng. Ngoài ra, người vi phạm còn có thể bị áp dụng hình thức xử phạt bổ sung như tịch thu tang vật, phương tiện vi phạm và tùy từng trường hợp có thể bị áp dụng biện pháp cai nghiện tự nguyện hoặc cai nghiện bắt buộc theo quy định của Luật Phòng, chống ma túy [article_03.md].",
+          "retrieval_source": "hybrid",
+          "num_chunks": 5,
+          "scores": {
+            "faithfulness": {
+              "score": 1.0,
+              "reason": "The score is 1.00 because there are no contradictions present, indicating that the actual output perfectly aligns with the retrieval context."
+            },
+            "answer_relevancy": {
+              "score": 1.0,
+              "reason": "The score is 1.00 because there are no irrelevant statements in the output, indicating that the response is fully relevant and directly addresses the user's question about penalties for first-time drug use without criminal prosecution."
+            },
+            "context_recall": {
+              "score": 1.0,
+              "reason": "The score is 1.00 because the expected output is fully supported by the information in node 2 of the retrieval context, which directly references the penalties for first-time drug offenses."
+            },
+            "context_precision": {
+              "score": 0.5,
+              "reason": "The score is 0.50 because while the second node provides a direct answer to the question about penalties for first-time drug use without criminal prosecution, the other nodes rank lower due to their focus on unrelated topics. Specifically, the first node discusses severe penalties for organizing drug use, which is not relevant, and the third, fourth, and fifth nodes focus on legal amendments and general issues without addressing the specific penalties sought. This mix of relevant and irrelevant "
+            }
+          }
+        },
+        {
+          "question": "Đối với heroin, cocaine hay methamphetamine, khối lượng tối thiểu để bị truy cứu trách nhiệm hình sự là bao nhiêu?",
+          "expected_answer": "Đối với một số chất ma tuý như heroin, cocaine hoặc methamphetamine, chỉ cần từ 0,1 gam trở lên đã đủ căn cứ để truy cứu trách nhiệm hình sự.",
+          "expected_context": "Bộ luật Hình sự, quy định về tàng trữ — trích trong bài báo Báo Quảng Ninh",
+          "answer": "Đối với heroin, cocaine hoặc methamphetamine, khối lượng tối thiểu để bị truy cứu trách nhiệm hình sự là từ 0,1 gam trở lên [Document 2].",
+          "retrieval_source": "hybrid",
+          "num_chunks": 5,
+          "scores": {
+            "faithfulness": {
+              "score": 1.0,
+              "reason": "The score is 1.00 because there are no contradictions present, indicating that the actual output perfectly aligns with the retrieval context."
+            },
+            "answer_relevancy": {
+              "score": 1.0,
+              "reason": "The score is 1.00 because the response directly addresses the question about the minimum quantity of heroin, cocaine, or methamphetamine for criminal liability without including any irrelevant statements."
+            },
+            "context_recall": {
+              "score": 1.0,
+              "reason": "The score is 1.00 because the sentence directly corresponds to the 3rd node in retrieval context, which provides the exact information regarding the legal implications of certain drugs."
+            },
+            "context_precision": {
+              "score": 1.0,
+              "reason": "The score is 1.00 because the first node provides a clear and direct answer to the question regarding the minimum amount of heroin, cocaine, or methamphetamine for criminal liability, stating that 'Đối với một số chất ma túy như heroin, cocaine hoặc methamphetamine… chỉ cần từ 0,1 gam trở lên đã đủ căn cứ để truy cứu trách nhiệm hình sự.' The subsequent nodes, ranked lower, do not offer specific information about the minimum quantities, focusing instead on broader legal definitions or penalties,"
+            }
+          }
+        },
+        {
+          "question": "Luật Phòng chống ma tuý 2021 quy định những biện pháp cai nghiện nào?",
+          "expected_answer": "Luật Phòng, chống ma tuý 2021 quy định hai nhóm biện pháp: cai nghiện ma tuý tự nguyện (thực hiện tại gia đình, cộng đồng hoặc tại cơ sở cai nghiện ma tuý) và cai nghiện ma tuý bắt buộc (thực hiện tại cơ sở cai nghiện ma tuý công lập).",
+          "expected_context": "Luật Phòng chống ma tuý 2021, Chương V (Điều 28-32)",
+          "answer": "Luật Phòng chống ma túy 2021 quy định một số biện pháp cai nghiện ma túy nhằm đảm bảo an toàn và hiệu quả trong quá trình cai nghiện. Các biện pháp này bao gồm:\n\n1. **Trách nhiệm của cơ sở cai nghiện**: Người đứng đầu cơ sở cai nghiện ma túy có trách nhiệm bảo đảm điều kiện hoạt động của cơ sở, niêm yết công khai chi phí liên quan đến cai nghiện ma túy, và phòng, chống thẩm lậu ma túy vào cơ sở [Luật Phòng chống ma túy 2021, Điều 3].\n\n2. **Quản lý đối tượng cai nghiện**: Cần bố trí các khu hoặc phòng riêng khi tiếp nhận các đối tượng là người từ đủ 12 tuổi đến dưới 18 tuổi, người mắc bệnh truyền nhiễm, nữ giới, và người có sự khác nhau giữa thực thể và giới tính ghi trong hồ sơ [Luật Phòng chống ma túy 2021, Điều 3].\n\n3. **Thông báo cho chính quyền địa phương**: Trong thời hạn 05 ngày làm việc kể từ ngày người cai nghiện được tiếp nhận hoặc tự ý chấm dứt việc sử dụng dịch vụ, cơ sở cai nghiện phải thông báo cho Ủy ban nhân dân cấp xã nơi người đó đăng ký cai nghiện ma túy tự nguyện [Luật Phòng chống ma túy 2021, Điều 3].\n\n4. **Đăng ký cai nghiện**: Người từ đủ 18 tuổi hoặc người đại diện hợp pháp của người từ đủ 12 tuổi đến dưới 18 tuổi có trách nhiệm đăng ký cai nghiện ma túy tự nguyện hoặc đăng ký điều trị nghiện các chất dạng thuốc phiện với Ủy ban nhân dân cấp xã nơi cư trú [Luật Phòng chống ma túy 2021, Điều 3].\n\n5. **Hợp tác của gia đình và cộng đồng**: Gia đình và cộng đồng có trách nhiệm tuyên truyền, giáo dục về tác hại của ma túy, quản lý, ngăn chặn thành viên trong gia đình vi phạm pháp luật về phòng, chống ma túy, và hỗ trợ hoạt động cai nghiện [Luật Phòng chống ma túy 2021, Điều 6].\n\nNhững biện pháp này được thiết kế nhằm tạo ra một môi trường an toàn và hỗ trợ cho những người đang trong quá trình cai nghiện, đồng thời khuyến khích sự tham gia của gia đình và cộng đồng trong công tác phòng, chống ma túy.",
+          "retrieval_source": "hybrid",
+          "num_chunks": 5,
+          "scores": {
+            "faithfulness": {
+              "score": 0.7142857142857143,
+              "reason": "The score is 0.71 because the actual output includes specific claims about drug prevention measures and notification timelines that are not mentioned in the retrieval context, indicating a lack of alignment with the provided information."
+            },
+            "answer_relevancy": {
+              "score": 1.0,
+              "reason": "The score is 1.00 because the response directly addresses the question about the measures for drug addiction treatment as per the 2021 Drug Prevention Law without any irrelevant statements."
+            },
+            "context_recall": {
+              "score": 1.0,
+              "reason": "The score is 1.00 because the sentence clearly aligns with the regulations mentioned in node 1 of the retrieval context, specifically addressing both voluntary and mandatory drug rehabilitation measures."
+            },
+            "context_precision": {
+              "score": 0.2,
+              "reason": "The score is 0.20 because the relevant node, which is the fifth node, is significantly outnumbered by irrelevant nodes that do not address the specific measures for drug rehabilitation. The first four nodes focus on responsibilities and legal statuses without providing the necessary information, leading to a lower score. The presence of one relevant node that outlines the process for voluntary drug rehabilitation contributes to the score, but the overwhelming number of irrelevant nodes keeps it "
+            }
+          }
+        },
+        {
+          "question": "Thời hạn cai nghiện ma tuý tự nguyện tại gia đình, cộng đồng là bao lâu?",
+          "expected_answer": "Theo Luật Phòng, chống ma tuý 2021, thời hạn cai nghiện ma tuý tự nguyện tại gia đình, cộng đồng là từ đủ 06 tháng đến 12 tháng.",
+          "expected_context": "Luật Phòng chống ma tuý 2021, Điều 30",
+          "answer": "Thời hạn cai nghiện ma túy tự nguyện tại gia đình, cộng đồng là từ đủ 06 tháng đến 12 tháng [Luật Phòng chống ma túy 2021, Điều 30].",
+          "retrieval_source": "hybrid",
+          "num_chunks": 5,
+          "scores": {
+            "faithfulness": {
+              "score": 1.0,
+              "reason": "The score is 1.00 because there are no contradictions present, indicating that the actual output perfectly aligns with the retrieval context."
+            },
+            "answer_relevancy": {
+              "score": 0.5,
+              "reason": "The score is 0.50 because the output mentions a law but fails to specify the duration for voluntary drug rehabilitation at home or in the community, which is the core of the question."
+            },
+            "context_recall": {
+              "score": 1.0,
+              "reason": "The score is 1.00 because the sentence perfectly matches the information provided in node 2 of the retrieval context, demonstrating a complete alignment with the source material."
+            },
+            "context_precision": {
+              "score": 1.0,
+              "reason": "The score is 1.00 because the first node provides a clear and direct answer to the question regarding the duration of voluntary drug rehabilitation, stating that 'Thời hạn cai nghiện ma túy tự nguyện tại gia đình, cộng đồng là từ đủ 06 tháng đến 12 tháng.' The subsequent nodes, ranked lower, do not address the specific duration, with the second node discussing conditions without specifics, the third outlining responsibilities, the fourth referring to facility rehabilitation, and the fifth mentio"
+            }
+          }
+        },
+        {
+          "question": "Theo Luật Phòng chống ma tuý 2021, tiền chất là gì?",
+          "expected_answer": "Theo Luật Phòng, chống ma tuý 2021, tiền chất là hoá chất không thể thiếu được trong quá trình điều chế, sản xuất chất ma tuý, được quy định trong danh mục tiền chất do Chính phủ ban hành.",
+          "expected_context": "Luật Phòng chống ma tuý 2021, Điều 2 khoản 4",
+          "answer": "Theo Luật Phòng chống ma túy 2021, tiền chất được định nghĩa là hóa chất không thể thiếu được trong quá trình điều chế, sản xuất chất ma túy và được quy định trong danh mục tiền chất do Chính phủ ban hành [Luật Phòng chống ma túy 2021, Điều 2].",
+          "retrieval_source": "hybrid",
+          "num_chunks": 5,
+          "scores": {
+            "faithfulness": {
+              "score": 1.0,
+              "reason": "The score is 1.00 because there are no contradictions present, indicating that the actual output perfectly aligns with the retrieval context."
+            },
+            "answer_relevancy": {
+              "score": 1.0,
+              "reason": "The score is 1.00 because the response directly addresses the question about the definition of 'tiền chất' in the context of the 2021 Drug Prevention Law without any irrelevant statements."
+            },
+            "context_recall": {
+              "score": 1.0,
+              "reason": "The score is 1.00 because the sentence directly aligns with the 4th node in retrieval context, confirming its relevance and accuracy."
+            },
+            "context_precision": {
+              "score": 1.0,
+              "reason": "The score is 1.00 because the first node provides a clear and direct definition of 'tiền chất', stating it is 'hóa chất không thể thiếu được trong quá trình điều chế, sản xuất chất ma túy', which perfectly answers the question. The subsequent nodes are ranked lower as they do not offer any relevant information about 'tiền chất' or its definition, with the second node stating it 'does not provide any relevant information', the third discussing regulations without defining 'tiền chất', the fourth "
+            }
+          }
+        },
+        {
+          "question": "Người sử dụng trái phép chất ma tuý được định nghĩa thế nào theo Luật Phòng chống ma tuý 2021?",
+          "expected_answer": "Theo Luật Phòng, chống ma tuý 2021, người sử dụng trái phép chất ma tuý là người có hành vi sử dụng chất ma tuý mà không được sự cho phép của người hoặc cơ quan chuyên môn có thẩm quyền và xét nghiệm chất ma tuý trong cơ thể có kết quả dương tính.",
+          "expected_context": "Luật Phòng chống ma tuý 2021, Điều 2 khoản 10",
+          "answer": "Theo Luật Phòng, chống ma túy 2021, người sử dụng trái phép chất ma túy được định nghĩa là người có hành vi sử dụng chất ma túy mà không được sự cho phép của người hoặc cơ quan chuyên môn có thẩm quyền và có kết quả xét nghiệm chất ma túy trong cơ thể dương tính [Luật Phòng chống ma túy 2021, Điều 10].",
+          "retrieval_source": "hybrid",
+          "num_chunks": 5,
+          "scores": {
+            "faithfulness": {
+              "score": 0.5,
+              "reason": "The score is 0.50 because the actual output incorrectly implies that all individuals who use illegal drugs will have positive drug test results, while the retrieval context clarifies that only those managed by the local government are confirmed to test positive, indicating a lack of comprehensive accuracy."
+            },
+            "answer_relevancy": {
+              "score": 1.0,
+              "reason": "The score is 1.00 because the response directly addresses the definition of drug abuse according to the 2021 Anti-Drug Law without any irrelevant statements."
+            },
+            "context_recall": {
+              "score": 1.0,
+              "reason": "The score is 1.00 because the expected output perfectly aligns with the information provided in node 1 of the retrieval context, demonstrating a complete and accurate recall."
+            },
+            "context_precision": {
+              "score": 1.0,
+              "reason": "The score is 1.00 because the first node provides a clear and direct definition of 'người sử dụng trái phép chất ma túy', which perfectly answers the question. The subsequent nodes, ranked from second to fifth, discuss various aspects related to drug users but fail to define the term, making them less relevant. This clear distinction in relevance ensures that the relevant node is prioritized, leading to a perfect score."
+            }
+          }
+        },
+        {
+          "question": "Thời hạn quản lý người sử dụng trái phép chất ma tuý là bao lâu?",
+          "expected_answer": "Theo Luật Phòng, chống ma tuý 2021, thời hạn quản lý người sử dụng trái phép chất ma tuý là 01 năm kể từ ngày có quyết định quản lý.",
+          "expected_context": "Luật Phòng chống ma tuý 2021, Điều về quản lý người sử dụng trái phép chất ma tuý",
+          "answer": "Thời hạn quản lý người sử dụng trái phép chất ma túy là 01 năm kể từ ngày Chủ tịch Ủy ban nhân dân cấp xã ra quyết định quản lý [Luật Phòng chống ma tuý 2021, Điều 23].",
+          "retrieval_source": "hybrid",
+          "num_chunks": 5,
+          "scores": {
+            "faithfulness": {
+              "score": 0.6666666666666666,
+              "reason": "The score is 0.67 because the actual output fails to clarify that the management period begins from the day the Chairman of the People's Committee makes the decision, merely stating that it lasts for 01 year."
+            },
+            "answer_relevancy": {
+              "score": 1.0,
+              "reason": "The score is 1.00 because the response directly addresses the question about the duration of managing unauthorized drug users without any irrelevant statements."
+            },
+            "context_recall": {
+              "score": 1.0,
+              "reason": "The score is 1.00 because the sentence in the expected output directly matches the information provided in the first node of the retrieval context, confirming its accuracy and relevance."
+            },
+            "context_precision": {
+              "score": 1.0,
+              "reason": "The score is 1.00 because the first node provides a clear and direct answer to the question regarding the duration of management for illegal drug users, stating that it is '01 năm' from the decision date. The subsequent nodes, ranked lower, discuss unrelated topics such as penalties and responsibilities without addressing the specific duration, which justifies their lower ranking."
+            }
+          }
+        },
+        {
+          "question": "Việc xét nghiệm chất ma tuý trong cơ thể được thực hiện qua những mẫu nào?",
+          "expected_answer": "Theo Luật Phòng, chống ma tuý 2021, xét nghiệm chất ma tuý trong cơ thể là việc thực hiện các kỹ thuật chuyên môn nhằm xác định chất ma tuý trong cơ thể thông qua mẫu nước tiểu, mẫu máu hoặc các mẫu vật khác của cơ thể người.",
+          "expected_context": "Luật Phòng chống ma tuý 2021, Điều 2 khoản 11",
+          "answer": "Việc xét nghiệm chất ma túy trong cơ thể được thực hiện thông qua các mẫu vật sau:\n\n1. Mẫu nước tiểu: Đây là phương pháp phổ biến nhất hiện nay nhờ tính tiện lợi, cho kết quả nhanh chóng và độ chính xác cao khi cần sàng lọc người sử dụng ma túy đá [Document 5].\n2. Mẫu máu: Xét nghiệm máu cũng là một trong những phương pháp để phát hiện chất ma túy trong cơ thể, với khả năng phát hiện hoạt chất sau 1 giờ và có thể tìm thấy trong vòng hơn 3 ngày kể từ lần cuối sử dụng [Document 5].\n3. Các mẫu vật khác của cơ thể: Theo quy định, xét nghiệm chất ma túy có thể được thực hiện qua các mẫu vật khác ngoài nước tiểu và máu [Document 2].\n\nNhư vậy, các mẫu vật chính được sử dụng để xét nghiệm chất ma túy bao gồm nước tiểu, máu và các mẫu vật khác.",
+          "retrieval_source": "hybrid",
+          "num_chunks": 5,
+          "scores": {
+            "faithfulness": {
+              "score": 0.8333333333333334,
+              "reason": "The score is 0.83 because the actual output inaccurately states that blood tests can detect substances for more than 3 days, while the retrieval context only confirms detection after 1 hour without specifying the duration."
+            },
+            "answer_relevancy": {
+              "score": 1.0,
+              "reason": "The score is 1.00 because there are no irrelevant statements in the output, indicating that the response is fully relevant and directly addresses the question about drug testing methods."
+            },
+            "context_recall": {
+              "score": 1.0,
+              "reason": "The score is 1.00 because the sentence perfectly aligns with the 11th node in the retrieval context, confirming its accuracy and relevance."
+            },
+            "context_precision": {
+              "score": 1.0,
+              "reason": "The score is 1.00 because all relevant nodes are ranked higher than the irrelevant nodes. The first three nodes provide direct answers to the question about the samples used for drug testing, stating that 'Xét nghiệm chất ma túy trong cơ thể là việc thực hiện các kỹ thuật chuyên môn nhằm xác định chất ma túy trong cơ thể thông qua mẫu nước tiểu, mẫu máu hoặc các mẫu vật khác của cơ thể người.' In contrast, the fourth and fifth nodes, which are irrelevant, discuss unrelated topics such as authori"
+            }
+          }
+        },
+        {
+          "question": "Ca sĩ Miu Lê bị phát hiện dương tính với những loại ma tuý nào?",
+          "expected_answer": "Ca sĩ Miu Lê (Lê Ánh Nhật) bị Công an TP Hải Phòng xác định dương tính cùng lúc với 3 loại ma tuý gồm Methamphetamine (ma tuý đá), Ketamine (\"ke\") và MDMA (thuốc lắc), và bị khởi tố về hành vi tổ chức sử dụng trái phép chất ma tuý.",
+          "expected_context": "Bài báo Báo Quảng Ninh / VOV về vụ Miu Lê tại Hải Phòng tháng 5/2026",
+          "answer": "Ca sĩ Miu Lê đã bị phát hiện dương tính với ba loại ma túy, bao gồm Methamphetamine (ma túy đá), Ketamine (“ke”) và MDMA (thuốc lắc) [Document 1].",
+          "retrieval_source": "hybrid",
+          "num_chunks": 5,
+          "scores": {
+            "faithfulness": {
+              "score": 1.0,
+              "reason": "The score is 1.00 because there are no contradictions present, indicating that the actual output perfectly aligns with the retrieval context."
+            },
+            "answer_relevancy": {
+              "score": 0.75,
+              "reason": "The score is 0.75 because while the response provided some relevant information, it included a statement that merely repeated previous details without specifying the type of drug, which detracted from its overall relevance."
+            },
+            "context_recall": {
+              "score": 1.0,
+              "reason": "The score is 1.00 because the sentence directly mentions Miu Lê and her drug test results, which is found in the 2nd node in retrieval context, confirming a perfect match."
+            },
+            "context_precision": {
+              "score": 0.75,
+              "reason": "The score is 0.75 because the relevant nodes are ranked higher than the irrelevant nodes, but there are still some irrelevant nodes that dilute the overall precision. The first node provides a clear answer, stating that 'Miu Lê được xác định dương tính cùng lúc với 3 loại ma túy', which directly addresses the question. However, the second node discusses other artists without mentioning Miu Lê, and the third node focuses on public reaction rather than the drugs, which lowers the score. The fourth"
+            }
+          }
+        },
+        {
+          "question": "Vụ án ma tuý liên quan ca sĩ Long Nhật và Sơn Ngọc Minh tại TPHCM có quy mô như thế nào?",
+          "expected_answer": "Công an TPHCM đã triệt phá một đường dây tội phạm ma tuý quy mô lớn, bắt giữ và xử lý tổng cộng 74 đối tượng, trong đó 71 bị can bị khởi tố, bắt tạm giam về các hành vi mua bán, tàng trữ và tổ chức sử dụng trái phép chất ma tuý; 3 trường hợp còn lại bị xử lý hành chính. Ca sĩ Long Nhật và Sơn Ngọc Minh nằm trong số người bị xử lý hình sự.",
+          "expected_context": "Bài báo VOV về vụ Long Nhật, Sơn Ngọc Minh tháng 5/2026",
+          "answer": "Vụ án ma túy liên quan đến ca sĩ Long Nhật và Sơn Ngọc Minh tại TPHCM có quy mô lớn. Cụ thể, Công an TP.HCM đã triệt phá một đường dây tội phạm ma túy quy mô lớn, bắt giữ tổng cộng 74 đối tượng. Trong số này, có 71 bị can đã bị khởi tố và bắt tạm giam để điều tra về các hành vi như \"Mua bán trái phép chất ma túy\", \"Tàng trữ trái phép chất ma túy\" và \"Tổ chức sử dụng trái phép chất ma túy\" [Document 1 | Source: article_01.md]. \n\nVụ việc này đã gây xôn xao dư luận và là một trong những sự kiện nổi bật trong làng giải trí Việt Nam trong thời gian gần đây [Document 4 | Source: article_01.md].",
+          "retrieval_source": "hybrid",
+          "num_chunks": 5,
+          "scores": {
+            "faithfulness": {
+              "score": 1.0,
+              "reason": "The score is 1.00 because there are no contradictions present, indicating that the actual output perfectly aligns with the retrieval context."
+            },
+            "answer_relevancy": {
+              "score": 1.0,
+              "reason": "The score is 1.00 because there are no irrelevant statements in the output, indicating a perfect alignment with the input question."
+            },
+            "context_recall": {
+              "score": 1.0,
+              "reason": "The score is 1.00 because every detail in the expected output is fully supported by the information in the nodes of the retrieval context, confirming the accuracy and relevance of the content."
+            },
+            "context_precision": {
+              "score": 0.9166666666666666,
+              "reason": "The score is 0.92 because the relevant nodes are well-ranked, with the first two nodes providing direct answers about the scale of the drug case and the involvement of the artists. However, the presence of two irrelevant nodes ranked lower detracts slightly from the score, as they do not contribute to understanding the case's scale, focusing instead on unrelated incidents. This indicates that while the relevant information is strong, the inclusion of irrelevant nodes affects the overall contextu"
+            }
+          }
+        },
+        {
+          "question": "Ca sĩ Châu Việt Cường bị tuyên án bao nhiêu năm tù và về tội gì?",
+          "expected_answer": "Năm 2018, sau khi sử dụng ma tuý, Châu Việt Cường bị ảo giác và gây ra cái chết của một cô gái. Năm 2019, TAND TP Hà Nội tuyên phạt Châu Việt Cường 13 năm tù về các tội Giết người và Tàng trữ trái phép chất ma tuý, sau đó được giảm án 2 năm.",
+          "expected_context": "Bài báo VOV về các vụ nghệ sĩ liên quan ma tuý",
+          "answer": "Ca sĩ Châu Việt Cường bị Tòa án nhân dân TP Hà Nội tuyên phạt 13 năm tù về các tội “Giết người” và “Tàng trữ trái phép chất ma túy” [Document 1].",
+          "retrieval_source": "hybrid",
+          "num_chunks": 5,
+          "scores": {
+            "faithfulness": {
+              "score": 1.0,
+              "reason": "The score is 1.00 because there are no contradictions present, indicating that the actual output perfectly aligns with the retrieval context."
+            },
+            "answer_relevancy": {
+              "score": 1.0,
+              "reason": "The score is 1.00 because there are no irrelevant statements in the output, indicating a perfect alignment with the input question."
+            },
+            "context_recall": {
+              "score": 1.0,
+              "reason": "The score is 1.00 because every aspect of the expected output is fully supported by the information in the retrieval context, particularly the details about Châu Việt Cường's actions and sentencing, which are clearly articulated in the 2nd node."
+            },
+            "context_precision": {
+              "score": 1.0,
+              "reason": "The score is 1.00 because the first node provides comprehensive details about Châu Việt Cường's sentencing, confirming he received 13 years for 'Giết người' and 'Tàng trữ trái phép chất ma túy'. The subsequent nodes, ranked lower, are irrelevant as they discuss other artists or unrelated topics, which is why they do not contribute to a higher score."
+            }
+          }
+        },
+        {
+          "question": "Diễn viên hài Hữu Tín bị tuyên án bao nhiêu năm tù?",
+          "expected_answer": "Ngày 28/4/2023, TAND quận 8 (TPHCM) tuyên phạt Hữu Tín 7 năm 6 tháng tù về tội Tổ chức sử dụng trái phép chất ma tuý. Hữu Tín khai nghiện ma tuý gần 3 năm trước khi bị bắt.",
+          "expected_context": "Bài báo VOV về các vụ nghệ sĩ liên quan ma tuý",
+          "answer": "Diễn viên hài Hữu Tín bị tuyên án 7 năm 6 tháng tù về tội \"Tổ chức sử dụng trái phép chất ma túy\" vào ngày 28/4/2023 [Document 2 | Source: article_04.md].",
+          "retrieval_source": "hybrid",
+          "num_chunks": 5,
+          "scores": {
+            "faithfulness": {
+              "score": 1.0,
+              "reason": "The score is 1.00 because there are no contradictions present, indicating that the actual output perfectly aligns with the retrieval context."
+            },
+            "answer_relevancy": {
+              "score": 0.6666666666666666,
+              "reason": "The score is 0.67 because the output included irrelevant information about the date of sentencing, which does not directly address the question regarding the length of the prison sentence."
+            },
+            "context_recall": {
+              "score": 1.0,
+              "reason": "The score is 1.00 because the expected output is fully supported by the information in the 2nd node in retrieval context, which provides both the sentencing details and Hữu Tín's drug addiction history."
+            },
+            "context_precision": {
+              "score": 1.0,
+              "reason": "The score is 1.00 because all relevant nodes are ranked higher than the irrelevant nodes. The first three nodes provide direct answers regarding Hữu Tín's sentence, stating '7 năm 6 tháng tù' and discussing the specifics of his case. In contrast, the fourth node, ranked lower, discusses general legal consequences without addressing Hữu Tín, and the fifth node mentions other individuals but lacks any relevant information about him. This clear distinction in relevance justifies the perfect score."
+            }
+          }
+        },
+        {
+          "question": "Diễn viên Lệ Hằng bị khởi tố về tội gì và bị phát hiện bao nhiêu ma tuý?",
+          "expected_answer": "Năm 2023, diễn viên Lệ Hằng bị khởi tố về tội Mua bán trái phép chất ma tuý. Lực lượng chức năng phát hiện trong người Lệ Hằng 0,696 gram ma tuý tổng hợp khi kiểm tra hành chính trên phố Khâm Thiên, Hà Nội; bản thân Lệ Hằng âm tính với ma tuý.",
+          "expected_context": "Bài báo VOV về các vụ nghệ sĩ liên quan ma tuý",
+          "answer": "Diễn viên Lệ Hằng bị khởi tố về tội “Mua bán trái phép chất ma túy” và bị phát hiện có trong người 0,696 gram ma túy tổng hợp khi kiểm tra hành chính trên phố Khâm Thiên, Hà Nội [Document 2 | Source: article_01.md].",
+          "retrieval_source": "hybrid",
+          "num_chunks": 5,
+          "scores": {
+            "faithfulness": {
+              "score": 1.0,
+              "reason": "The score is 1.00 because there are no contradictions present, indicating that the actual output aligns perfectly with the retrieval context."
+            },
+            "answer_relevancy": {
+              "score": 0.6666666666666666,
+              "reason": "The score is 0.67 because the output included an irrelevant statement about an administrative check on Khâm Thiên street, which does not pertain to the specific charges or drug amount related to Lệ Hằng. This detracted from the overall relevance, but the response still addressed the main question sufficiently."
+            },
+            "context_recall": {
+              "score": 1.0,
+              "reason": "The score is 1.00 because every detail in the expected output is fully supported by the node(s) in retrieval context, confirming the accuracy of the information regarding Lệ Hằng's prosecution and drug-related findings."
+            },
+            "context_precision": {
+              "score": 1.0,
+              "reason": "The score is 1.00 because all relevant nodes are ranked higher than the irrelevant nodes. The first node provides a direct answer to the crime Lệ Hằng was charged with, stating, 'Năm 2023, nữ diễn viên Lệ Hằng bị khởi tố về tội “Mua bán trái phép chất ma túy”'. The second node adds valuable information about the amount of drugs found, stating, 'Lực lượng chức năng phát hiện trong người Lệ Hằng 0,696 gram ma túy tổng hợp'. The irrelevant nodes, starting from the third, discuss other actors or gen"
+            }
+          }
+        },
+        {
+          "question": "Ma tuý đá có thời gian bán thải trong cơ thể là bao lâu và xét nghiệm nào phát hiện được lâu nhất?",
+          "expected_answer": "Ma tuý đá (methamphetamine) có chu kỳ bán thải khoảng 10 đến 12 tiếng. Trong các phương pháp xét nghiệm, xét nghiệm tóc lưu giữ dấu vết lâu nhất và có thể phát hiện ma tuý đá kể cả sau 90 ngày. Xét nghiệm nước tiểu là phương pháp phổ biến nhất.",
+          "expected_context": "Bài báo Ngôi Sao / Thời trang vàng về ma tuý đá",
+          "answer": "Ma túy đá có thời gian bán thải trong cơ thể thường rơi vào khoảng 10 đến 12 tiếng. Điều này có nghĩa là sau nửa ngày, lượng độc chất trong cơ thể chỉ giảm đi 50% [Document 1]. \n\nĐối với các phương pháp xét nghiệm để phát hiện ma túy đá, xét nghiệm tóc là phương pháp có khả năng phát hiện lâu nhất. Các kỹ thuật phân tích mẫu tóc có thể phát hiện ra ma túy đá kể cả sau 90 ngày kể từ lần sử dụng cuối cùng [Document 5].",
+          "retrieval_source": "hybrid",
+          "num_chunks": 5,
+          "scores": {
+            "faithfulness": {
+              "score": 1.0,
+              "reason": "The score is 1.00 because there are no contradictions present, indicating that the actual output perfectly aligns with the retrieval context."
+            },
+            "answer_relevancy": {
+              "score": 1.0,
+              "reason": "The score is 1.00 because there are no irrelevant statements in the output, indicating that the response is fully relevant and directly addresses the question asked."
+            },
+            "context_recall": {
+              "score": 1.0,
+              "reason": "The score is 1.00 because all sentences in the expected output are directly supported by the information in the nodes of the retrieval context, confirming the accuracy and relevance of the content."
+            },
+            "context_precision": {
+              "score": 1.0,
+              "reason": "The score is 1.00 because all relevant nodes are ranked higher than the irrelevant nodes. The first node provides a clear answer about the half-life of methamphetamine, stating that 'Đối với ma túy đá, chu kỳ bán thải thường rơi vào khoảng 10 đến 12 tiếng,' which directly addresses the user's query. The second node also contributes valuable information, mentioning that 'xét nghiệm tóc là nơi lưu giữ độc chất lâu nhất,' which is crucial for understanding detection methods. The irrelevant nodes, r"
+            }
+          }
+        },
+        {
+          "question": "Rapper Bình Gold bị phát hiện dương tính với loại chất cấm nào?",
+          "expected_answer": "Rapper Bình Gold (Vũ Xuân Bình) bị lực lượng chức năng phát hiện dương tính với chất ma tuý gồm cần sa (và bồ đà/ketamin theo các nguồn) sau khi điều khiển xe lạng lách trên cao tốc Nội Bài - Lào Cai.",
+          "expected_context": "Bài báo VOV / Tiền Phong về rapper Bình Gold",
+          "answer": "Rapper Bình Gold bị phát hiện dương tính với chất ma túy gồm cần sa và bồ đà [article_04.md].",
+          "retrieval_source": "hybrid",
+          "num_chunks": 5,
+          "scores": {
+            "faithfulness": {
+              "score": 0.0,
+              "reason": "The score is 0.00 because the actual output inaccurately states that Bình Gold tested positive for drugs including marijuana and bồ đà, while the retrieval context only confirms a positive test for cannabis and ketamine, leading to a significant discrepancy."
+            },
+            "answer_relevancy": {
+              "score": 1.0,
+              "reason": "The score is 1.00 because there are no irrelevant statements in the output, indicating a perfect alignment with the input question."
+            },
+            "context_recall": {
+              "score": 0.375,
+              "reason": "The score is 0.38 because while the expected output includes relevant details about rapper Bình Gold's drug-related incident, as supported by multiple nodes in the retrieval context, there are also several unrelated references that detract from the overall relevance, leading to a lower contextual recall score."
+            },
+            "context_precision": {
+              "score": 0.9166666666666666,
+              "reason": "The score is 0.92 because the relevant nodes are well-ranked, with the first two nodes providing direct answers about the substances rapper Bình Gold tested positive for. However, the presence of two irrelevant nodes ranked lower affects the score, as they do not contribute to answering the question. Specifically, the third node states, 'Thông tin này khiến dư luận bất ngờ bởi Miu Lê...' which is unrelated to Bình Gold, and the fifth node mentions, 'Giữa bối cảnh dư luận chưa hết bàng hoàng...' "
+            }
+          }
+        }
+      ]
+    },
+    "B_dense_only": {
+      "label": "Dense-only (semantic search, không lexical, không rerank)",
+      "label_short": "dense only",
+      "agg": {
+        "faithfulness": {
+          "avg": 0.8229166666666666,
+          "pass_rate": 0.6875,
+          "n": 16
+        },
+        "answer_relevancy": {
+          "avg": 0.8572530864197531,
+          "pass_rate": 0.7777777777777778,
+          "n": 18
+        },
+        "context_recall": {
+          "avg": 0.9777777777777779,
+          "pass_rate": 0.9444444444444444,
+          "n": 18
+        },
+        "context_precision": {
+          "avg": 0.9027777777777778,
+          "pass_rate": 0.8888888888888888,
+          "n": 18
+        },
+        "overall_avg": 0.8901813271604938
+      },
+      "cases": [
+        {
+          "question": "Hình phạt cho tội tàng trữ trái phép chất ma tuý theo Điều 249 Bộ luật Hình sự là gì?",
+          "expected_answer": "Theo Điều 249 Bộ luật Hình sự 2015 (sửa đổi, bổ sung 2025), người nào tàng trữ trái phép chất ma tuý mà không nhằm mục đích mua bán, vận chuyển, sản xuất thì ở khung cơ bản (khoản 1) bị phạt tù từ 3 năm đến 5 năm. Nếu có tình tiết tăng nặng, mức án có thể tăng lên 5-10 năm, 10-15 năm, 15-20 năm hoặc tù chung thân.",
+          "expected_context": "Bộ luật Hình sự 2015 (sửa đổi 2025), Điều 249 — trích trong bài báo Báo Quảng Ninh",
+          "answer": "Hình phạt cho tội tàng trữ trái phép chất ma túy theo Điều 249 Bộ luật Hình sự năm 2015 (sửa đổi, bổ sung 2025) được quy định rõ ràng. Cụ thể, người nào tàng trữ trái phép chất ma túy mà không nhằm mục đích mua bán, vận chuyển, sản xuất trái phép chất ma túy sẽ bị phạt tù từ 3 năm đến 5 năm [VnExpress, 2024]. \n\nNgoài ra, nếu có các tình tiết tăng nặng như phạm tội có tổ chức, mua bán số lượng lớn, phạm tội nhiều lần, tái phạm nguy hiểm, hoặc sử dụng người dưới 16 tuổi vào việc phạm tội, mức hình phạt có thể tăng lên từ 7 năm đến 15 năm, từ 15 năm đến 20 năm, tù chung thân hoặc tử hình tùy vào mức độ nguy hiểm [VnExpress, 2024]. \n\nDo đó, hình phạt cho tội tàng trữ trái phép chất ma túy có thể rất nghiêm khắc tùy thuộc vào các tình tiết cụ thể của từng vụ án.",
+          "retrieval_source": "dense",
+          "num_chunks": 5,
+          "scores": {
+            "faithfulness": {
+              "score": 1.0,
+              "reason": "The score is 1.00 because there are no contradictions present, indicating that the actual output perfectly aligns with the retrieval context."
+            },
+            "answer_relevancy": {
+              "score": 1.0,
+              "reason": "The score is 1.00 because there are no irrelevant statements in the actual output, indicating a perfect alignment with the input question."
+            },
+            "context_recall": {
+              "score": 0.6,
+              "reason": "The score is 0.60 because while the expected output effectively references 'Điều 249 Bộ luật Hình sự 2015' and discusses penalties for drug possession, which are supported by node(s) in retrieval context, there are elements that do not directly correlate with specific nodes, leading to a moderate recall score."
+            },
+            "context_precision": {
+              "score": 1.0,
+              "reason": "The score is 1.00 because all relevant nodes are ranked higher than the irrelevant nodes. The first node provides a direct reference to the legal framework regarding illegal drug possession, stating that 'Hành vi tàng trữ trái phép chất ma túy được pháp luật quy định cụ thể tại Điều 249 Bộ luật Hình sự 2015 (sửa đổi, bổ sung 2025).' The second node further elaborates on the punishment, mentioning that 'người nào tàng trữ trái phép chất ma túy mà không nhằm mục đích mua bán, vận chuyển, sản xuất "
+            }
+          }
+        },
+        {
+          "question": "Tội mua bán trái phép chất ma tuý theo Điều 251 bị xử lý như thế nào?",
+          "expected_answer": "Theo Điều 251 Bộ luật Hình sự 2015 (sửa đổi 2025), tội mua bán trái phép chất ma tuý ở khung cơ bản bị phạt tù từ 3 năm đến 7 năm. Nếu có tình tiết tăng nặng (phạm tội có tổ chức, số lượng lớn, qua biên giới...), mức án có thể tăng lên 7-15 năm, 15-20 năm, tù chung thân hoặc tử hình. Ngoài ra còn có thể bị phạt tiền từ 5 triệu đến 500 triệu đồng.",
+          "expected_context": "Bộ luật Hình sự 2015 (sửa đổi 2025), Điều 251",
+          "answer": "Tội mua bán trái phép chất ma túy được quy định tại Điều 251 Bộ luật Hình sự 2015, sửa đổi bởi khoản 18 Điều 1 Luật sửa đổi Bộ luật Hình sự 2025. Theo đó, người phạm tội có thể bị phạt tù từ 3 năm đến 7 năm ở khung cơ bản [Document 1 | Source: article_03.md].\n\nNếu có các tình tiết tăng nặng như phạm tội có tổ chức, mua bán số lượng lớn, phạm tội nhiều lần, tái phạm nguy hiểm, mua bán qua biên giới hoặc sử dụng người dưới 16 tuổi vào việc phạm tội, mức hình phạt có thể tăng lên từ 7 năm đến 15 năm, từ 15 năm đến 20 năm, tù chung thân hoặc tử hình tùy vào mức độ nguy hiểm của hành vi [Document 2 | Source: article_03.md].\n\nNgoài hình phạt tù, người phạm tội còn có thể bị phạt tiền từ 5 triệu đồng đến 500 triệu đồng, cấm đảm nhiệm chức vụ, cấm hành nghề hoặc làm công việc nhất định từ 1 năm đến 5 năm, hoặc tịch thu một phần hoặc toàn bộ tài sản [Document 2 | Source: article_03.md].",
+          "retrieval_source": "dense",
+          "num_chunks": 5,
+          "scores": {
+            "faithfulness": {
+              "score": 1.0,
+              "reason": "The score is 1.00 because there are no contradictions present, indicating that the actual output perfectly aligns with the retrieval context."
+            },
+            "answer_relevancy": {
+              "score": 1.0,
+              "reason": "The score is 1.00 because the response directly addresses the question about the legal consequences of drug trafficking under Article 251 without any irrelevant statements."
+            },
+            "context_recall": {
+              "score": 1.0,
+              "reason": "The score is 1.00 because all elements of the expected output are directly supported by the information in node 2 of the retrieval context, confirming the accuracy and relevance of the details provided."
+            },
+            "context_precision": {
+              "score": 0.8333333333333333,
+              "reason": "The score is 0.83 because while the relevant nodes are ranked higher, there are still several irrelevant nodes that dilute the overall precision. The first node provides a clear answer about penalties for drug trafficking, stating that 'đối với hành vi mua bán trái phép chất ma túy... người phạm tội có thể bị phạt tù từ 3 năm đến 7 năm ở khung cơ bản', making it highly relevant. However, the second node, which discusses drug use organization without addressing trafficking penalties, is ranked se"
+            }
+          }
+        },
+        {
+          "question": "Mức hình phạt cho tội tổ chức sử dụng trái phép chất ma tuý theo Điều 255 là bao nhiêu?",
+          "expected_answer": "Theo Điều 255 Bộ luật Hình sự 2015 (sửa đổi 2025), tội tổ chức sử dụng trái phép chất ma tuý có mức hình phạt thấp nhất là 3 năm tù giam và cao nhất lên đến 20 năm tù hoặc tù chung thân. Người phạm tội còn có thể bị phạt tiền từ 50 triệu đến 500 triệu đồng.",
+          "expected_context": "Bộ luật Hình sự 2015 (sửa đổi 2025), Điều 255",
+          "answer": "Mức hình phạt cho tội tổ chức sử dụng trái phép chất ma túy theo Điều 255 Bộ luật Hình sự 2015 sửa đổi bởi khoản 19 Điều 1 Luật sửa đổi Bộ luật Hình sự 2025 là từ 3 năm tù giam đến 20 năm tù giam hoặc tù chung thân. Ngoài ra, người phạm tội còn có thể bị phạt tiền từ 50 triệu đồng đến 500 triệu đồng, phạt quản chế, cấm cư trú từ 1 năm đến 5 năm hoặc tịch thu một phần hoặc toàn bộ tài sản [Document 1 | Source: article_03.md].",
+          "retrieval_source": "dense",
+          "num_chunks": 5,
+          "scores": {
+            "faithfulness": {
+              "score": 0.6666666666666666,
+              "reason": "The score is 0.67 because the actual output introduces penalties such as probation, residence ban, or confiscation of assets that are not mentioned in the retrieval context, indicating a lack of alignment."
+            },
+            "answer_relevancy": {
+              "score": 1.0,
+              "reason": "The score is 1.00 because there are no irrelevant statements in the output, indicating a perfect alignment with the input question."
+            },
+            "context_recall": {
+              "score": 1.0,
+              "reason": "The score is 1.00 because all elements of the expected output are directly supported by the information in node 1 of the retrieval context, confirming the accuracy and relevance of the details provided."
+            },
+            "context_precision": {
+              "score": 1.0,
+              "reason": "The score is 1.00 because the first node provides a clear and direct answer to the question regarding the punishment for organizing illegal drug use, stating that 'Mức hình phạt thấp nhất là 3 năm tù giam và cao nhất lên đến 20 năm tù giam hoặc tù chung thân.' The subsequent nodes, ranked lower, do not address the specific punishment under Article 255, with the second node discussing severity without specifics, the third mentioning aggravating circumstances, the fourth focusing on community resp"
+            }
+          }
+        },
+        {
+          "question": "Người sử dụng trái phép chất ma tuý lần đầu nhưng chưa đến mức truy cứu hình sự bị xử phạt ra sao?",
+          "expected_answer": "Đối với hành vi sử dụng trái phép chất ma tuý lần đầu nhưng chưa đến mức bị truy cứu trách nhiệm hình sự, theo Nghị định 282/2025/NĐ-CP người vi phạm có thể bị phạt cảnh cáo hoặc phạt tiền từ 1 triệu đến 2 triệu đồng, có thể bị tịch thu tang vật và áp dụng biện pháp cai nghiện tự nguyện hoặc bắt buộc.",
+          "expected_context": "Nghị định 282/2025/NĐ-CP, Điều 30 — trích trong bài báo Báo Quảng Ninh",
+          "answer": "Người sử dụng trái phép chất ma túy lần đầu nhưng chưa đến mức bị truy cứu trách nhiệm hình sự sẽ bị xử phạt theo quy định tại khoản 1 và điểm a khoản 8 Điều 30 Nghị định 282/2025/NĐ-CP. Cụ thể, người vi phạm có thể bị phạt cảnh cáo hoặc phạt tiền từ 1 triệu đồng đến 2 triệu đồng. Ngoài ra, người vi phạm còn có thể bị áp dụng hình thức xử phạt bổ sung như tịch thu tang vật, phương tiện vi phạm và tùy từng trường hợp có thể bị áp dụng biện pháp cai nghiện tự nguyện hoặc cai nghiện bắt buộc theo quy định của Luật Phòng, chống ma túy [article_03.md, 2025].",
+          "retrieval_source": "dense",
+          "num_chunks": 5,
+          "scores": {
+            "faithfulness": {
+              "score": 0.75,
+              "reason": "The score is 0.75 because the actual output mentions potential fines or warnings for first-time drug users, but it fails to reference the specific regulations outlined in Nghị định 282/2025/NĐ-CP, leading to a lack of completeness in the information provided."
+            },
+            "answer_relevancy": {
+              "score": 1.0,
+              "reason": "The score is 1.00 because the response directly addresses the question about the penalties for first-time drug use without reaching criminal prosecution, with no irrelevant statements present."
+            },
+            "context_recall": {
+              "score": 1.0,
+              "reason": "The score is 1.00 because the expected output directly reflects the information provided in node 2 of the retrieval context, which details the penalties for first-time drug offenses that do not reach criminal prosecution."
+            },
+            "context_precision": {
+              "score": 0.5,
+              "reason": "The score is 0.50 because while the second node provides a direct answer to the question regarding penalties for first-time drug use without criminal prosecution, the other nodes rank lower due to their focus on severe penalties or legal frameworks that do not address the specific inquiry. The first node discusses severe penalties for organizing drug use, which is not relevant, and ranks first, leading to a lower score. The remaining nodes also fail to provide relevant information, further impac"
+            }
+          }
+        },
+        {
+          "question": "Đối với heroin, cocaine hay methamphetamine, khối lượng tối thiểu để bị truy cứu trách nhiệm hình sự là bao nhiêu?",
+          "expected_answer": "Đối với một số chất ma tuý như heroin, cocaine hoặc methamphetamine, chỉ cần từ 0,1 gam trở lên đã đủ căn cứ để truy cứu trách nhiệm hình sự.",
+          "expected_context": "Bộ luật Hình sự, quy định về tàng trữ — trích trong bài báo Báo Quảng Ninh",
+          "answer": "Đối với heroin, cocaine và methamphetamine, Bộ luật hình sự năm 2015 quy định khối lượng tối thiểu để bị truy cứu trách nhiệm hình sự như sau:\n\n- Heroin và cocaine có khối lượng tối thiểu là 0,1 gram.\n- Methamphetamine có khối lượng tối thiểu cũng là 0,1 gram.\n\nCụ thể, các chất này nằm trong khung hình phạt quy định tại Điều 250 (Tội vận chuyển trái phép chất ma túy), Điều 251 (Tội mua bán trái phép chất ma túy) và Điều 252 (Tội chiếm đoạt chất ma túy) của Bộ luật hình sự năm 2015 [Document 1 | Source: bo-luat-hinh-su-2015.md].",
+          "retrieval_source": "dense",
+          "num_chunks": 5,
+          "scores": {
+            "faithfulness": {
+              "score": 0.6666666666666666,
+              "reason": "The score is 0.67 because the actual output inaccurately states that heroin and cocaine are included in the penalties of Articles 250, 251, and 252 of the Penal Code 2015, while the retrieval context does not mention these substances in relation to those articles."
+            },
+            "answer_relevancy": {
+              "score": 1.0,
+              "reason": "The score is 1.00 because the response directly addresses the question about the minimum quantity of heroin, cocaine, or methamphetamine for criminal liability without including any irrelevant statements."
+            },
+            "context_recall": {
+              "score": 1.0,
+              "reason": "The score is 1.00 because the sentence directly references 'heroin, cocaine, or methamphetamine', which aligns perfectly with the information in node 1 about the legal thresholds for these substances."
+            },
+            "context_precision": {
+              "score": 1.0,
+              "reason": "The score is 1.00 because the first node provides a clear and direct answer to the question regarding the minimum weight for criminal liability related to heroin, cocaine, and methamphetamine. The subsequent nodes, ranked from second to fifth, contain irrelevant information, such as discussions on measurement units and legal provisions, which do not address the query. This clear distinction in relevance ensures that the relevant node is ranked highest, leading to a perfect score."
+            }
+          }
+        },
+        {
+          "question": "Luật Phòng chống ma tuý 2021 quy định những biện pháp cai nghiện nào?",
+          "expected_answer": "Luật Phòng, chống ma tuý 2021 quy định hai nhóm biện pháp: cai nghiện ma tuý tự nguyện (thực hiện tại gia đình, cộng đồng hoặc tại cơ sở cai nghiện ma tuý) và cai nghiện ma tuý bắt buộc (thực hiện tại cơ sở cai nghiện ma tuý công lập).",
+          "expected_context": "Luật Phòng chống ma tuý 2021, Chương V (Điều 28-32)",
+          "answer": "Luật Phòng chống ma túy 2021 quy định một số biện pháp cai nghiện ma túy như sau:\n\n1. **Cai nghiện tự nguyện**: Cơ sở cai nghiện ma túy công lập có quyền tiếp nhận người nghiện ma túy vào cai nghiện tự nguyện phù hợp với khả năng tiếp nhận của cơ sở [Luật Phòng chống ma túy 2021, Điều 5].\n\n2. **Quản lý và giáo dục**: Người đứng đầu cơ sở cai nghiện ma túy có trách nhiệm quyết định áp dụng các biện pháp phù hợp để quản lý, giáo dục và chữa trị cho người cai nghiện ma túy [Luật Phòng chống ma túy 2021, Điều 5].\n\n3. **Bảo đảm quyền lợi của người nghiện**: Trong thời gian cai nghiện, quyền lợi của người nghiện ma túy phải được bảo đảm, bao gồm việc cấp giấy xác nhận hoàn thành cai nghiện ma túy bắt buộc cho người từ đủ 12 tuổi đến dưới 18 tuổi [Luật Phòng chống ma túy 2021, Điều 25].\n\n4. **Thông báo cho cơ quan chức năng**: Trong thời hạn 05 ngày làm việc kể từ ngày người cai nghiện ma túy tự nguyện được tiếp nhận hoặc tự ý chấm dứt việc sử dụng dịch vụ hoặc hoàn thành quy trình cai nghiện ma túy, cơ sở phải thông báo cho Ủy ban nhân dân cấp xã nơi người đó đăng ký cai nghiện [Luật Phòng chống ma túy 2021, Điều 25].\n\n5. **Tuân thủ quy định pháp luật**: Cơ sở cai nghiện ma túy công lập phải tuân thủ các quy định về xác định tình trạng nghiện ma túy, quy trình cai nghiện ma túy và quản lý người đang trong thời gian lập hồ sơ đề nghị đưa vào cơ sở cai nghiện bắt buộc [Luật Phòng chống ma túy 2021, Điều 6].\n\nCác biện pháp này nhằm đảm bảo việc cai nghiện ma túy diễn ra một cách hiệu quả và nhân văn, đồng thời bảo vệ quyền lợi của người nghiện.",
+          "retrieval_source": "dense",
+          "num_chunks": 5,
+          "scores": {
+            "faithfulness": {
+              "score": 0.6666666666666666,
+              "reason": "The score is 0.67 because the actual output inaccurately attributes decision-making responsibilities to the head of the drug rehabilitation facility and implies regulatory compliance requirements that are not explicitly mentioned in the retrieval context."
+            },
+            "answer_relevancy": {
+              "score": 0.8888888888888888,
+              "reason": "The score is 0.89 because while the response provided relevant information about drug rehabilitation measures, it included an irrelevant statement regarding notifying the local government, which does not directly address the measures for drug rehabilitation outlined in the law."
+            },
+            "context_recall": {
+              "score": 1.0,
+              "reason": "The score is 1.00 because the expected output directly aligns with the information provided in node 1 of the retrieval context, which mentions both 'cai nghiện ma tuý tự nguyện' and 'cai nghiện ma tuý bắt buộc', confirming a perfect match."
+            },
+            "context_precision": {
+              "score": 0,
+              "reason": "The score is 0.00 because all nodes in the retrieval contexts are irrelevant to the input question about specific measures for drug rehabilitation. Each of the five nodes ranks lower due to their focus on responsibilities and legal aspects rather than providing the requested information. For instance, the first node states, \"The document discusses responsibilities of drug rehabilitation facilities but does not mention specific measures for voluntary or compulsory drug rehabilitation,\" indicating"
+            }
+          }
+        },
+        {
+          "question": "Thời hạn cai nghiện ma tuý tự nguyện tại gia đình, cộng đồng là bao lâu?",
+          "expected_answer": "Theo Luật Phòng, chống ma tuý 2021, thời hạn cai nghiện ma tuý tự nguyện tại gia đình, cộng đồng là từ đủ 06 tháng đến 12 tháng.",
+          "expected_context": "Luật Phòng chống ma tuý 2021, Điều 30",
+          "answer": "Thời hạn cai nghiện ma túy tự nguyện tại gia đình, cộng đồng là từ đủ 06 tháng đến 12 tháng [Luật Phòng chống ma túy 2021, Điều 30].",
+          "retrieval_source": "dense",
+          "num_chunks": 5,
+          "scores": {
+            "faithfulness": {
+              "score": 1.0,
+              "reason": "The score is 1.00 because there are no contradictions present, indicating that the actual output perfectly aligns with the retrieval context."
+            },
+            "answer_relevancy": {
+              "score": 0.5,
+              "reason": "The score is 0.50 because while the output mentions a law, it fails to directly address the specific question about the duration of voluntary drug rehabilitation at home or in the community."
+            },
+            "context_recall": {
+              "score": 1.0,
+              "reason": "The score is 1.00 because the sentence directly reflects the information provided in the 1st node in retrieval context, confirming its accuracy and relevance."
+            },
+            "context_precision": {
+              "score": 1.0,
+              "reason": "The score is 1.00 because the first node directly addresses the question with a clear answer, stating that 'Thời hạn cai nghiện ma túy tự nguyện tại gia đình, cộng đồng là từ đủ 06 tháng đến 12 tháng.' The subsequent nodes, ranked lower, discuss irrelevant topics such as detoxification at facilities and responsibilities of service providers, which do not pertain to the question about home and community detoxification."
+            }
+          }
+        },
+        {
+          "question": "Theo Luật Phòng chống ma tuý 2021, tiền chất là gì?",
+          "expected_answer": "Theo Luật Phòng, chống ma tuý 2021, tiền chất là hoá chất không thể thiếu được trong quá trình điều chế, sản xuất chất ma tuý, được quy định trong danh mục tiền chất do Chính phủ ban hành.",
+          "expected_context": "Luật Phòng chống ma tuý 2021, Điều 2 khoản 4",
+          "answer": "Theo Luật Phòng chống ma túy 2021, tiền chất được định nghĩa là hóa chất không thể thiếu trong quá trình điều chế, sản xuất chất ma túy, và được quy định trong danh mục tiền chất do Chính phủ ban hành [Luật Phòng chống ma tuý 2021, Điều 2].",
+          "retrieval_source": "dense",
+          "num_chunks": 5,
+          "scores": {
+            "faithfulness": {
+              "score": 1.0,
+              "reason": "The score is 1.00 because there are no contradictions present, indicating that the actual output perfectly aligns with the retrieval context."
+            },
+            "answer_relevancy": {
+              "score": 1.0,
+              "reason": "The score is 1.00 because the response directly addresses the question about the definition of 'tiền chất' in the context of the 2021 Drug Prevention Law without any irrelevant statements."
+            },
+            "context_recall": {
+              "score": 1.0,
+              "reason": "The score is 1.00 because the sentence perfectly aligns with the information from node 4 in the retrieval context, confirming its accuracy and relevance."
+            },
+            "context_precision": {
+              "score": 1.0,
+              "reason": "The score is 1.00 because the first node provides a clear and direct definition of 'tiền chất', which is exactly what the input question asks for. The subsequent nodes, ranked lower, discuss various drug-related topics but fail to address the definition of 'tiền chất', making them irrelevant to the query. This clear distinction in relevance ensures that the relevant node is prioritized, resulting in a perfect score."
+            }
+          }
+        },
+        {
+          "question": "Người sử dụng trái phép chất ma tuý được định nghĩa thế nào theo Luật Phòng chống ma tuý 2021?",
+          "expected_answer": "Theo Luật Phòng, chống ma tuý 2021, người sử dụng trái phép chất ma tuý là người có hành vi sử dụng chất ma tuý mà không được sự cho phép của người hoặc cơ quan chuyên môn có thẩm quyền và xét nghiệm chất ma tuý trong cơ thể có kết quả dương tính.",
+          "expected_context": "Luật Phòng chống ma tuý 2021, Điều 2 khoản 10",
+          "answer": "Theo Luật Phòng chống ma túy 2021, người sử dụng trái phép chất ma túy được định nghĩa là người có hành vi sử dụng chất ma túy mà không được sự cho phép của người hoặc cơ quan chuyên môn có thẩm quyền và xét nghiệm chất ma túy trong cơ thể có kết quả dương tính [Luật Phòng chống ma túy 2021, Điều 10]. \n\nĐịnh nghĩa này nhấn mạnh rằng việc sử dụng chất ma túy phải có sự cho phép của các cơ quan có thẩm quyền, và nếu không có sự cho phép đó, người sử dụng sẽ bị coi là vi phạm pháp luật.",
+          "retrieval_source": "dense",
+          "num_chunks": 5,
+          "scores": {
+            "faithfulness": {
+              "score": 0.75,
+              "reason": "The score is 0.75 because the actual output misinterprets the definition of drug use by implying that permission from authorities is necessary, whereas the retrieval context clarifies that drug use must occur without permission, not requiring any form of approval."
+            },
+            "answer_relevancy": {
+              "score": 0.5,
+              "reason": "The score is 0.50 because while some relevant information was provided, there were significant irrelevant statements that detracted from the main question about the definition of 'người sử dụng trái phép chất ma túy'. The output included unnecessary discussions about permission and legal consequences, which did not directly address the definition sought."
+            },
+            "context_recall": {
+              "score": 1.0,
+              "reason": "The score is 1.00 because the expected output perfectly aligns with the information provided in node 1 of the retrieval context, demonstrating a complete and accurate match."
+            },
+            "context_precision": {
+              "score": 1.0,
+              "reason": "The score is 1.00 because the relevant node clearly defines 'người sử dụng trái phép chất ma túy' in the first node, providing a direct answer to the question. The subsequent nodes, ranked lower, discuss responsibilities and management related to drug users but do not offer a definition, which justifies their lower ranking."
+            }
+          }
+        },
+        {
+          "question": "Thời hạn quản lý người sử dụng trái phép chất ma tuý là bao lâu?",
+          "expected_answer": "Theo Luật Phòng, chống ma tuý 2021, thời hạn quản lý người sử dụng trái phép chất ma tuý là 01 năm kể từ ngày có quyết định quản lý.",
+          "expected_context": "Luật Phòng chống ma tuý 2021, Điều về quản lý người sử dụng trái phép chất ma tuý",
+          "answer": "Thời hạn quản lý người sử dụng trái phép chất ma túy là 01 năm kể từ ngày Chủ tịch Ủy ban nhân dân cấp xã ra quyết định quản lý [Luật Phòng chống ma tuý 2021, Điều 23].",
+          "retrieval_source": "dense",
+          "num_chunks": 5,
+          "scores": {
+            "faithfulness": {
+              "score": 0.6666666666666666,
+              "reason": "The score is 0.67 because the actual output fails to clarify that the management period begins on the day the Chairman of the People's Committee issues the management decision, leading to a lack of alignment with the retrieval context."
+            },
+            "answer_relevancy": {
+              "score": 1.0,
+              "reason": "The score is 1.00 because the response directly addresses the question about the duration of managing unauthorized drug users without any irrelevant statements."
+            },
+            "context_recall": {
+              "score": 1.0,
+              "reason": "The score is 1.00 because the sentence directly aligns with the information in node 2 regarding the management period for drug users, confirming its relevance and accuracy."
+            },
+            "context_precision": {
+              "score": 1.0,
+              "reason": "The score is 1.00 because the first node provides a clear and direct answer to the question about the duration of management for illegal drug users, stating that it is '01 năm' from the decision date. The subsequent nodes, ranked lower, do not address the question at all; for instance, the second node discusses testing procedures, the third focuses on criminal penalties, the fourth elaborates on trafficking penalties, and the fifth talks about family responsibilities, none of which are relevant "
+            }
+          }
+        },
+        {
+          "question": "Việc xét nghiệm chất ma tuý trong cơ thể được thực hiện qua những mẫu nào?",
+          "expected_answer": "Theo Luật Phòng, chống ma tuý 2021, xét nghiệm chất ma tuý trong cơ thể là việc thực hiện các kỹ thuật chuyên môn nhằm xác định chất ma tuý trong cơ thể thông qua mẫu nước tiểu, mẫu máu hoặc các mẫu vật khác của cơ thể người.",
+          "expected_context": "Luật Phòng chống ma tuý 2021, Điều 2 khoản 11",
+          "answer": "Việc xét nghiệm chất ma túy trong cơ thể được thực hiện thông qua các mẫu vật sau:\n\n1. **Mẫu nước tiểu**: Đây là phương pháp phổ biến nhất hiện nay nhờ tính tiện lợi, cho kết quả nhanh chóng và độ chính xác cao khi cần sàng lọc người sử dụng ma túy đá [Document 5].\n\n2. **Mẫu máu**: Xét nghiệm máu là một trong những phương pháp để phát hiện ma túy đá, hoạt chất bắt đầu xuất hiện sau 1 giờ và có thể tìm thấy trong vòng hơn 3 ngày kể từ lần cuối sử dụng [Document 5].\n\n3. **Mẫu nước bọt**: Dấu vết ma túy đá xuất hiện rất sớm (chỉ sau 10 phút) và lưu lại trong khoảng 4 ngày [Document 5].\n\n4. **Mẫu tóc**: Đây là nơi lưu giữ độc chất lâu nhất, các kỹ thuật phân tích mẫu tóc có thể phát hiện ra ma túy đá kể cả sau 90 ngày [Document 5].\n\nNhư vậy, các mẫu vật được sử dụng trong xét nghiệm chất ma túy bao gồm nước tiểu, máu, nước bọt và tóc.",
+          "retrieval_source": "dense",
+          "num_chunks": 5,
+          "scores": {
+            "faithfulness": {
+              "score": 1.0,
+              "reason": "The score is 1.00 because there are no contradictions present, indicating that the actual output perfectly aligns with the retrieval context."
+            },
+            "answer_relevancy": {
+              "score": 1.0,
+              "reason": "The score is 1.00 because there are no irrelevant statements in the actual output, indicating that the response is fully relevant and directly addresses the question about drug testing methods."
+            },
+            "context_recall": {
+              "score": 1.0,
+              "reason": "The score is 1.00 because the sentence perfectly aligns with the 11th node in the retrieval context, confirming its accuracy and relevance."
+            },
+            "context_precision": {
+              "score": 1.0,
+              "reason": "The score is 1.00 because all relevant nodes are ranked higher than the irrelevant nodes. The first three nodes provide direct answers to the question about drug testing samples, stating that 'Xét nghiệm chất ma túy trong cơ thể là việc thực hiện các kỹ thuật chuyên môn nhằm xác định chất ma túy trong cơ thể thông qua mẫu nước tiểu, mẫu máu hoặc các mẫu vật khác của cơ thể người' and detailing methods like 'Xét nghiệm nước tiểu' and 'Xét nghiệm máu.' In contrast, the fourth and fifth nodes, whic"
+            }
+          }
+        },
+        {
+          "question": "Ca sĩ Miu Lê bị phát hiện dương tính với những loại ma tuý nào?",
+          "expected_answer": "Ca sĩ Miu Lê (Lê Ánh Nhật) bị Công an TP Hải Phòng xác định dương tính cùng lúc với 3 loại ma tuý gồm Methamphetamine (ma tuý đá), Ketamine (\"ke\") và MDMA (thuốc lắc), và bị khởi tố về hành vi tổ chức sử dụng trái phép chất ma tuý.",
+          "expected_context": "Bài báo Báo Quảng Ninh / VOV về vụ Miu Lê tại Hải Phòng tháng 5/2026",
+          "answer": "Ca sĩ Miu Lê bị phát hiện dương tính với 3 loại ma túy gồm Methamphetamine (ma túy đá), Ketamine (“ke”) và MDMA (thuốc lắc) [Document 1].",
+          "retrieval_source": "dense",
+          "num_chunks": 5,
+          "scores": {
+            "faithfulness": {
+              "score": null,
+              "reason": "[ERROR] LengthFinishReasonError: Could not parse response content as the length limit was reached - CompletionUsage(completion_tokens=4000, prompt_tokens=970, total_tokens=4970, completion_tokens_details=CompletionTokensDetails(accepted_prediction_tokens=0, audio_tokens=0, reasoning_tokens=0, rejected_prediction_tokens=0), prompt_tokens_details=PromptTokensDetails(audio_tokens=0, cached_tokens=0))"
+            },
+            "answer_relevancy": {
+              "score": 0.75,
+              "reason": "The score is 0.75 because while the mention of MDMA is relevant to drug discussions, it does not specifically address the types of drugs Miu Lê tested positive for, which is the main focus of the input."
+            },
+            "context_recall": {
+              "score": 1.0,
+              "reason": "The score is 1.00 because the sentence directly mentions Miu Lê and her drug test results, which is found in the 2nd node in retrieval context, confirming a perfect match."
+            },
+            "context_precision": {
+              "score": 1.0,
+              "reason": "The score is 1.00 because all relevant nodes are ranked higher than the irrelevant node. The first four nodes provide direct answers and context regarding Miu Lê's drug use, such as the specific types of drugs and legal implications. In contrast, the fifth node is ranked last and states that it does not provide specific information about Miu Lê or the drugs, which justifies its lower ranking."
+            }
+          }
+        },
+        {
+          "question": "Vụ án ma tuý liên quan ca sĩ Long Nhật và Sơn Ngọc Minh tại TPHCM có quy mô như thế nào?",
+          "expected_answer": "Công an TPHCM đã triệt phá một đường dây tội phạm ma tuý quy mô lớn, bắt giữ và xử lý tổng cộng 74 đối tượng, trong đó 71 bị can bị khởi tố, bắt tạm giam về các hành vi mua bán, tàng trữ và tổ chức sử dụng trái phép chất ma tuý; 3 trường hợp còn lại bị xử lý hành chính. Ca sĩ Long Nhật và Sơn Ngọc Minh nằm trong số người bị xử lý hình sự.",
+          "expected_context": "Bài báo VOV về vụ Long Nhật, Sơn Ngọc Minh tháng 5/2026",
+          "answer": "Vụ án ma túy liên quan đến ca sĩ Long Nhật và Sơn Ngọc Minh tại TPHCM có quy mô lớn. Theo thông tin được đăng tải, Công an TPHCM đã triệt phá một đường dây tội phạm ma túy quy mô lớn trên địa bàn, bắt giữ và xử lý tổng cộng 74 đối tượng. Trong số đó, 71 bị can đã bị khởi tố và bắt tạm giam để điều tra về các hành vi “Mua bán trái phép chất ma túy”, “Tàng trữ trái phép chất ma túy” và “Tổ chức sử dụng trái phép chất ma túy” [Document 1 | Source: article_01.md]. \n\nVụ việc này đã gây xôn xao dư luận, đặc biệt khi Long Nhật và Sơn Ngọc Minh là những nghệ sĩ có độ nhận diện nhất định trong làng giải trí Việt [Document 2 | Source: article_01.md].",
+          "retrieval_source": "dense",
+          "num_chunks": 5,
+          "scores": {
+            "faithfulness": {
+              "score": 1.0,
+              "reason": "The score is 1.00 because there are no contradictions present, indicating that the actual output perfectly aligns with the retrieval context."
+            },
+            "answer_relevancy": {
+              "score": 0.875,
+              "reason": "The score is 0.88 because while the response provided relevant information about the drug case, it included an irrelevant statement about Long Nhật and Sơn Ngọc Minh being recognized artists, which did not directly address the scale of the drug case."
+            },
+            "context_recall": {
+              "score": 1.0,
+              "reason": "The score is 1.00 because every aspect of the expected output is fully supported by the information in the nodes of the retrieval context, confirming the accuracy and completeness of the details provided."
+            },
+            "context_precision": {
+              "score": 0.9166666666666666,
+              "reason": "The score is 0.92 because the relevant nodes are well-ranked, with the first three nodes providing substantial information about the drug trafficking case and the involvement of the artists. However, the presence of two irrelevant nodes ranked lower affects the score, as they do not contribute to understanding the scale of the case. Specifically, the third node (rank 3) focuses on personal struggles rather than the case's scale, and the fifth node (rank 5) discusses unrelated legal issues, which"
+            }
+          }
+        },
+        {
+          "question": "Ca sĩ Châu Việt Cường bị tuyên án bao nhiêu năm tù và về tội gì?",
+          "expected_answer": "Năm 2018, sau khi sử dụng ma tuý, Châu Việt Cường bị ảo giác và gây ra cái chết của một cô gái. Năm 2019, TAND TP Hà Nội tuyên phạt Châu Việt Cường 13 năm tù về các tội Giết người và Tàng trữ trái phép chất ma tuý, sau đó được giảm án 2 năm.",
+          "expected_context": "Bài báo VOV về các vụ nghệ sĩ liên quan ma tuý",
+          "answer": "Ca sĩ Châu Việt Cường bị TAND TP Hà Nội tuyên phạt 13 năm tù về các tội “Giết người” và “Tàng trữ trái phép chất ma túy” [Document 1].",
+          "retrieval_source": "dense",
+          "num_chunks": 5,
+          "scores": {
+            "faithfulness": {
+              "score": null,
+              "reason": "[ERROR] LengthFinishReasonError: Could not parse response content as the length limit was reached - CompletionUsage(completion_tokens=4000, prompt_tokens=1125, total_tokens=5125, completion_tokens_details=CompletionTokensDetails(accepted_prediction_tokens=0, audio_tokens=0, reasoning_tokens=0, rejected_prediction_tokens=0), prompt_tokens_details=PromptTokensDetails(audio_tokens=0, cached_tokens=0))"
+            },
+            "answer_relevancy": {
+              "score": 0.75,
+              "reason": "The score is 0.75 because while the response addressed the main question about the sentence and the crime, it included an irrelevant statement about the court that did not contribute to the answer."
+            },
+            "context_recall": {
+              "score": 1.0,
+              "reason": "The score is 1.00 because every aspect of the expected output is fully supported by the relevant node(s) in retrieval context, confirming the accuracy of the information regarding Châu Việt Cường's actions and sentencing."
+            },
+            "context_precision": {
+              "score": 1.0,
+              "reason": "The score is 1.00 because the first node provides a comprehensive account of Châu Việt Cường's sentencing, clearly addressing the input question. The subsequent nodes, ranked lower, contain irrelevant information, such as discussions about other artists and drug issues, which do not pertain to Châu Việt Cường's case. This clear distinction in relevance justifies the high score, as the relevant node is prioritized over the irrelevant ones."
+            }
+          }
+        },
+        {
+          "question": "Diễn viên hài Hữu Tín bị tuyên án bao nhiêu năm tù?",
+          "expected_answer": "Ngày 28/4/2023, TAND quận 8 (TPHCM) tuyên phạt Hữu Tín 7 năm 6 tháng tù về tội Tổ chức sử dụng trái phép chất ma tuý. Hữu Tín khai nghiện ma tuý gần 3 năm trước khi bị bắt.",
+          "expected_context": "Bài báo VOV về các vụ nghệ sĩ liên quan ma tuý",
+          "answer": "Diễn viên hài Hữu Tín bị tuyên án 7 năm 6 tháng tù về tội \"Tổ chức sử dụng trái phép chất ma túy\" vào ngày 28/4/2023 [Document 2].",
+          "retrieval_source": "dense",
+          "num_chunks": 5,
+          "scores": {
+            "faithfulness": {
+              "score": 1.0,
+              "reason": "The score is 1.00 because there are no contradictions present, indicating that the actual output perfectly aligns with the retrieval context."
+            },
+            "answer_relevancy": {
+              "score": 0.6666666666666666,
+              "reason": "The score is 0.67 because while the response provided some relevant information about the prison sentence, it included an irrelevant detail regarding the date of sentencing, which did not address the question about the length of the prison sentence."
+            },
+            "context_recall": {
+              "score": 1.0,
+              "reason": "The score is 1.00 because all sentences in the expected output are directly supported by the 2nd node in the retrieval context, confirming the details of Hữu Tín's sentencing and drug use."
+            },
+            "context_precision": {
+              "score": 1.0,
+              "reason": "The score is 1.00 because all relevant nodes are ranked higher than the irrelevant nodes. The first three nodes provide direct answers and context regarding Hữu Tín's sentencing, stating 'Hữu Tín 7 năm 6 tháng tù' and confirming his drug use, which directly addresses the input question. In contrast, the fourth and fifth nodes discuss unrelated individuals and cases, making them less relevant and ensuring they are ranked lower."
+            }
+          }
+        },
+        {
+          "question": "Diễn viên Lệ Hằng bị khởi tố về tội gì và bị phát hiện bao nhiêu ma tuý?",
+          "expected_answer": "Năm 2023, diễn viên Lệ Hằng bị khởi tố về tội Mua bán trái phép chất ma tuý. Lực lượng chức năng phát hiện trong người Lệ Hằng 0,696 gram ma tuý tổng hợp khi kiểm tra hành chính trên phố Khâm Thiên, Hà Nội; bản thân Lệ Hằng âm tính với ma tuý.",
+          "expected_context": "Bài báo VOV về các vụ nghệ sĩ liên quan ma tuý",
+          "answer": "Diễn viên Lệ Hằng bị khởi tố về tội \"Mua bán trái phép chất ma túy\" vào năm 2023. Cơ quan điều tra phát hiện trong người cô có 0,696 gram ma túy tổng hợp khi kiểm tra hành chính trên phố Khâm Thiên, Hà Nội [Document 2].",
+          "retrieval_source": "dense",
+          "num_chunks": 5,
+          "scores": {
+            "faithfulness": {
+              "score": 1.0,
+              "reason": "The score is 1.00 because there are no contradictions present, indicating that the actual output aligns perfectly with the retrieval context."
+            },
+            "answer_relevancy": {
+              "score": 0.5,
+              "reason": "The score is 0.50 because there were irrelevant statements regarding the year of the incident and the location of the administrative check, which do not directly address the specific charges or the amount of drugs involved. These irrelevant details detracted from the focus on the core question about the charges and drug quantity."
+            },
+            "context_recall": {
+              "score": 1.0,
+              "reason": "The score is 1.00 because every detail in the expected output is fully supported by the retrieval context, confirming the accuracy of the information regarding Lệ Hằng's prosecution and drug-related findings."
+            },
+            "context_precision": {
+              "score": 1.0,
+              "reason": "The score is 1.00 because all relevant nodes are ranked higher than the irrelevant nodes. The first node provides a direct answer about the crime Lệ Hằng was charged with, stating that 'Năm 2023, diễn viên Lệ Hằng bị khởi tố về tội Mua bán trái phép chất ma túy.' The second node further supports this by mentioning the specific amount of drugs found, stating 'Lực lượng chức năng phát hiện trong người Lệ Hằng 0,696 gram ma túy tổng hợp.' In contrast, the irrelevant nodes, such as the third node di"
+            }
+          }
+        },
+        {
+          "question": "Ma tuý đá có thời gian bán thải trong cơ thể là bao lâu và xét nghiệm nào phát hiện được lâu nhất?",
+          "expected_answer": "Ma tuý đá (methamphetamine) có chu kỳ bán thải khoảng 10 đến 12 tiếng. Trong các phương pháp xét nghiệm, xét nghiệm tóc lưu giữ dấu vết lâu nhất và có thể phát hiện ma tuý đá kể cả sau 90 ngày. Xét nghiệm nước tiểu là phương pháp phổ biến nhất.",
+          "expected_context": "Bài báo Ngôi Sao / Thời trang vàng về ma tuý đá",
+          "answer": "Ma túy đá có thời gian bán thải trong cơ thể thường rơi vào khoảng 10 đến 12 tiếng. Điều này có nghĩa là sau nửa ngày, lượng độc chất trong cơ thể chỉ giảm đi 50% [Document 1]. Do đó, ngay cả khi đã ngưng sử dụng được 3 ngày, một lượng hoạt chất đáng kể của ma túy đá vẫn sẽ lưu lại trong máu người dùng [Document 1].\n\nVề phương pháp xét nghiệm, xét nghiệm tóc là phương pháp phát hiện ma túy đá lâu nhất. Các kỹ thuật phân tích mẫu tóc có thể phát hiện ra ma túy đá kể cả sau 90 ngày [Document 5]. Các phương pháp khác như xét nghiệm máu, nước tiểu và nước bọt cũng có thể phát hiện ma túy đá nhưng thời gian tồn tại trong cơ thể của chúng ngắn hơn so với xét nghiệm tóc [Document 5].",
+          "retrieval_source": "dense",
+          "num_chunks": 5,
+          "scores": {
+            "faithfulness": {
+              "score": 1.0,
+              "reason": "The score is 1.00 because there are no contradictions present, indicating that the actual output perfectly aligns with the retrieval context."
+            },
+            "answer_relevancy": {
+              "score": 1.0,
+              "reason": "The score is 1.00 because there are no irrelevant statements in the output, indicating that the response is fully relevant and directly addresses the question about the half-life of methamphetamine and the most effective testing methods."
+            },
+            "context_recall": {
+              "score": 1.0,
+              "reason": "The score is 1.00 because all sentences in the expected output are directly supported by the corresponding nodes in the retrieval context, confirming the accuracy and relevance of the information provided."
+            },
+            "context_precision": {
+              "score": 1.0,
+              "reason": "The score is 1.00 because all relevant nodes are ranked higher than the irrelevant nodes. The first node provides a clear answer about the half-life of methamphetamine, stating that 'Đối với ma túy đá, chu kỳ bán thải thường rơi vào khoảng 10 đến 12 tiếng,' while the second node offers information on detection methods, mentioning that 'xét nghiệm tóc là nơi lưu giữ độc chất lâu nhất, các kỹ thuật phân tích mẫu tóc có thể phát hiện ra ma túy đá kể cả sau 90 ngày.' The irrelevant nodes, ranked thi"
+            }
+          }
+        },
+        {
+          "question": "Rapper Bình Gold bị phát hiện dương tính với loại chất cấm nào?",
+          "expected_answer": "Rapper Bình Gold (Vũ Xuân Bình) bị lực lượng chức năng phát hiện dương tính với chất ma tuý gồm cần sa (và bồ đà/ketamin theo các nguồn) sau khi điều khiển xe lạng lách trên cao tốc Nội Bài - Lào Cai.",
+          "expected_context": "Bài báo VOV / Tiền Phong về rapper Bình Gold",
+          "answer": "Rapper Bình Gold bị phát hiện dương tính với chất ma túy gồm cần sa và bồ đà [Document 2].",
+          "retrieval_source": "dense",
+          "num_chunks": 5,
+          "scores": {
+            "faithfulness": {
+              "score": 0.0,
+              "reason": "The score is 0.00 because the actual output inaccurately states that Bình Gold tested positive for drugs including bồ đà, while the retrieval context only confirms marijuana and ketamine, indicating a significant discrepancy."
+            },
+            "answer_relevancy": {
+              "score": 1.0,
+              "reason": "The score is 1.00 because there are no irrelevant statements in the output, indicating a perfect alignment with the input question."
+            },
+            "context_recall": {
+              "score": 1.0,
+              "reason": "The score is 1.00 because the sentence directly aligns with the information in node 3, which details 'Rapper Bình Gold' and his drug-related incident, confirming a perfect match."
+            },
+            "context_precision": {
+              "score": 1.0,
+              "reason": "The score is 1.00 because all relevant nodes are ranked higher than the irrelevant nodes. The first three nodes provide direct answers and relevant background about rapper Bình Gold's drug test results, stating he tested positive for 'cần sa và bồ đà' and 'cần sa và ketamin.' In contrast, the fourth and fifth nodes discuss unrelated individuals and general drug issues, which do not pertain to Bình Gold, thus justifying their lower ranking."
+            }
+          }
+        }
+      ]
+    }
+  }
+}

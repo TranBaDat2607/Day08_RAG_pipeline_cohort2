@@ -1,17 +1,92 @@
 [
   {
-    "question": "Hình phạt cho tội tàng trữ trái phép chất ma tuý theo Điều 249 Bộ luật Hình sự?",
-    "expected_answer": "Phạt tù từ 1 đến 5 năm đối với trường hợp tàng trữ từ 1g đến dưới 5g heroin hoặc cocaine, hoặc chất ma tuý khác với khối lượng tương đương.",
-    "expected_context": "Bộ luật Hình sự 2015, Điều 249"
+    "question": "Hình phạt cho tội tàng trữ trái phép chất ma tuý theo Điều 249 Bộ luật Hình sự là gì?",
+    "expected_answer": "Theo Điều 249 Bộ luật Hình sự 2015 (sửa đổi, bổ sung 2025), người nào tàng trữ trái phép chất ma tuý mà không nhằm mục đích mua bán, vận chuyển, sản xuất thì ở khung cơ bản (khoản 1) bị phạt tù từ 3 năm đến 5 năm. Nếu có tình tiết tăng nặng, mức án có thể tăng lên 5-10 năm, 10-15 năm, 15-20 năm hoặc tù chung thân.",
+    "expected_context": "Bộ luật Hình sự 2015 (sửa đổi 2025), Điều 249 — trích trong bài báo Báo Quảng Ninh"
   },
   {
-    "question": "Luật Phòng chống ma tuý 2021 quy định những hình thức cai nghiện nào?",
-    "expected_answer": "Cai nghiện tự nguyện tại gia đình, cai nghiện tự nguyện tại cộng đồng, cai nghiện tự nguyện tại cơ sở cai nghiện, và cai nghiện bắt buộc tại cơ sở cai nghiện.",
-    "expected_context": "Luật Phòng chống ma tuý 2021, Chương V"
+    "question": "Tội mua bán trái phép chất ma tuý theo Điều 251 bị xử lý như thế nào?",
+    "expected_answer": "Theo Điều 251 Bộ luật Hình sự 2015 (sửa đổi 2025), tội mua bán trái phép chất ma tuý ở khung cơ bản bị phạt tù từ 3 năm đến 7 năm. Nếu có tình tiết tăng nặng (phạm tội có tổ chức, số lượng lớn, qua biên giới...), mức án có thể tăng lên 7-15 năm, 15-20 năm, tù chung thân hoặc tử hình. Ngoài ra còn có thể bị phạt tiền từ 5 triệu đến 500 triệu đồng.",
+    "expected_context": "Bộ luật Hình sự 2015 (sửa đổi 2025), Điều 251"
   },
   {
-    "question": "Danh mục các chất ma tuý thuộc nhóm I theo quy định pháp luật Việt Nam gồm những chất nào?",
-    "expected_answer": "Nhóm I gồm các chất ma tuý tuyệt đối cấm sử dụng trong y học và đời sống, bao gồm heroin, cocaine, methamphetamine, MDMA (ecstasy), cannabis (cần sa), và các chất tương tự.",
-    "expected_context": "Nghị định 57/2022/NĐ-CP, Phụ lục I"
+    "question": "Mức hình phạt cho tội tổ chức sử dụng trái phép chất ma tuý theo Điều 255 là bao nhiêu?",
+    "expected_answer": "Theo Điều 255 Bộ luật Hình sự 2015 (sửa đổi 2025), tội tổ chức sử dụng trái phép chất ma tuý có mức hình phạt thấp nhất là 3 năm tù giam và cao nhất lên đến 20 năm tù hoặc tù chung thân. Người phạm tội còn có thể bị phạt tiền từ 50 triệu đến 500 triệu đồng.",
+    "expected_context": "Bộ luật Hình sự 2015 (sửa đổi 2025), Điều 255"
+  },
+  {
+    "question": "Người sử dụng trái phép chất ma tuý lần đầu nhưng chưa đến mức truy cứu hình sự bị xử phạt ra sao?",
+    "expected_answer": "Đối với hành vi sử dụng trái phép chất ma tuý lần đầu nhưng chưa đến mức bị truy cứu trách nhiệm hình sự, theo Nghị định 282/2025/NĐ-CP người vi phạm có thể bị phạt cảnh cáo hoặc phạt tiền từ 1 triệu đến 2 triệu đồng, có thể bị tịch thu tang vật và áp dụng biện pháp cai nghiện tự nguyện hoặc bắt buộc.",
+    "expected_context": "Nghị định 282/2025/NĐ-CP, Điều 30 — trích trong bài báo Báo Quảng Ninh"
+  },
+  {
+    "question": "Đối với heroin, cocaine hay methamphetamine, khối lượng tối thiểu để bị truy cứu trách nhiệm hình sự là bao nhiêu?",
+    "expected_answer": "Đối với một số chất ma tuý như heroin, cocaine hoặc methamphetamine, chỉ cần từ 0,1 gam trở lên đã đủ căn cứ để truy cứu trách nhiệm hình sự.",
+    "expected_context": "Bộ luật Hình sự, quy định về tàng trữ — trích trong bài báo Báo Quảng Ninh"
+  },
+  {
+    "question": "Luật Phòng chống ma tuý 2021 quy định những biện pháp cai nghiện nào?",
+    "expected_answer": "Luật Phòng, chống ma tuý 2021 quy định hai nhóm biện pháp: cai nghiện ma tuý tự nguyện (thực hiện tại gia đình, cộng đồng hoặc tại cơ sở cai nghiện ma tuý) và cai nghiện ma tuý bắt buộc (thực hiện tại cơ sở cai nghiện ma tuý công lập).",
+    "expected_context": "Luật Phòng chống ma tuý 2021, Chương V (Điều 28-32)"
+  },
+  {
+    "question": "Thời hạn cai nghiện ma tuý tự nguyện tại gia đình, cộng đồng là bao lâu?",
+    "expected_answer": "Theo Luật Phòng, chống ma tuý 2021, thời hạn cai nghiện ma tuý tự nguyện tại gia đình, cộng đồng là từ đủ 06 tháng đến 12 tháng.",
+    "expected_context": "Luật Phòng chống ma tuý 2021, Điều 30"
+  },
+  {
+    "question": "Theo Luật Phòng chống ma tuý 2021, tiền chất là gì?",
+    "expected_answer": "Theo Luật Phòng, chống ma tuý 2021, tiền chất là hoá chất không thể thiếu được trong quá trình điều chế, sản xuất chất ma tuý, được quy định trong danh mục tiền chất do Chính phủ ban hành.",
+    "expected_context": "Luật Phòng chống ma tuý 2021, Điều 2 khoản 4"
+  },
+  {
+    "question": "Người sử dụng trái phép chất ma tuý được định nghĩa thế nào theo Luật Phòng chống ma tuý 2021?",
+    "expected_answer": "Theo Luật Phòng, chống ma tuý 2021, người sử dụng trái phép chất ma tuý là người có hành vi sử dụng chất ma tuý mà không được sự cho phép của người hoặc cơ quan chuyên môn có thẩm quyền và xét nghiệm chất ma tuý trong cơ thể có kết quả dương tính.",
+    "expected_context": "Luật Phòng chống ma tuý 2021, Điều 2 khoản 10"
+  },
+  {
+    "question": "Thời hạn quản lý người sử dụng trái phép chất ma tuý là bao lâu?",
+    "expected_answer": "Theo Luật Phòng, chống ma tuý 2021, thời hạn quản lý người sử dụng trái phép chất ma tuý là 01 năm kể từ ngày có quyết định quản lý.",
+    "expected_context": "Luật Phòng chống ma tuý 2021, Điều về quản lý người sử dụng trái phép chất ma tuý"
+  },
+  {
+    "question": "Việc xét nghiệm chất ma tuý trong cơ thể được thực hiện qua những mẫu nào?",
+    "expected_answer": "Theo Luật Phòng, chống ma tuý 2021, xét nghiệm chất ma tuý trong cơ thể là việc thực hiện các kỹ thuật chuyên môn nhằm xác định chất ma tuý trong cơ thể thông qua mẫu nước tiểu, mẫu máu hoặc các mẫu vật khác của cơ thể người.",
+    "expected_context": "Luật Phòng chống ma tuý 2021, Điều 2 khoản 11"
+  },
+  {
+    "question": "Ca sĩ Miu Lê bị phát hiện dương tính với những loại ma tuý nào?",
+    "expected_answer": "Ca sĩ Miu Lê (Lê Ánh Nhật) bị Công an TP Hải Phòng xác định dương tính cùng lúc với 3 loại ma tuý gồm Methamphetamine (ma tuý đá), Ketamine (\"ke\") và MDMA (thuốc lắc), và bị khởi tố về hành vi tổ chức sử dụng trái phép chất ma tuý.",
+    "expected_context": "Bài báo Báo Quảng Ninh / VOV về vụ Miu Lê tại Hải Phòng tháng 5/2026"
+  },
+  {
+    "question": "Vụ án ma tuý liên quan ca sĩ Long Nhật và Sơn Ngọc Minh tại TPHCM có quy mô như thế nào?",
+    "expected_answer": "Công an TPHCM đã triệt phá một đường dây tội phạm ma tuý quy mô lớn, bắt giữ và xử lý tổng cộng 74 đối tượng, trong đó 71 bị can bị khởi tố, bắt tạm giam về các hành vi mua bán, tàng trữ và tổ chức sử dụng trái phép chất ma tuý; 3 trường hợp còn lại bị xử lý hành chính. Ca sĩ Long Nhật và Sơn Ngọc Minh nằm trong số người bị xử lý hình sự.",
+    "expected_context": "Bài báo VOV về vụ Long Nhật, Sơn Ngọc Minh tháng 5/2026"
+  },
+  {
+    "question": "Ca sĩ Châu Việt Cường bị tuyên án bao nhiêu năm tù và về tội gì?",
+    "expected_answer": "Năm 2018, sau khi sử dụng ma tuý, Châu Việt Cường bị ảo giác và gây ra cái chết của một cô gái. Năm 2019, TAND TP Hà Nội tuyên phạt Châu Việt Cường 13 năm tù về các tội Giết người và Tàng trữ trái phép chất ma tuý, sau đó được giảm án 2 năm.",
+    "expected_context": "Bài báo VOV về các vụ nghệ sĩ liên quan ma tuý"
+  },
+  {
+    "question": "Diễn viên hài Hữu Tín bị tuyên án bao nhiêu năm tù?",
+    "expected_answer": "Ngày 28/4/2023, TAND quận 8 (TPHCM) tuyên phạt Hữu Tín 7 năm 6 tháng tù về tội Tổ chức sử dụng trái phép chất ma tuý. Hữu Tín khai nghiện ma tuý gần 3 năm trước khi bị bắt.",
+    "expected_context": "Bài báo VOV về các vụ nghệ sĩ liên quan ma tuý"
+  },
+  {
+    "question": "Diễn viên Lệ Hằng bị khởi tố về tội gì và bị phát hiện bao nhiêu ma tuý?",
+    "expected_answer": "Năm 2023, diễn viên Lệ Hằng bị khởi tố về tội Mua bán trái phép chất ma tuý. Lực lượng chức năng phát hiện trong người Lệ Hằng 0,696 gram ma tuý tổng hợp khi kiểm tra hành chính trên phố Khâm Thiên, Hà Nội; bản thân Lệ Hằng âm tính với ma tuý.",
+    "expected_context": "Bài báo VOV về các vụ nghệ sĩ liên quan ma tuý"
+  },
+  {
+    "question": "Ma tuý đá có thời gian bán thải trong cơ thể là bao lâu và xét nghiệm nào phát hiện được lâu nhất?",
+    "expected_answer": "Ma tuý đá (methamphetamine) có chu kỳ bán thải khoảng 10 đến 12 tiếng. Trong các phương pháp xét nghiệm, xét nghiệm tóc lưu giữ dấu vết lâu nhất và có thể phát hiện ma tuý đá kể cả sau 90 ngày. Xét nghiệm nước tiểu là phương pháp phổ biến nhất.",
+    "expected_context": "Bài báo Ngôi Sao / Thời trang vàng về ma tuý đá"
+  },
+  {
+    "question": "Rapper Bình Gold bị phát hiện dương tính với loại chất cấm nào?",
+    "expected_answer": "Rapper Bình Gold (Vũ Xuân Bình) bị lực lượng chức năng phát hiện dương tính với chất ma tuý gồm cần sa (và bồ đà/ketamin theo các nguồn) sau khi điều khiển xe lạng lách trên cao tốc Nội Bài - Lào Cai.",
+    "expected_context": "Bài báo VOV / Tiền Phong về rapper Bình Gold"
   }
 ]
