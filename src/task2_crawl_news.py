@@ -9,14 +9,19 @@ Hướng dẫn:
 
 Cài đặt:
     pip install crawl4ai
+    crawl4ai-setup   # cài Playwright browser cho lần đầu
 """
 
 import asyncio
 import json
+import re
 from datetime import datetime
 from pathlib import Path
 
 DATA_DIR = Path(__file__).parent.parent / "data" / "landing" / "news"
+
+# Danh sách bài báo cần crawl được đọc từ news.json ở thư mục gốc dự án.
+NEWS_JSON = Path(__file__).parent.parent / "news.json"
 
 
 def setup_directory():
@@ -24,16 +29,24 @@ def setup_directory():
     DATA_DIR.mkdir(parents=True, exist_ok=True)
 
 
-# TODO: Điền danh sách URL bài báo cần crawl
-ARTICLE_URLS = [
-    # Ví dụ:
-    # "https://vnexpress.net/...",
-    # "https://tuoitre.vn/...",
-    # "https://thanhnien.vn/...",
-]
+def load_articles() -> list[dict]:
+    """Đọc danh sách bài báo (title, url, source) từ news.json."""
+    if not NEWS_JSON.exists():
+        raise FileNotFoundError(f"Không tìm thấy {NEWS_JSON}")
+    return json.loads(NEWS_JSON.read_text(encoding="utf-8"))
 
 
-async def crawl_article(url: str) -> dict:
+def slugify(text: str, max_len: int = 60) -> str:
+    """Chuyển tiêu đề thành slug an toàn để đặt tên file."""
+    text = text.lower()
+    # bỏ dấu tiếng Việt cơ bản
+    text = re.sub(r"[^a-z0-9\sàáạảãâầấậẩẫăằắặẳẵèéẹẻẽêềếệểễ"
+                  r"ìíịỉĩòóọỏõôồốộổỗơờớợởỡùúụủũưừứựửữỳýỵỷỹđ]", "", text)
+    text = re.sub(r"\s+", "-", text.strip())
+    return text[:max_len].strip("-") or "article"
+
+
+async def crawl_article(url: str, title: str = "", source: str = "") -> dict:
     """
     Crawl một bài báo và trả về dict chứa metadata + content.
 
@@ -41,42 +54,66 @@ async def crawl_article(url: str) -> dict:
         {
             "url": str,
             "title": str,
+            "source": str,
             "date_crawled": str (ISO format),
             "content_markdown": str
         }
     """
     from crawl4ai import AsyncWebCrawler
 
-    # TODO: Implement crawling logic
-    # async with AsyncWebCrawler() as crawler:
-    #     result = await crawler.arun(url=url)
-    #     return {
-    #         "url": url,
-    #         "title": result.metadata.get("title", "Unknown"),
-    #         "date_crawled": datetime.now().isoformat(),
-    #         "content_markdown": result.markdown,
-    #     }
-    raise NotImplementedError("Implement crawl_article")
+    async with AsyncWebCrawler() as crawler:
+        result = await crawler.arun(url=url)
+
+        # Lấy markdown (crawl4ai trả về object MarkdownGenerationResult hoặc str)
+        markdown = getattr(result, "markdown", "") or ""
+        if not isinstance(markdown, str):
+            markdown = getattr(markdown, "raw_markdown", "") or str(markdown)
+
+        # Ưu tiên title từ news.json, fallback sang metadata trang
+        page_title = title
+        if not page_title and getattr(result, "metadata", None):
+            page_title = result.metadata.get("title", "Unknown")
+
+        return {
+            "url": url,
+            "title": page_title or "Unknown",
+            "source": source,
+            "date_crawled": datetime.now().isoformat(),
+            "content_markdown": markdown,
+        }
 
 
 async def crawl_all():
-    """Crawl toàn bộ bài báo trong ARTICLE_URLS."""
+    """Crawl toàn bộ bài báo trong news.json."""
     setup_directory()
+    articles = load_articles()
 
-    for i, url in enumerate(ARTICLE_URLS, 1):
-        print(f"[{i}/{len(ARTICLE_URLS)}] Crawling: {url}")
-        article = await crawl_article(url)
+    for i, item in enumerate(articles, 1):
+        url = item["url"]
+        title = item.get("title", "")
+        source = item.get("source", "")
+        print(f"[{i}/{len(articles)}] Crawling: {url}")
 
-        # Lưu file JSON
-        filename = f"article_{i:02d}.json"
+        try:
+            article = await crawl_article(url, title=title, source=source)
+        except Exception as e:
+            print(f"  ✗ Lỗi khi crawl {url}: {e}")
+            continue
+
+        if len(article["content_markdown"]) < 200:
+            print(f"  ⚠ Nội dung quá ngắn ({len(article['content_markdown'])} ký tự), "
+                  "có thể trang chặn crawler.")
+
+        # Đặt tên file theo slug tiêu đề để dễ nhận biết
+        slug = slugify(title) if title else f"article-{i:02d}"
+        filename = f"{i:02d}-{slug}.json"
         filepath = DATA_DIR / filename
-        filepath.write_text(json.dumps(article, ensure_ascii=False, indent=2))
-        print(f"  ✓ Saved: {filepath}")
+        filepath.write_text(
+            json.dumps(article, ensure_ascii=False, indent=2),
+            encoding="utf-8",
+        )
+        print(f"  ✓ Saved: {filepath} ({filepath.stat().st_size} bytes)")
 
 
 if __name__ == "__main__":
-    if not ARTICLE_URLS:
-        print("⚠ Hãy điền ARTICLE_URLS trước khi chạy!")
-        print("Gợi ý: tìm bài báo trên VnExpress, Tuổi Trẻ, Thanh Niên, ...")
-    else:
-        asyncio.run(crawl_all())
+    asyncio.run(crawl_all())
