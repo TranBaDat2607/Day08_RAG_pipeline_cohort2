@@ -1,0 +1,2186 @@
+CHÍNHPHỦ CỘNGHÒAXÃHỘICHỦNGHĨAVIỆTNAM
+_____ Độclập-Tựdo-Hạnhphúc
+Số:105/2021/NĐ-CP _________________________
+HàNội,ngày04tháng12năm2021
+NGHỊĐỊNH
+QuyđịnhchitiếtvàhướngdẫnthihànhmộtsốđiềucủaLuậtPhòng,chốngmatúy
+__________
+CăncứLuậtTổchứcChínhphủngày19tháng6năm2015;Luậtsửađổi,bổsungmộtsốđiều
+củaLuậtTổchứcChínhphủvàLuậtTổchứcchínhquyềnđịaphươngngày22tháng11năm2019;
+CăncứLuậtPhòng,chốngmatúyngày30tháng3năm2021;
+TheođềnghịcủaBộtrưởngBộCôngan;
+Chính phủ ban hành Nghị định quy định chi tiết và hướng dẫn thi hành một số điều của Luật
+Phòng,chốngmatúy.
+ChươngI
+QUYĐỊNHCHUNG
+Điều1.Phạmviđiềuchỉnh
+NghịđịnhnàyquyđịnhchitiếtvàhướngdẫnthihànhmộtsốđiềucủaLuậtPhòng,chốngma
+túy về công tác phối hợp của các cơ quan chuyên trách phòng, chống tội phạm về matúy; kiểm soát
+cáchoạtđộnghợpphápliênquanđếnmatúyvàquảnlýngườisửdụngtráiphépchấtmatúyđượcquy
+địnhtạikhoản5Điều11,khoản2Điều13,khoản2Điều14,Điều16,khoản3Điều17,Điều18,Điều19,
+khoản6Điều23củaLuậtPhòng,chốngmatúysố73/2021/QH14ngày30tháng3năm2021.
+Điều2.Đốitượngápdụng
+Nghị định này áp dụng đối với các cơ quan, tổ chức, cá nhân có liên quan đến công tác phối
+hợpphòng,chốngtộiphạmvềmatúy;kiểmsoátcáchoạtđộnghợpphápliênquanđếnmatúy;quảnlý
+ngườisửdụngtráiphépchấtmatúy.
+Điều3.Nguyêntắcthựchiện
+1. Công tác phối hợp của các cơ quan chuyên trách phòng, chống tội phạm về ma túy; kiểm
+soátcáchoạtđộnghợpphápliênquanđếnmatúyvàquảnlýngườisửdụngtráiphépchấtmatúyphải
+tuânthủLuậtPhòng,chốngmatúy,Nghịđịnhnàyvàquyđịnhcủavănbảnquyphạmphápluậtcóliên
+quan.
+2.Côngtácphốihợpcủacáccơquanchuyêntráchphòng,chốngtộiphạmvềmatúyphảiđảm
+bảocácnguyêntắcsau:
+a) Trên cơ sở chức năng, nhiệm vụ và quyền hạn của từng bộ, ngành, địa phương, các cơ
+quan chuyên trách phòng, chống tội phạm về ma túy thực hiện các hoạt động phối hợp đảm bảo sự
+đoànkết,hiệpđồng,hỗtrợlẫnnhau;
+b) Mỗikhu vực, địa bàndo một cơquan chịu tráchnhiệmchính, chủ trì trong công tácphòng
+ngừa, đấu tranh với tội phạm về matúy; các cơ quan khác có tráchnhiệm phối hợp theo chức năng,
+nhiệmvụ;
+c)Việctraođổithôngtintộiphạm,thựchiệncácbiệnphápnghiệpvụđảmbảokịpthời, chính
+xác,đúngquyđịnhbảovệbímậtnhànước;
+d)Cơquanchuyêntráchphòng,chốngtộiphạmvềmatúythuộcCôngannhândânlànòngcốt
+trongcáchoạtđộngphốihợpgiữacáccơquanchuyêntráchtrongcôngtácphòngngừa,đấutranhvới
+tộiphạmvềmatúytrênphạmvitoànquốc.
+3.Kiểmsoátcáchoạtđộnghợpphápliênquanđếnmatúyphảiđảmbảocácnguyêntắcsau:
+a) Các hoạt động hợpphápliênquan đến matúy theo quy định tạikhoản1 Điều12 củaLuật
+Phòng, chống ma túy phải được kiểm soát chặt chẽ theo từng ngành, lĩnh vực, địa phương và phải
+kiểmsoátđếnsảnphẩmcuốicùng;
+Trangchủ:https://hoatieu.vn/|Hotline:02422426188
+
+b) Cơquanquản lý nhànước cóthẩmquyềntrong phạmvi chức năng, nhiệmvụ, quyền hạn
+củamìnhcótráchnhiệmquảnlýcáchoạtđộngthuộclĩnhvựcchuyênngànhvàphốihợpkiểmsoátcác
+hoạtđộnghợpphápliênquanđếnmatúy.
+4.Côngtácquảnlýngườisửdụngtráiphépchấtmatúyphảiđảmbảocácnguyêntắcsau:
+a) Việc quản lý người sử dụng trái phép chất ma túy phải được tiến hành công khai, khách
+quanvàđúngquyđịnhcủaphápluật;
+b)Tôntrọng,đảmbảoquyềnvàlợiíchhợpphápcủangườisửdụngtráiphépchấtmatúyvà
+giađìnhcủahọ;
+c) Gia đình, cơ quan, tổ chức và cộng đồng nơi người sử dụng trái phép chất ma túy cư trú,
+côngtác,làmviệc,họctậpcótráchnhiệmthamgiaquảnlýngườisửdụngtráiphépchấtmatúy;
+d) Thông tin, tài liệu về người sử dụng trái phép chất ma túy được cập nhật thường xuyên,
+chínhxác;
+đ) Các cơquanchứcnăng phảiphốihợpchặt chẽtrong quá trình quảnlýngườisử dụng trái
+phép chất ma túy theo đúng chức năng, thẩm quyền và trách nhiệm được phân công, tuân thủ đúng
+trìnhtự,thủtụcvàthờihạngiảiquyếtcôngviệc;
+e)Nghiêmcấmlợidụngviệcquảnlýngườisửdụngtráiphépchấtmatúyđểxâmphạmquyền,
+lợiíchhợpphápcủacôngdân.
+Điều4.Giảithíchtừngữ
+TrongNghịđịnhnày, nhữngtừngữdướiđâyđượchiểunhưsau:
+1.Sảnxuấtchấtmatúylàhoạtđộngtạorachấtmatúytừcâycóchứachấtmatúy,tiềnchất,
+hóa chất hoặc từ chất ma túy khác dưới mọi hình thức, cách thức, phương pháp. Việc sản xuất này
+khôngbaogồmviệctrồngcâycóchứachấtmatúy.
+2.Sảnxuấttiềnchấtlàhoạtđộngtạoratiềnchấtthôngquacácphảnứnghóahọc.
+3.Huấnluyệnnghiệpvụphòng,chốngtộiphạmvềmatúylàcáchoạtđộngđàotạo,tậphuấn,
+bồidưỡngnghiệpvụchongườilàmcôngtácphòng,chốngmatúy; huấnluyệnđộngvậtnghiệpvụvà
+cáchoạt động khácvềcáchthức, phương pháp, dấu hiệunhậnbiết chất matúy, tiền chất, thuốcgây
+nghiện,thuốchướngthần,thuốctiềnchất,nguyênliệulàmthuốclàdượcchấtgâynghiện, dượcchất
+hướngthần,tiềnchấtdùnglàmthuốcvàthuốcthúycóchứachấtmatúy, tiềnchất.
+4.Truynguyênnguồngốcmatúylàviệcápdụngcácphươngphápsinhhóa,hóalý,vậtlýđể
+xácđịnhtrạngthái,bảnchấtnguyênliệu,chữviết,hìnhảnh,lôgôtrênbaobì,thùngchứa,nhãnhàng
+nhằmxácđịnh nguồngốc nơisản xuất, nguyên liệu, phương pháp, cách thức điều chế, sảnxuất các
+chấtmatúyphụcvụcôngtácphòng,chốngtộiphạmvềmatúy.
+ChươngII
+PHỐIHỢPCỦACÁCCƠQUAN CHUYÊNTRÁCHPHÒNG,CHỐNGTỘIPHẠMVỀMATÚY
+Điều5.Cáccơquanchuyêntráchphòng,chốngtộiphạmvềmatúy
+1.Cơquanchuyêntráchphòng,chốngtộiphạmvềmatúythuộcCôngannhândânbaogồm:
+Cục Cảnh sát điều tra tội phạm về ma túy, Bộ Công an; Phòng Cảnh sát điều tra tội phạm về ma túy
+Côngantỉnh,thànhphốtrựcthuộctrungương;ĐộiCảnhsátđiềutratộiphạmvềmatúy(hoặcĐộicó
+chứcnăng điềutratộiphạmvềmatúy) Côngan huyện, quận, thịxã,thành phốthuộctỉnh, thànhphố
+trựcthuộctrungương.
+2.Cơquanchuyêntráchphòng,chốngtộiphạmvềmatúythuộcBộđộiBiênphòngbaogồm:
+CụcPhòng,chốngmatúyvàtộiphạm;Đoànđặcnhiệmphòng,chốngtộiphạmmatúyvàtộiphạm,Bộ
+Tư lệnh Bộ đội Biên phòng, Bộ Quốc phòng; Phòng Phòng, chống ma túy và tội phạm (Ban Phòng,
+chống matúy vàtộiphạm),ĐộiĐặc nhiệmphòng, chốngmatúy và tộiphạmthuộcBộchỉ huyBộđội
+Biênphòngcấptỉnh,thànhphố;ĐộiPhòng,chốngmatúyvàtộiphạmthuộccácĐồnBiênphòng(Ban
+ChỉhuyBiênphòngcửakhẩucảng);HảiđoànBiênphòng
+3.Cơquanchuyêntráchphòng,chốngtộiphạmvềmatúythuộcCảnhsátbiểnbaogồm:Cục
+Nghiệpvụvàphápluật,cácĐoànđặcnhiệmphòng,chốngtộiphạmmatúythuộcBộTưlệnhCảnhsát
+biển,BộQuốcphòng;PhòngPhòng,chốngtộiphạmmatúythuộccácVùngCảnhsátbiển.
+Trangchủ:https://hoatieu.vn/|Hotline:02422426188
+
+4.Cơquanchuyêntráchphòng,chốngtộiphạmmatúythuộcHảiquanbaogồm:CụcĐiềutra
+chốngbuônlậuthuộcTổngcụcHảiquan,BộTàichính;ĐộiKiểmsoátphòng,chốngmatúy(hoặcĐội
+KiểmsoátHảiquan)trựcthuộcCụcHảiquantỉnh,liêntỉnh,thànhphố;TổKiểmsoátmatúythuộcChi
+cụcHảiquancửakhẩu.
+Điều6.Phốihợpthammưu,chỉđạo
+1.Cáccơquanchuyêntráchphòng,chốngtộiphạmvềmatúyphốihợpnghiêncứu,báocáo,
+tham mưucấpcó thẩm quyền các chủ trương, biệnpháptăng cường phối hợp trong công tác phòng
+ngừa,đấutranhvớitộiphạmvềmatúy.
+2.Đềxuấtsửađổi,bổsungcơchế,chínhsáchphápluậtkhiphátsinhnhữngvấnđềmớitrong
+công tác phòng ngừa, đấu tranh với tội phạm về ma túy theo thẩm quyền hoặc báo cáo cấp có thẩm
+quyềnsửađổi,bổsung,banhànhmớiđảmbảoyêucầuquảnlýnhànướcvềphòng,chốngmatúy.
+3. Phốihợptriểnkhaivàtổchứcthựchiệnhiệuquảcác nhiệmvụcôngtáctheolĩnhvực phụ
+trách.
+Điều7.Phốihợptuyêntruyền,vậnđộngNhândân
+Cáccơquanchuyêntráchphòng,chốngtộiphạmvềmatúytraođổi,thốngnhấtđểthammưu
+cấp ủy, chính quyền các cấp tổ chức tuyên truyên, nâng cao nhận thức cho Nhân dân về pháp luật
+phòng,chốngmatúy,phươngthức,thủđoạnhoạtđộngcủatộiphạmvềmatúy,hậuquảvàtáchạicủa
+matúy;biênsoạntàiliệu,xâydựng,triểnkhaikếhoạchtuyêntruyền,vậnđộngNhândântíchcựctham
+giaphòngngừa,pháthiện,tốgiácvàđấutranhvớitộiphạm,tệnạnmatúy.
+Điều8.Phốihợptraođổithôngtin
+1.Nộidungthôngtin,tàiliệutraođổigiữacáccơquanchuyêntráchphòng,chốngtộiphạmvề
+matúygồm:
+a)Tìnhhìnhtộiphạmvềmatúytrênthếgiới;chínhsách,phápluậtcủacácnướcvềvấnđềma
+túy; thôngtintộiphạmvềmatúycóliênquanđếnViệt Namdo các nướcvàtổchứcquốc tếtraođổi;
+tìnhhìnhtộiphạmvềmatúytạikhuvựcbiêngiới,cửakhẩuvàtrênbiển.
+b)Kếtquảcôngtácphòngngừa,đấutranhvớitộiphạmvềmatúycủatừngcơquan;kếtquả
+xửlýtinbáo,tốgiáctộiphạmmatúyởkhuvựcbiêngiới;dựbáoxuhướng,tìnhhìnhtộiphạmvềma
+túy;phươngthức,thủđoạn,quyluậthoạtđộngcủacácđốitượngphạmtội;cáctổchức,đườngdây,ổ
+nhóm,cáctuyến,địabàntrọngđiểm;cácđốitượngtruynãvềmatúy;
+c)Quytrình,quychếcôngtác,kinhnghiệmvàcácbiệnphápgiảiquyếtkhókhăn,vướngmắc
+trongcôngtácphòngngừa,đấutranhvớitộiphạmvềmatúycủacáccơquanchuyêntrách;
+d) Tiến bộ khoa học, kỹ thuật, công nghệ có thể áp dụng phục vụ công tác phòng, chống tội
+phạmvềmatúy;
+đ)Cácloạimatúymớivàcácvănbảnquyphạmphápluậtmớitrongcôngtácphòngngừa,đấu
+tranhvớitộiphạmvềmatúy;
+e)Thôngtin,tàiliệukháctheođềnghịkhicóyêucầu.
+2. Cơ quan chuyên trách phòng, chống tội phạm về ma túy thuộc Công an nhân dân, Bộ đội
+Biênphòng,Cảnhsátbiển,Hảiquancótráchnhiệmthôngbáo,chiasẻkịpthờicácthôngtin,tàiliệuvề
+hoạtđộngcủatộiphạmmatúycóliênquanđếnkhuvực,địabàndolựclượngkhácchủtrìđểphốihợp
+giảiquyết.
+Điều9.Phốihợpthựchiệncácbiệnphápnghiệpvụ
+1. Các cơ quan chuyên trách phòng, chống tội phạm về ma túy phối hợp tổ chức lực lượng,
+phươngtiệnvàápdụngcácbiệnphápnghiệpvụđểphòngngừa,đấutranhvớitộiphạmvềmatúy;trao
+đổinghiệpvụđểđiềutra,xửlývụán,vụviệctheoyêucầu.
+2.Cơquanchuyêntráchphòng,chốngtộiphạmvềmatúythuộcBộđộiBiênphòng,Cảnhsát
+biểnvàHảiquanphốihợpvớicơquanchuyêntráchphòng,chốngtộiphạmvềmatúythuộcCôngan
+nhândâncùngcấpthựchiệncácbiệnphápnghiệpvụtạicáckhuvực,địabànquảnlý
+a)Tạinhữngđịabàntrọngđiểm,phứctạpvềmatúy, cơquanchuyêntráchphòng, chốngtội
+phạm về ma túy thuộc Công an nhân dân chủ động phối hợp với các cơ quan chuyên trách phòng,
+chốngtộiphạmvềmatúythuộcBộđộiBiênphòng,CảnhsátbiểnvàHảiquancókếhoạchtriểnkhai
+Trangchủ:https://hoatieu.vn/|Hotline:02422426188
+
+cácbiệnphápnghiệpvụtậptrunggiảiquyết;
+b)Khicơquanchuyêntráchphòng,chốngtộiphạmvềmatúythuộcCôngannhândâncóyêu
+cầuphốihợpthựchiệncôngtácnghiệpvụtrinhsátởkhuvựcbiêngiới, cửakhẩuvàtrênbiển,thìcơ
+quan chuyên trách phòng, chống tội phạm về ma túy thuộc Bộ đội Biên phòng, Cảnh sát biển và Hải
+quancótráchnhiệmphốihợptraođổithôngtinvàhỗtrợtriểnkhaithựchiện;
+c)Khicơquanchuyêntráchphòng,chốngtộiphạmvềmatúythuộcBộđộiBiênphòng,Cảnh
+sát biển, Hảiquan thựchiệncácbiệnphápnghiệpvụphòng, chống tội phạmvềmatúy ởnội địaliên
+quanđếnkhuvựcbiêngiới,cửakhẩuvàtrênbiển,thìcơquanchuyêntráchphòng,chốngtộiphạmvề
+matúythuộcCôngannhândâncótráchnhiệmphốihợptraođổithôngtinvàhỗtrợtriểnkhaithựchiện.
+Điều10.Phốihợpđấutranhchuyênánvàđiềutra,xửlýcácvụán,vụviệccụthể
+1. Các cơ quan chuyên trách phòng, chống tội phạm về ma túy phối hợp xác lập, đấu tranh
+chuyênántrongcáctrườnghợpsau:
+a) Đối với các chuyên án ma túy do cơ quan chuyên trách phòng, chống tội phạm về ma túy
+thuộcBộđộiBiênphòng,Cảnhsátbiển,Hảiquanxáclậpđấutranhcóđốitượngliênquanđếnđịabàn
+nộiđịathìcơquanchuyêntráchphòng, chốngtộiphạmvềmatúythuộcCôngannhândânchủđộng
+phốihợp,thựchiệntheoyêucầuvàtiếpnhậnkịpthờihồsơ,vậtchứngliênquanđểđiềutra,xửlýtheo
+quyđịnhcủaphápluật;
+b) Đối với các chuyên án ma túy do cơ quan chuyên trách phòng, chống tội phạm về ma túy
+thuộcCôngannhândânxáclậpđấutranh,cóđốitượngliênquanđếnkhuvựcbiêngiới,cửakhẩuvà
+trênbiểnthìcơquanchuyêntráchphòng,chốngtộiphạmvềmatúythuộcBộđộiBiênphòng,Cảnhsát
+biểnvàHảiquanphốihợp,thựchiệntheoyêucầu;
+c) Đối với những chuyên án ma túy phức tạp, đối tượng có liên quan đến nhiều địa phương,
+hoạtđộngxuyênquốcgia,cótínhquốctếthìcáccơquanphốihợpthànhlậpBanchuyênánchungđể
+đấutranh,khámphá.Cơquanchuyêntráchphòng,chốngtộiphạmvềmatúythuộclựclượngnàophát
+hiệnthì đồngchủtrì vớicơquanchuyêntráchphòng, chốngtộiphạmvềmatúythuộcCôngannhân
+dân,cáccơquancònlạiphốihợpthamgia;thẩmquyềnphêduyệtthànhlậpBanchuyênánchunglà
+cấptrênmộtcấpcủađơnvịxáclậpchuyênán;thànhlậpBanChỉđạochuyênán:lựclượngCônganlà
+Trưởngbanchỉđạo,lựclượngBộđộiBiênphòng,Cảnhsátbiển,Hảiquanlàthànhviên;BanChỉđạo
+chuyênánlàcấptrênmộtcấpcủaBanchuyênán;
+d) Trường hợp cơ quan chuyên trách phòng, chống tội phạm về ma túy thuộc Bộ đội Biên
+phòng,Cảnhsátbiển,Hảiquantạiđịabàn,khuvựcquảnlýcủamình,nếupháthiệnthôngtin,tàiliệu
+cócăncứxáclậpchuyênánthìchủtrì,phốihợpvớicơquanchuyêntráchphòng,chốngtộiphạmvề
+matúykhácxáclậpchuyênánđểđấutranh.
+2.Cáccơquanchuyêntráchphốihợptrongquátrìnhđiềutratộiphạmvàxửlýviphạmpháp
+luậtvềmatúytheoquyđịnhcủaphápluật.
+a) Trường hợp cơ quan chuyên trách phòng, chống tội phạm về ma túy thuộc Công an nhân
+dâncóyêucầuthựchiệncáchoạtđộngnghiệpvụđiềutravềtộiphạmmatúyởkhuvựcbiêngiới,cửa
+khẩuvàtrênbiểnthìcơquanchuyêntráchphòng,chốngtộiphạmvềmatúythuộcBộđộiBiênphòng,
+CảnhsátbiểnvàHảiquancótráchnhiệmphốihợp,tạođiềukiệnhỗtrợcơquanchuyêntráchphòng,
+chốngtộiphạmvềmatúythuộcCôngannhândânhoànthànhnhiệmvụ;
+b) Cơquanchuyêntráchphòng, chốngtộiphạmvềmatúythuộc Côngannhân dâncótrách
+nhiệmhỗtrợ,tạođiềukiệnthuậnlợichocơquanchuyêntráchphòng,chốngtộiphạmvềmatúythuộc
+BộđộiBiênphòng,CảnhsátbiểnvàHảiquankhicáccơquannàycóyêucầuphốihợpđiềutra,xửlý
+vềtộiphạmvàviphạmphápluậtvềmatúytrongnộiđịa;
+Khinhậnđượcyêucầucủacơquanchuyêntráchphòng,chốngtộiphạmvềmatúythuộcBộ
+độiBiênphòng,CảnhsátbiểnvàHảiquanvềviệctruybắtđốitượng,truytìmphươngtiện,vậtchứng
+cóliênquanđếntộiphạm,viphạmphápluậtvềmatúytừbiêngiới,cửakhẩuhoặctrênbiểnvàonộiđịa,
+cơquanchuyêntráchphòng,chốngtộiphạmvềmatúythuộcCôngannhândâncótráchnhiệmtriển
+khaingaylựclượngphốihợpbắtgiữ,truytìm.Saukhibắtgiữđượcđốitượng,truytìmđượcphương
+tiện,vậtchứngthìkhẩntrươngthôngbáovàbàngiaohồsơ,đốitượng,vậtchứng,phươngtiệnchocơ
+quanyêucầuđểtiếptụcđiềutratheoquyđịnhcủaphápluật;
+c)Saukhikếtthúcđiềutra, xửlýcácvụán,vụviệc,cáccơquanthôngbáokếtquảphốihợp
+vớinhauvàthốngnhấttổchứctổngkếtrútkinhnghiệm.
+Trangchủ:https://hoatieu.vn/|Hotline:02422426188
+
+3.Trongtrườnghợpcầnthiết,cơquanchuyêntráchphòng,chốngtộiphạmvềmatúychủtrì,
+đềxuấtthànhlậpTổcôngtácphốihợpliênngành;cáccơquanchuyêntráchphòng,chốngtộiphạmvề
+matúykháccửcánbộthamgia.Tổcôngtáctựgiảithểsaukhihoànthànhnhiệmvụ.
+Điều11.Cácnộidungphốihợpkhác
+1.Cáccơquanchuyêntráchphòng,chốngtộiphạmvềmatúytrongphạmvichứcnăng,nhiệm
+vụ,quyềnhạncủamìnhcótráchnhiệmphốihợp,hỗtrợlẫnnhautrongcôngtáchuấnluyệnnghiệpvụ
+phòng, chống tội phạmvềmatúy; phối hợpthực hiệnhoặcđề xuất cấpcó thẩmquyềnxemxét khen
+thưởngchocáctậpthể,cánhâncóthànhtíchxuấtsắctrongcôngtácphốihợpphòng,chốngtộiphạm
+vềmatúy.
+2.Phốihợpthựchiệncôngtáchợptácquốctếtrongphòngngừa,đấutranhvớitộiphạmvềma
+túy.
+Điều12.Hìnhthứcphốihợp
+1.Traođổi,cungcấpthôngtin,tàiliệu,tìnhhìnhliênquanđếnnộidungphốihợpgiữacáccơ
+quan chuyên trách phòng, chống tội phạm về matúy thông qua các hình thức làm việc trực tiếp, qua
+cácphươngtiệnthôngtin,gửivănbản...
+2.Triểnkhaicáckếhoạchtuyêntruyền,vậnđộngnhândânthamgiaphòng,chốngmatúy.
+3. Tuần tra kiểm soát liên ngành; xây dựng và triển khai các kế hoạch nghiệp vụ, xác lập
+chuyênánchungphốihợpđấutranhvớitộiphạmvềmatúytrêncáctuyến,địabàntrọngđiểm.
+4.Tổchứccáccuộchọpgiaobanđịnhkỳ,hộinghị,hộithảo,toạđàmvềcácvấnđềliênquan
+đếnnộidungphốihợpgiữacáccơquan.
+5.Tổchứccáclớpgiảngdạy, đàotạo,tậphuấn,bồidưỡngnghiệpvụcôngtácphòng,chống
+tộiphạmmatúy.
+6.Báocáođịnhkỳhoặcđộtxuất;tổchứcgiaobannghiệpvụvàsơkết,tổngkếtviệcphốihợp
+theoquyđịnhtạiNghịđịnhnày.
+Điều13.Chếđộgiaoban,báocáovàthốngkê
+1.Chếđộgiaoban
+a)Cáccơquanchuyêntráchphòng,chốngtộiphạmvềmatúythựchiệnchếđộgiaobanđịnh
+kỳnhưsau:
+Cấptrungương:Luânphiênchủtrìtổchứcgiaobanđịnhkỳmỗinămmộtlần.
+Cấptỉnh: Luânphiênchủtrìtổchứcgiaobanđịnhkỳ6thángmộtlần.
+b)Sauhộinghịgiaobanđịnhkỳ,cácđơnvịbáocáokếtquảhộinghịlêncấptrêntrựctiếpđể
+theodõi,chỉđạo,đồngthờithôngbáochocấpdướithuộcquyềnđểquántriệt,thựchiện;
+c)Trongtrườnghợpđộtxuấthoặckhicótìnhhìnhphứctạpxảyra,cáccơquanchuyêntrách
+phòng,chốngtộiphạmvềmatúyphảichủđộngthôngbáochonhaubằngcáchìnhthứcthíchhợpnhư
+họpbấtthường,quacácphươngtiệnthôngtinliênlạc,quahệthốngtrựcban,trựcchỉhuy.
+2.Chếđộbáocáo,thốngkê
+Địnhkỳ6tháng, 1năm,cáccơquanchuyêntráchphòng, chốngtộiphạmvềmatúybáocáo
+tình hình, kết quả và thống kê số liệu về công tác phối hợp giữa các cơ quan chuyên trách phòng,
+chốngtộiphạmvềmatúylêncấptrêntrựctiếp.Đốivớicácchuyênán,vụánvàvụviệcviphạmpháp
+luậtvềmatúydocáccơquanphốihợpgiảiquyếtthìđơnvịchủtrìcótráchnhiệmthốngkêbanđầuvà
+thôngbáo,traođổichocácđơnvịphốihợpbiết.
+Cơ quan chuyêntráchphòng, chống tộiphạm về matúycấptrung ươngcótráchnhiệmtổng
+hợpbáocáochungvàgửibáocáovềBộCônganđểtậphợp,báocáoThủtướngChínhphủ.
+Thời điểm gửi báo cáo và thời gian tính số liệu thống kê được thực hiện theo quy định của
+ChínhphủvềchếđộbáocáocủacơquanhànhchínhNhànước.
+ChươngIII
+KIỂMSOÁTCÁCHOẠTĐỘNGHỢPPHÁPLIÊNQUAN ĐẾNMATÚY
+Mục1
+Trangchủ:https://hoatieu.vn/|Hotline:02422426188
+
+KIỂMSOÁTCÁCHOẠTĐỘNGNGHIÊNCỨU,GIÁMĐỊNH,SẢNXUẤT,VẬNCHUYỂNCHẤTMA
+TÚY,TIỀNCHẤTVÀTHUỐCTHÚYCÓCHỨACHẤTMATÚY,TIỀNCHẤT
+Điều 14. Cơ quan có thẩm quyền cho phép các hoạt động nghiên cứu, giám định, sản
+xuất,vậnchuyểnchấtmatúy,tiềnchấtvàhoạtđộngliênquanđếnthuốcthúycóchứachấtma
+túy,tiềnchất
+1.BộCônganchophépcáccơquan,tổchứcđượctiếnhànhcáchoạtđộngsau:
+a)Nghiêncứucácchấtmatúy,tiềnchấttheoDanhmụcchấtmatúyvàtiềnchấtdoChínhphủ
+quyđịnh;
+b)Sảnxuấtcácchấtmatúy, tiềnchấttạicácdanhmụcchấtmatúyvàtiềnchấtdoChínhphủ
+quyđịnh(trừcáctiềnchấtdoBộCôngThương, BộYtếquảnlývàchophép);
+c)VậnchuyểncácchấtmatúytheoDanhmụcchấtmatúydoChínhphủquyđịnh.
+2. Bộ Nông nghiệp và Phát triển nông thôn cho phép các cơ quan, tổ chức, cá nhân được
+nghiêncứu,kiểmnghiệm,kiểmđịnh,sảnxuất,vậnchuyển,bảoquản,tồntrữ,muabán,phânphối,sử
+dụng, xửlý,traođổithuốcthúycóchứachấtmatúy, tiềnchất.
+3.SởCôngThươngcáctỉnh,thànhphốtrựcthuộctrungươngchophépcáccơquan,tổchức,
+cánhânđược sảnxuất tiềnchất tại Danh mục tiềnchất doChínhphủquy địnhvàvănbảnquy phạm
+phápluậthiệnhànhvềquảnlýhóachất(đốivớicáctiềnchấtdoBộCôngThươngquảnlý).
+4. Bộ Công an, Bộ Nông nghiệp và Phát triển nông thôn trong phạm vi nhiệm vụ, quyền hạn
+giao cho cơ quan chức năng thực hiện nhiệm vụ tiếp nhận hồ sơ, thẩm định và quyết định việc cho
+phépnghiêncứu,sảnxuất,vậnchuyểnchấtmatúy,tiềnchấtvàcáchoạtđộngliênquanđếnthuốcthú
+ycóchứachấtmatúy,tiềnchấttheoquyđịnhtạiMục1ChươngIIIcủaNghịđịnhnày(sauđâygọilàcơ
+quancấpphép).
+5.Bộ Công an trong phạm vi chức năng, nhiệm vụ, quyền hạn quản lý nhà nước về lĩnh vực
+giámđịnhkỹthuậthìnhsựchịutráchnhiệmtổchứcthựchiệntrìnhtự,thủtụcgiámđịnh chấtmatúy,
+tiềnchất vàthuốcthúy cóchứachất matúy, tiềnchất theo quy địnhcủaLuật Giámđịnh tưpháp, Bộ
+luậtTốtụnghìnhsự,cácvănbảnquyphạmphápluậtcóliênquanvàquyđịnhtạiMục3ChươngIIIcủa
+Nghịđịnhnày.
+Điều15.Kiểmsoáthoạtđộngnghiêncứuchấtmatúy,tiềnchất
+1.Trìnhtự,thủtụcchophépnghiêncứuchấtmatúy, tiềnchất
+a)Tổchứckhoa họcvàcông nghệđượcthànhlậptheo quy địnhcủaLuật Khoahọcvàcông
+nghệ(sauđâygọitắtlàcơquannghiêncứu)khicónhucầunghiêncứucácchấtmatúy,tiềnchấttheo
+quyđịnhtạiđiểmakhoản1Điều14củaNghịđịnhnàychuẩnbịhồsơđềnghịchophéptheoquyđịnh
+tại khoản 2 Điều này, gửi trực tiếp hoặc qua đường bưu điện đến Bộ Công an hoặc gửi bản điện tử
+thôngquahệthốngdịchvụcôngtrựctuyếncủaBộCôngantrêncổngthôngtinmộtcửaquốcgia;
+b)Trongthờihạn05ngàylàmviệc,kểtừngàynhậnđủhồsơtheoquyđịnh,cơquancấpphép
+tiếnhànhthẩmđịnhvàthôngbáochophépbằngvănbản.
+Trườnghợpcóyêucầuchỉnhlý,bổsungtàiliệu,trongthờihạnchậmnhất03ngàylàmviệc,kể
+từngàynhậnđượchồsơ,cơquancấpphépcóphiếuthôngbáovềviệcchỉnhlý,bổsungtàiliệu,trong
+đónêurõtàiliệu,nộidungcầnchỉnhlý,bổsungvàthờigianhoànthành.Việctiếpnhận,giảiquyếthồ
+sơđượcthựchiệntrongthờihạn03ngàylàmviệc,kểtừngàynhậnđủhồsơđãhoànthànhviệcchỉnh
+lý,bổsung.
+Trườnghợphếtthờihạnyêucầuchỉnhlý,bổsunghồsơhoặcthôngtinkhôngthốngnhấtgiữa
+vănbảnđềnghịvàtàiliệuchứngminhtạicácvănbản,tàiliệucótronghồsơ,cơquancấpphépkhông
+tiếnhànhgiảiquyết.
+2.Hồsơđềnghịchophépnghiêncứuchấtmatúy, tiềnchấtbaogồm:
+a)Vănbảnđềnghị chophép nghiêncứucủacơ quan nghiêncứu. Nộidung vănbảnđề nghị
+nêu rõ thông tin về tên, địa chỉ cơ quan nghiên cứu; danh sách, vai trò của những người tham gia
+nghiêncứu;mụcđíchnghiêncứu;tên,địachỉcơquan,tổchứccungcấpchấtmatúy, tiềnchấtvàtên
+gọi,mãCASvàmãHS,sốlượng,hàmlượngchấtmatúy,tiềnchấtđềnghịchophépnghiêncứu;thời
+giannghiêncứu;thờigian,hànhtrình,phươngtiệnvậnchuyểntừđịađiểmcungcấpđếnđịađiểmbảo
+quản,nghiêncứu;
+Trangchủ:https://hoatieu.vn/|Hotline:02422426188
+
+b) Bản sao Giấy chứng nhậnđăng ký hoạt động khoa học vàcông nghệcủa cơ quan nghiên
+cứu;
+c)BảnsaoKếhoạchnghiêncứuđượccấpcóthẩmquyềnphêduyệt;
+d) Tài liệu chứng minh tính hợp pháp của chất đề nghị cho phép nghiên cứu; kế hoạch, biện
+phápđảm bảoantoànvàđiềukiệnbảoquảnchất matúy, tiền chất đề nghị chophépnghiêncứu; kế
+hoạch,biệnphápxửlýtồndưchấtmatúy,tiềnchấttrongquátrìnhnghiêncứu.
+3.Nộidungvănbảnchophépnghiêncứuchấtmatúy, tiềnchất
+Vănbảnchophépphảighirõthôngtinvềtên,địachỉcơquannghiêncứu;têngọi,mãCASvà
+mãHS,sốlượng,hàmlượngchấtmatúy,tiềnchấtđượcnghiêncứu;thờigianđượcphépnghiêncứu;
+thờigian,hànhtrình,phươngtiệnvậnchuyển(trườnghợpcầnvậnchuyểnchấtmatúytừkholưutrữ,
+bảoquảnđếnnơitổchứchoạtđộngnghiêncứu);
+Văn bản cho phép được gửi cho cơ quan nghiên cứu, Công an tỉnh, thành phố nơi cơ quan
+nghiêncứutiếnhànhbảoquản,nghiêncứuchấtmatúyđượcchophép.
+4.Trìnhtự,thủtụcgiahạnchophépnghiêncứuchấtmatúy, tiềnchất
+a)Trướckhihếtthờihạnchophéptốithiểu03ngày,cơquannghiêncứugửivănbảnđềnghị
+cơquancấpphépgiahạnchophépnghiêncứu,trongđónêurõlýdo,thờigianđềnghịgiahạn;
+b)Cơquancấpphépcótráchnhiệmxemxétvàthôngbáoviệcchophépgiahạnhoặckhông
+cho phép gia hạn (phải nêu rõ lý do) bằng văn bản trong thời hạn 03 ngày làm việc, kể từ ngày nhận
+đượccôngvănđềnghị;
+c)Việcchophépgiahạnthựchiệntheoquyđịnhtạiđiểmavàđiểmbkhoản3Điềunày;
+d)Khôngchophépgiahạnnghiêncứuđốivớicáctrườnghợpthayđổimụcđíchnghiêncứu,
+loạichất,hàmlượng,sốlượng,biệnphápđảmbảoantoànvàđiềukiệnbảoquảnchấtmatúy,tiềnchất
+đềnghịgiahạnchophépnghiêncứu;kếhoạch,biệnphápxửlýtồndưchấtmatúy,tiềnchấttrongquá
+trìnhgiahạnchophépnghiêncứu.
+5.HoạtđộngnghiêncứuchấtmatúytheoquyđịnhcủaĐiềunàyphảiđượctheodõi,kiểmtra,
+giámsátchặtchẽtừquátrìnhđượcchophépđếnkhihoànthànhnghiêncứu.
+a)Cơquannghiêncứuphảithựchiệnđúngnộidungtheovănbảnchophépvàphảithôngbáo
+chocơquancấpphépvềviệchoànthànhnghiêncứu,kếtquảnghiêncứu,sốlượngchấtmatúy, tiền
+chấtđãsửdụng;tồndưchấtmatúy, tiềnchấtvàbiệnpháp,kếtquảxửlý;
+b) Công an tỉnh, thành phố nơi cơ quan nghiêncứu tiến hành bảo quản, nghiên cứu chất ma
+túyđượcchophépbốtrílựclượngtheodõi,kiểmtra,giámsátviệcvậnchuyển,giao,nhận,bảoquản
+vàsửdụngchấtmatúyđểnghiêncứutheovănbảnchophépvàquyđịnhcủaphápluật;
+c)Trườnghợppháthiệnviphạm,lựclượngCôngannơipháthiệnviphạmthôngbáongaycho
+cơquancấpphépvàphốihợpngănchặn,xửlýtheoquyđịnhcủaphápluật.
+Điều 16. Kiểm soát hoạt động sản xuất chất ma túy, tiền chất và thuốc thú y có chứa
+chấtmatúy,tiềnchất
+1.Trìnhtự,thủtụcchophépsảnxuấtchấtmatúy, tiềnchất
+a)Cơquan,tổchứckhitiếnhànhcáchoạtđộngsảnxuấtchấtmatúy, tiềnchấttheoquyđịnh
+tạiđiểmbkhoản1Điều14củaNghịđịnhnày(sauđâygọilàtổchứccóhoạtđộngsảnxuất)gửihồsơ
+trựctiếphoặcquađườngbưuđiệnđếnBộCônganhoặcgửibảnđiệntửthôngqua hệthốngdịchvụ
+côngtrựctuyếncủaBộCôngantrêncổngthôngtinmộtcửaquốcgia;
+b)Trongthờihạn30ngàylàmviệc,kểtừngàynhậnđủhồsơtheoquyđịnh,cơquancấpphép
+tiếnhànhxemxét,đánhgiáthựctếởcơsởvàcấpgiấychứngnhậnđủđiềukiệnsảnxuấtchấtmatúy,
+tiềnchất;
+c)Trườnghợpcóyêucầuchỉnhlý,bổsunghồsơ,chậmnhấttrongthờihạn03ngàylàmviệc,
+kểtừngàynhậnđượchồsơđềnghị,cơquancấpphépcóphiếuthôngbáo,trongđónêurõtàiliệu,nội
+dungcầnchỉnhlý,bổsung;
+Saukhinhậnđủhồsơđãhoànthànhviệcchỉnhlý,bổsung,cơquancấpphéptiếnhànhcấp
+giấyphéptheoquyđịnhtạiđiểmbkhoản1Điềunày;
+Trangchủ:https://hoatieu.vn/|Hotline:02422426188
+
+Trườnghợpquáthờihạn03tháng,kểtừngàycơquancấpphépcóvănbảnyêucầuchỉnhlý,
+bổsungmàtổchứcđềnghịchophépsảnxuấtchấtmatúy,tiềnchấtkhônghoànthànhviệcchỉnhlý,bổ
+sungthìhồsơđãnộpkhôngcòngiátrị;
+d)Hồsơ,điềukiện,tiêuchuẩnđốivớitổchứccóhoạtđộngsảnxuấtvàngườicóliênquanđến
+hoạtđộngsảnxuấtthựchiệntheoquyđịnhcủavănbảnquyphạmphápluậthiệnhànhvềdượcđốivới
+nguyênliệulàmthuốcphảikiểmsoátđặcbiệtvàquảnlýhóachấtđốivớihóachấtsảnxuất,kinhdoanh
+cóđiềukiện.
+2.Trìnhtự,thủtụcchophépsảnxuấtthuốcthúycóchứachấtmatúy, tiềnchất
+a)Cơquan,tổchứckhitiếnhànhcáchoạtđộngsảnxuấtthuốcthúycóchứachấtmatúy,tiền
+chất gửihồsơtrực tiếphoặc quađường bưuđiệnđếnBộNông nghiệp và Phát triểnnôngthôn hoặc
+gửibảnđiệntửthôngquahệthốngdịchvụcôngtrựctuyếncủaBộNôngnghiệpvàPháttriểnnôngthôn
+trêncổngthôngtinmộtcửaquốcgia;
+b) Trình tự, thủ tục, hồ sơ, điều kiện, tiêu chuẩn đối với cơ quan, tổ chức và người liên quan
+đếnviệcsảnxuất,đăngkýlưuhànhthuốcthúycóchứachấtmatúy,tiềnchấtthựchiệntheoquyđịnh
+củaphápluậtvềthúyđốivớiquảnlýthuốcthúyvàquyđịnhtạiNghịđịnhnày;
+c)Đốivớicơsởđãđượccấpgiấychứngnhậnđủđiềukiệnsảnxuấtthuốcthúytheoquyđịnh
+của pháp luật về thú y hiện hành, khi có nhu cầu sản xuất thuốc thú y có chứa chất matúy, tiền chất
+cùngtrêndâychuyềnsảnxuấtthuốcthúyđãđượccấpGiấychứngnhậnđủđiềukiệnsảnxuấtthìgửi
+hồsơđềnghị,gồm:vănbảnđềnghịcủatổchứccóhoạtđộngsảnxuấtkèmtheobảnsaoGiấychứng
+nhận đủ điều kiện sản xuất thuốc thú y đã được cấp và tài liệu chứng minh quy trình sản xuất, các
+nguyênliệulàmthuốcthúylàchấtgâynghiện,chấthướngthần,tiềnchấtdùnglàmthuốcthúy.
+Trongthờihạn05ngàylàmviệc,kểtừngàynhậnđủhồsơtheoquyđịnh, Cơquancấpphép
+tiếnhànhtiếpnhận, thẩmđịnhvàcấpGiấychứngnhậnđủđiềukiệnsảnxuấtđốivớidâychuyềnsản
+xuấtthuốcthúycóchứachấtmatúy, tiềnchất;trườnghợpkhôngđủđiềukiệnchophépsảnxuất,cơ
+quancấpphéptrảlờibằngvănbảnnêurõlýdokhôngcấpGiấychứngnhậnđủđiềukiệnsảnxuất.
+3.Trìnhtự,thủtụccấplạigiấychứngnhậnđủđiềukiệnsảnxuấtchấtmatúy,tiềnchấtvàthuốc
+thúycóchứachấtmatúy, tiềnchất
+a)Trườnghợpgiấychứngnhậnbịmất,saisót,hưhỏnghoặccóthayđổivềthôngtincủacơ
+quan, tổchứcthì cơquan, tổ chức lập01bộhồsơđề nghịcấplạigiấychứngnhận hoặc vănbảnđề
+nghị cấp lại giấy chứng nhận (đối với trường hợp sai sót thuộc về cơ quan cấp phép) kèm theo giấy
+chứngnhậnđãđượccấp.Hồsơđềnghịđượcgửitrựctiếphoặcquađườngbưuđiệnđếncơquancấp
+phép hoặc gửi bản điện tử thông qua hệ thống dịch vụ công trực tuyến của Bộ Công an, Bộ Nông
+nghiệpvàPháttriểnnôngthôntạicổngthôngtinmộtcửaquốcgia;
+b)Trongthờihạn05ngàylàmviệc,kểtừngàynhậnđủhồsơtheoquyđịnh,cơquancấpphép
+tiếnhànhthẩmđịnhvàcấplạigiấychứngnhận.
+4. Trình tự, thủ tục sửa đổi giấy chứng nhận đủ điều kiện sản xuất chất ma túy, tiền chất và
+thuốcthúycóchứachấtmatúy, tiềnchất
+a)Trườnghợpcóthayđổivềđịađiểm,quymô,chủngloại,loạihìnhnghiêncứu,sảnxuấtthì
+cơquan,tổchứclập01bộhồsơđềnghị,gồm:côngvănđềnghị,bảnsaocóchứngthựctàiliệuchứng
+minhcóthayđổi.Hồsơđượcgửitrựctiếphoặcquađườngbưuđiệnđếncơquancấpphéphoặcgửi
+bảnđiệntửthôngquahệthốngdịchvụcôngtrựctuyếncủaBộCôngan,BộNôngnghiệpvàpháttriển
+nôngthôntạicổngthôngtinmộtcửaquốcgia;
+b)Cơquancấpphéptiếnhànhthẩmđịnh,đánhgiáthựctếởcơsởvàquyếtđịnhsửađổigiấy
+chứngnhậntheotrìnhtự,thủtụcnhưcấpmớigiấychứngnhận.
+5.Hoạtđộngsảnxuấtchấtmatúy,tiềnchấtvàthuốcthúycóchứachấtmatúy,tiềnchấtphải
+đượctheodõi,kiểmtra,giámsátchặtchẽtừquátrìnhđượccấpphépđếnsảnphẩmhoànthànhtheo
+quytrình.
+a)Giấychứngnhậnđủđiềukiệnsảnxuấtchấtmatúy,tiềnchất,thuốcthúycóchứachấtma
+túy,tiềnchấtvàGiấychứngnhậnlưuhànhthuốcthúycóchứachấtmatúy,tiềnchấtđượcgửichotổ
+chứccóđềnghị,Côngantỉnh,thànhphốvàcơquanquảnlýnhànướcchuyênngànhtạiđịaphương
+nơitiếnhànhhoạtđộngsảnxuất;
+b) Tổ chức có hoạt động sản xuất phải thực hiện đúng nội dung theo giấy chứng nhận được
+Trangchủ:https://hoatieu.vn/|Hotline:02422426188
+
+cấpvàchịusựtheodõi,kiểmtra,giámsátcủacáccơquanchứcnăng;
+c)Côngantỉnh,thànhphốvàcơquanquảnlýnhànướcchuyênngànhtạiđịaphươngnơitiến
+hành hoạt độngsảnxuất phối hợptheo dõi, kiểm tra, giámsát hoạt độngsảnxuất quy định củapháp
+luật;
+d) Trường hợp phát hiện vi phạm, lực lượng Công an nơi phát hiện vi phạm thông báo ngay
+chocơquancấpphépvàphốihợpngănchặn,xửlýtheoquyđịnhcủaphápluật.
+Điều17.Kiểmsoáthoạtđộngvậnchuyểnchấtmatúy
+1.Trìnhtự,thủtụccấpgiấyphépvậnchuyểnchấtmatúy
+a) Cơ quan, tổ chức khi có nhu cầu vận chuyển chất ma túy (sau đây gọi là tổ chức cần vận
+chuyển)chuẩnbịhồsơđềnghịtheoquyđịnhtạikhoản2Điềunàygửitrựctiếphoặcquađườngbưu
+điệnđếnBộCônganhoặcgửibảnđiệntửthôngquahệthốngdịchvụcôngtrựctuyếncủaBộCôngan
+trêncổngthôngtinmộtcửaquốcgia;
+b)Trongthờihạn05ngàylàmviệc,kểtừngàynhậnđủhồsơtheoquyđịnh,cơquancấpphép
+tiếnhànhthẩmđịnhvàcấpgiấyphépvậnchuyểnchotổchứccầnvậnchuyển;
+c)Trườnghợpcóyêucầuchỉnhlý,bổsunghồsơ,trongthờihạnchậmnhất03ngàylàmviệc,
+kểtừngàynhậnđượchồsơ,cơquancấpphépcóphiếuthôngbáovềviệcchỉnhlý,bổsung,trongđó
+nêurõtàiliệu,nộidungcầnchỉnhlý,bổsungvàthờigianhoànthành.Việctiếpnhận,thẩmđịnhvàcấp
+giấy phép vận chuyển được thực hiệntrong thời hạn 05 ngày làm việc, kể từ ngày nhận đủ hồ sơ đã
+hoànthànhviệcchỉnhlý,bổsung.
+2.Hồsơđềnghịcấpgiấyphépvậnchuyểnchấtmatúy
+a)Đơnđềnghịcấpgiấyphépvậnchuyểnchấtmatúycócácnộidungsau:tên,địachỉtổchức
+giao và tổ chức nhận chất ma túy; mục đích vận chuyển; tên gọi, mã CAS và mã HS, số lượng, hàm
+lượngchấtmatúy; thờigian,hànhtrình,phươngtiệnvậnchuyển;
+b) Bản sao hợp đồng vận chuyển giữa tổ chức cần vận chuyển với tổ chức thực hiện vận
+chuyểnhợppháp;
+c)Bảnsaogiấyphépxuấtkhẩu,nhậpkhẩu,tạmnhập,táixuất,tạmxuất,táinhậpchấtmatúy
+(trườnghợpvậnchuyểntừkholưutrữ,bảoquảnđếncửakhẩuhoặcngượclạiđểthựchiệnthủtụchải
+quan).
+3.Giấyphépvậnchuyểnđượccấpchotừnglầnvậnchuyểnvàcógiátrịtrongthờihạnghitrên
+giấyphépnhưngkhôngquá06tháng.Nộidunggiấyphépghirõthôngtintên,địachỉtổchứcgiaovàtổ
+chứcnhậnchấtmatúy; mụcđíchvậnchuyển;têngọi, mãCAS vàmãHS, sốlượng, hàmlượngchất
+matúy;thờigian,hànhtrình,phươngtiệnvậnchuyển.Giấyphépđượcgửichotổchứccầnvậnchuyển,
+tổchứcthựchiệnvậnchuyểnvàlựclượngHảiquan,BộđộiBiênphòng,Cảnhsátbiển,Côngantỉnh,
+thànhphốtheohànhtrìnhvậnchuyểnđượcghitrêngiấyphép.
+4.Trìnhtự,thủtụcgiahạnvàcấplạigiấyphépvậnchuyểnchấtmatúy
+a)Trướckhihếtthờihạnchophéptốithiểu03ngày,tổchứccầnvậnchuyểngửiđơnđềnghị
+cơquancấpphépgiahạn,trongđónêurõlýdo,thờigianđềnghịgiahạn;
+b) Trường hợp giấy phép bị mất hoặc có thay đổi về thời gian, hành trình, phương tiện vận
+chuyển, tổ chức cần vận chuyển gửi đơn đề nghị cơ quan cấp phép cấp lại giấy phép kèm theo giấy
+phépđãđượccấp;
+c) Trong thời hạn 03 ngày làm việc, kể từ ngày nhận được đơn đề nghị của tổ chức cần vận
+chuyển, cơquancấpphéptiếnhànhxemxétvàcấpphépgiahạnhoặccấplạigiấyphépvậnchuyển
+chocáctrườnghợpquyđịnhtạiđiểmavàđiểmbcủakhoảnnày.
+5.Việcvậnchuyểnchấtmatúyphảithựchiệntheođúngnộidungghitronggiấyphép.Khitiến
+hànhgiao,nhậnchấtmatúyphảicóbiênbảngiaonhậngiữatổchứccầnvậnchuyểnvớitổchứcthực
+hiệnvậnchuyển. Nộidung biênbảnnêurõtên, địachỉtổchứcgiaovàtổchứcnhậnchất matúy; tên
+ngườigiao,ngườinhận,giấytờtùythân;têngọi,mãCASvàmãHS,sốlượng,hàmlượngchấtmatúy
+giaonhận;thờigian,địađiểmgiaonhậnvàcamkếtviệcgiaonhậnđầyđủcủangườigiao,ngườinhận.
+6.HoạtđộngvậnchuyểnchấtmatúytheoquyđịnhcủaĐiềunàyphảiđượctheodõi,kiểmtra,
+giámsátchặtchẽtừquátrìnhđượccấpgiấyphépđếnkhihoànthànhviệcvậnchuyển
+Trangchủ:https://hoatieu.vn/|Hotline:02422426188
+
+a)Tổchứccầnvậnchuyểnvàtổchứcthựchiệnvậnchuyểnphảichịutráchnhiệmvềsốlượng,
+chấtlượng,cóbiệnphápbảovệantoàn,khôngđểbịthấtthoáttrongquátrìnhvậnchuyểnvàchịusự
+theodõi,kiểmtra,giámsátcủacơquannhànướccóthẩmquyền;
+b)Côngancáctỉnh, thànhphốtrựcthuộctrungương,đơnvịBộđộiBiênphòng,đơnvịCảnh
+sátbiểnquảnlýtuyếnđườngvậnchuyểntheohànhtrìnhđượcchophépphảibốtrílựclượng,phương
+tiệntheodõi,kiểmtra,giámsátchặtchẽ,đảmbảoviệcvậnchuyểntheođúngtuyếnđườngvànộidung
+ghi trong giấy phép. Trường hợp phát hiện có dấu hiệu vi phạm, cơ quan chức năng phát hiện thông
+báongaychocơquancấpphépvàphốihợpngănchặnxửlýtheoquyđịnhcủaphápluật.
+Điều 18. Kiểm soát các hoạt động liên quan đến thuốc thú y có chứa chất ma túy, tiền
+chất
+1.Kiểmsoáthoạtđộngsảnxuấtthuốcthúycóchứachấtmatúy,tiềnchấtthựchiệntheoquy
+địnhtạikhoản2,khoản3vàkhoản4Điều16củaNghịđịnhnày.
+2.Cơsởkiểmnghiệm,kiểmđịnhthuốcthúycóchứachấtmatúy,tiềnchấtphảiđảmbảođiều
+kiện,tiêuchuẩnvềcơsởvậtchất,địađiểm,ngườihànhnghềthúytheoquyđịnhcủaphápluậtvềthú
+yđốivớiquảnlýthuốcthúy,đượcBộNôngnghiệpvàPháttriểnnôngthônchỉđịnhhoạtđộngvàchịu
+sựtheodõi,kiểmtra,giámsátcủacơquancóthẩmquyền.
+3.Cơquan,tổchức,cánhântiếnhànhcáchoạtđộngnghiêncứu,vậnchuyển,bảoquản,tồn
+trữ,muabán, phânphối, sửdụng, xửlý, traođổithuốcthúy cóchứachấtmatúy, tiềnchấtthựchiện
+theoquyđịnhcủaphápluậtvềthúyđốivớiquảnlýthuốcthúy,cácquyđịnhcóliênquantạiNghịđịnh
+nàyvàchịusựtheodõi,kiểmtra,giámsátcủacơquancóthẩmquyền.
+4. Bộ Nông nghiệp và Phát triển nông thôn tiến hành kiểm soát các hoạt động liên quan đến
+thuốcthúycóchứachấtmatúy,tiềnchấttheoquyđịnhphápluậtvềthúyđốivớiquảnlýthuốcthúyvà
+các quy địnhcóliênquan tạiNghị địnhnày; phát hiện cáchành vi vi phạmpháp luật, xử lý theo thẩm
+quyềnhoặcchuyểngiaochocơquancóthẩmquyềnxửlýtheoquyđịnhcủaphápluật.
+Mục2
+KIỂMSOÁTCÁCHOẠTĐỘNGNHẬPKHẨU,XUẤTKHẨU,TẠMNHẬP,TÁIXUẤT,TẠMXUẤT,
+TÁINHẬPVÀQUÁCẢNHLÃNHTHỔVIỆTNAMCHẤTMATÚY,TIỀNCHẤT,THUỐCGÂY
+NGHIỆN,THUỐCHƯỚNGTHẦN,THUỐCTIỀNCHẤT,NGUYÊNLIỆULÀMTHUỐCLÀDƯỢC
+CHẤTGÂYNGHIỆN,DƯỢCCHẤTHƯỚNGTHẦN,TIỀNCHẤTDÙNGLÀMTHUỐCVÀTHUỐC
+THÚYCÓCHỨACHẤTMATÚY,TIỀNCHẤT
+Điều19.Cơquancóthẩmquyềnchophépvàcơquan,tổchức,cánhânđượctiếnhành
+hoạtđộngnhậpkhẩu,xuấtkhẩu,tạmnhập,táixuất,tạmxuất,táinhậpvàquácảnhlãnhthổViệt
+Nam chất ma túy, tiền chất, thuốc gây nghiện, thuốc hướng thần, thuốc tiền chất, nguyên liệu
+làm thuốclàdượcchất gâynghiện, dượcchấthướngthần, tiền chấtdùng làm thuốcvà thuốc
+thúycóchứachấtmatúy,tiềnchất
+1.BộCônganchophépcơquan,tổchứcđượctiếnhànhcáchoạtđộngsau:
+a)Nhậpkhẩu, xuấtkhẩucácchất matúy, tiềnchấttạicácDanhmụcchấtmatúyvàtiềnchất
+doChínhphủquyđịnh(trừcácchấtmatúy, tiềnchấtlànguyênliệulàmthuốcphảikiểmsoátđặcbiệt
+doBộYtếchophépvàcáctiềnchấtcôngnghiệpdoBộCôngThươngquảnlývàchophép);
+b)QuácảnhlãnhthổViệtNamcácchấtmatúy,tiềnchấttạicácDanhmụcchấtmatúyvàtiền
+chất do Chính phủ quy định; thuốc gây nghiện, thuốc hướng thần, thuốc tiền chất, nguyên liệu làm
+thuốclàdượcchấtgâynghiện,dượcchấthướngthần,tiềnchấtdùnglàmthuốcvàthuốcthúycóchứa
+chấtmatúy, tiềnchất.
+2.BộCôngThươngchophépcơquan,tổchức,cánhânđượctiếnhànhcáchoạtđộngsau:
+a)Nhậpkhẩu,xuấtkhẩutiềnchấtquyđịnhtạiDanhmụctiềnchấtdoChínhphủquyđịnh(trừ
+cáctiềnchấtdoBộCôngan,BộYtếquảnlývàchophép);
+b)Tạmnhập,táixuất,tạmxuất,táinhậpchấtmatúy,tiềnchấtquyđịnhtạicácDanhmụcchất
+ma túy và tiền chất do Chính phủ quy định; thuốc gây nghiện, thuốc hướng thần, thuốc tiền chất,
+nguyên liệu làm thuốc là dược chất gây nghiện, dược chất hướng thần, tiền chất dùng làm thuốc và
+thuốcthúycóchứachấtmatúy, tiềnchất.
+3.BộNôngnghiệpvàPháttriểnnôngthônchophépcơquan,tổchứcđượctiếnhànhcáchoạt
+Trangchủ:https://hoatieu.vn/|Hotline:02422426188
+
+độngsau:
+a)Nhậpkhẩu,xuấtkhẩuthuốcthúycóchứachấtmatúy, tiềnchất;
+b)Nhậpkhẩuchấtmatúy, tiềnchấtdùnglàmnguyênliệusảnxuấtthuốcthúylàcácchấtma
+túy, tiềnchấttạicácDanhmụcchấtmatúyvàtiềnchấtdoChínhphủquyđịnh.
+4.BộCôngan,BộCôngThương,BộNôngnghiệpvàPháttriểnnôngthôntrongphạmvinhiệm
+vụ, quyền hạn giao cho cơ quan chức năng thực hiện nhiệm vụ tiếp nhận hồ sơ, thẩm định và quyết
+địnhviệcchophépcáchoạtđộngquyđịnhtạikhoản1,khoản2vàkhoản3củaĐiềunày(sauđâygọi
+làcơquancấpphép).
+5.Cơquan,tổchức,cánhâncóhoạtđộngquyđịnhtạikhoản1,khoản2vàkhoản3củaĐiều
+nàylàthươngnhânViệtNamvàthươngnhânnướcngoàihoạtđộngthươngmạitạiViệtNamtheoquy
+địnhcủaLuậtThươngmại(sauđâygọilàdoanhnghiệp).
+Điều20.Kiểmsoáthoạtđộngnhậpkhẩu,xuấtkhẩuchấtmatúy,tiềnchấtvàthuốcthúy
+cóchứachấtmatúy,tiềnchất
+1.Trìnhtự,thủtụccấpgiấyphépnhậpkhẩu,xuấtkhẩu
+a)Doanhnghiệpcóhoạtđộngtheoquy địnhtạiđiểmakhoản1vàkhoản3Điều19củaNghị
+địnhnàychuẩnbịhồsơđềnghịcấpgiấyphépnhậpkhẩu,xuấtkhẩutheoquyđịnhtạikhoản2Điềunày,
+gửitrựctiếphoặcgửiquađườngbưuđiệnđếnBộCôngan, BộNôngnghiệpvàPháttriểnnôngthôn
+hoặcgửibảnđiệntửthôngquahệthốngdịchvụcôngtrựctuyếncủaBộCôngan,BộNôngnghiệpvà
+Pháttriểnnôngthôntrêncổngthôngtinmộtcửaquốcgia;
+b) Trong thờihạnchậm nhất là03 ngàylàm việc, kểtừ ngày nhậnđủ hồ sơ đềnghịcấpgiấy
+phép nhập khẩu chất ma túy theo quy định, cơ quan cấp phép tiến hành thẩm định và cấp giấy phép
+nhậpkhẩu;
+c) Trongthờihạn chậm nhất là10 ngày làm việc, kểtừ ngày nhận đủ hồ sơ đề nghịcấp giấy
+phépxuấtkhẩuchấtmatúy, tiềnchấttheoquyđịnh,cơquancấpphéptiếnhànhthẩmđịnh,thựchiện
+thôngbáotiền xuất khẩu vàcấpgiấy phépxuất khẩu. Trườnghợpcơ quancóthẩmquyềncủa nước
+nhập khẩu không thông qua yêu cầu thông báo tiền xuất khẩu thì cơ quan cấp phép không cấp giấy
+phépvàthôngbáobằngvănbảnchodoanhnghiệpbiếtlýdo;
+d) Trong thờihạnchậm nhất là05 ngàylàm việc, kểtừ ngày nhậnđủ hồ sơ đềnghịcấpgiấy
+phépnhậpkhẩu,xuấtkhẩuthuốcthúycóchứachấtmatúy,tiềnchấttheoquyđịnh,cơquancấpphép
+tiếnhànhthẩmđịnhvàcấpgiấyphépnhậpkhẩu,xuấtkhẩu.
+2.Hồsơđềnghịcấpgiấyphépnhậpkhẩu,xuấtkhẩu
+a)Đơnđềnghịcấpgiấyphépnhậpkhẩu,xuấtkhẩucủadoanhnghiệptheoMẫusố01tạiPhụ
+lụcbanhànhkèmtheoNghịđịnhnày;
+b) Bản chính một trong các văn bản sau: Giấy phép xuất khẩu hoặc nhập khẩu của nước có
+hàngxuấtkhẩuhoặcnhậpkhẩu(nếucó);
+c)Bảnsaocóchứngthựccácgiấytờsau:Giấychứngnhậnđầutư,Giấychứngnhậnđăngký
+kinh doanh, Giấy chứng nhận đăng ký doanh nghiệp, Giấy chứng nhận đủ điều kiện sản xuất, kinh
+doanhđốivớihoạtđộngđượcphép,GiấychứngnhậnđủđiềukiệnnhậpkhẩuvàGiấychứngnhậnlưu
+hànhthuốcthúytạiViệtNam,trừtrườnghợpnhậpkhẩuvìmụcđíchnghiêncứu,sửdụngđiềutrịbệnh
+chođộngvậthoangdã,quýhiếm;
+d)Bảnsaohợpđồng,đơnhàngliênquankèmtheobảnchínhđốichiếu(khicóyêucầu);
+đ)Cácgiấytờ,tàiliệuliênquankhác:Phiếuphântíchchấtlượngsảnphẩm(CoA)củanhàsản
+xuấthoặcPhiếukếtquảkiểmđịnhsảnphẩm,nhãnsảnphẩmđốivớithuốcthúycóchứachấtmatúy,
+tiềnchất;
+CáctàiliệunêutrênnếubằngtiếngnướcngoàithìphảikèmtheobảndịchtiếngViệtcócông
+chứngtheoquyđịnhcủaLuậtCôngchứng.
+3.Giấyphépnhậpkhẩu,xuấtkhẩutheoMẫusố02A,02BtạiPhụlụcbanhànhkèmtheoNghị
+địnhnày
+a)Giấyphépđượccấpchotừnglầnnhậpkhẩu,xuấtkhẩuvàcógiátrịtrongthờihạnghitrên
+giấyphépnhưngkhôngquá12 tháng. Trường hợp hết thờihạnghi trong giấyphépnhưng việc nhập
+Trangchủ:https://hoatieu.vn/|Hotline:02422426188
+
+khẩu,xuấtkhẩuchưathựchiệnđượcthìdoanhnghiệpđềnghịcơquancấpgiấyphépgiahạn,không
+giớihạnsốlầngiahạn;
+b)Giấyphépđượcgửichodoanhnghiệp,ChicụcHảiquannơilàmthủtụchảiquanchohàng
+nhậpkhẩu,xuấtkhẩuvàgửiBộTàichính(TổngcụcHảiquan),BộCônganđểtheodõi,quảnlývàthực
+hiệncácyêucầuthôngbáotiềnxuấtkhẩu(khicóyêucầu);
+Việccấpgiấyphépnếuchưađượcthựchiệntrêncổngthôngtinmộtcửaquốcgia:Trongthời
+hạnchậm nhất là03 ngàylàmviệc,kểtừngàycấpgiấy phép, cơquancấpgiấyphépcótráchnhiệm
+gửigiấyphépnhậpkhẩu,xuấtkhẩutớidoanhnghiệpđềnghịcấpphépnhậpkhẩu,xuấtkhẩu,Chicục
+Hải quan nơi làm thủtụchải quan chohàngnhập khẩu, xuất khẩuvàgửi Bộ Tàichính (Tổng cụcHải
+quan),BộCônganđểphốihợpquảnlý,kiểmsoát.
+Trườnghợp,việccấpgiấyphépđãthựchiệntrêncổngthôngtinmộtcửaquốcgianhưngtrong
+thờigianTrungtâmdữliệukiểmsoátcáchoạtđộnghợpphápliênquanđếnmatúythuộcBộCôngan
+chưakếtnốiđượcvớicổngthôngtinmộtcửaquốcgiathìtrongthờihạn03ngàylàmviệc,kểtừngày
+cấpgiấyphép,cơquancấpphépcótráchnhiệmthôngbáovàgửigiấyphépnhậpkhẩu,xuấtkhẩutới
+BộCônganđểphốihợpquảnlý,kiểmsoát;
+d) Việc cấp, điều chỉnh, cấp lại giấy phép do mất, thất lạc hoặc sai sót, doanh nghiệp có văn
+bảnđềnghịkèmtheogiấytờ,tàiliệuchứngminhnộidungcầnđiềuchỉnhhoặcbáocáogiảitrìnhlýdo
+mất,thấtlạcđếncơquancấpphép.Trongthờihạnchậmnhấtlà05ngàylàmviệc,cơquancấpphép
+tiếnhànhxemxét,điềuchỉnhhoặccấplạigiấyphép.Trườnghợptừchốicấpphép,cơquancấpphép
+trảlờibằngvănbản,nêurõlýdo.
+4.Hồsơ,trìnhtự,thủtụccấpgiấyphépnhậpkhẩu,xuấtkhẩutiềnchấttheoquyđịnhtạiđiểm
+akhoản2Điều19củaNghịđịnhnàythựchiệntheoquyđịnhcủaphápluậtvềhóachấtvàcácquyđịnh
+cóliênquantạiNghịđịnhnày.
+5.LựclượngHảiquancótráchnhiệmlàmthủtụchảiquanvàthựchiệnchếđộkiểmtra,giám
+sát hàng nhập khẩu, xuất khẩu theo quy định của pháp luật. Trường hợp phát hiện hàng nhập khẩu,
+xuấtkhẩukhôngđúngvớinộidunggiấyphép,cơquanHảiquantạmdừngcácthủtụcnhậpkhẩu,xuất
+khẩu,lậpbiênbản,xửlýtheothẩmquyền;đồngthờitrongthờihạnchậmnhấtlà03ngàylàmviệc,kể
+từngàypháthiệnsaiphạm,cơquanHảiquancótráchnhiệmthôngbáotrựctiếpquađườngdâynóng
+chocáccơquancấpphépvàBộCônganđểphốihợpquảnlý,kiểmsoát.
+6.Đốivớitrườnghợpviphạmcácquyđịnhvềkiểmsoáthoạtđộngnhậpkhẩu,xuấtkhẩu,Thủ
+trưởng cơ quan cấp phép và Chi cục trưởng Chi cục Hải quan nơi làm thủ tục hải quan tuỳ theo tính
+chất,mứcđộviphạmcóthểquyếtđịnhthuhồiGiấyphépnhậpkhẩu,xuấtkhẩuđãcấp,đìnhchỉ,tạm
+đìnhchỉviệcnhậpkhẩu,xuấtkhẩu,xửlýngườiviphạmvàhàngnhậpkhẩu,xuấtkhẩutheothẩmquyền
+hoặcchuyểngiaochocơquancóthẩmquyềnxửlýtheoquyđịnhcủaphápluật.
+Điều 21. Kiểm soát hoạt động tạm nhập, tái xuất, tạm xuất, tái nhập chất ma túy, tiền
+chất,thuốcgâynghiện,thuốchướngthần,thuốctiềnchất,nguyênliệulàmthuốclàdượcchất
+gây nghiện, dược chất hướng thần, tiền chất dùng làm thuốc và thuốc thú y có chứa chất ma
+túy,tiềnchất
+1. Doanh nghiệp có hoạt động theo quy định tại điểm b khoản 2 Điều 19 của Nghị định này
+chuẩnbịhồsơđềnghịcấpgiấyphéptheoquyđịnhcủaphápluậtvềquảnlýngoạithương,gửitrựctiếp
+hoặcgửiquađườngbưuđiệnđếnBộCôngThươnghoặcgửibảnđiệntửthôngquahệthốngdịchvụ
+côngtrựctuyếncủaBộCôngThươngtrêncổngthôngtinmộtcửaquốcgia.
+2.Cơquancấpphéptiếpnhậnhồsơ,thẩmđịnh,thựchiệnthôngbáotiềnxuấtkhẩutheoquy
+định tại điểm d khoản 2 Điều 35 của Nghị định này và cấp giấy phép tạm nhập, tái xuất, tạm xuất, tái
+nhậpchấtmatúy,tiềnchất,thuốcgâynghiện,thuốchướngthần,thuốctiềnchất,nguyênliệulàmthuốc
+làdượcchấtgâynghiện,dượcchấthướngthần,tiềnchấtdùnglàmthuốcvàthuốcthúycóchứachất
+matúy, tiềnchấttheoquyđịnhcủaLuậtQuảnlýngoạithương.
+3.Trongthờihạnchậmnhấtlà03ngàylàmviệc,kểtừngàycấpgiấyphép,cơquancấpphép
+cótráchnhiệmgửigiấyphéptạmnhập,táixuất,tạmxuất,táinhậpđãcấpchoChicụcHảiquannơilàm
+thủtụchảiquanvàgửiBộTàichính(TổngcụcHảiquan),BộCônganđểphốihợpquảnlý,kiểmsoát.
+4.LựclượngHảiquancótráchnhiệmthựchiệnthủtụcvàkiểmtra,giámsáthảiquantheoquy
+định của pháp luật Hải quan. Việc thay đổi mẫu mã, bao bì, thùng chứa của hàng tạm nhập, tái xuất,
+tạm xuất, tái nhập phải được sự đồng ý của Bộ Công Thương và giám sát của lực lượng Hải quan.
+Trườnghợppháthiệnhàngtạmnhập,táixuất,tạmxuất,táinhậpkhôngđúngvớinộidunggiấyphép,
+Trangchủ:https://hoatieu.vn/|Hotline:02422426188
+
+cơquanHảiquantạmdừngcácthủtụchảiquan,lậpbiênbản,xửlýtheothẩmquyền;đồngthờitrong
+thờihạnchậmnhấtlà03ngàylàmviệc,kểtừngàypháthiệnsaiphạmthôngbáotrựctiếpquađường
+dâynóngchocơquancấpphépvàBộCônganđểphốihợpquảnlý,kiểmsoát.
+Điều22. Kiểm soát hoạt động quácảnhlãnh thổ Việt Nam chất matúy, tiền chất, thuốc
+gâynghiện,thuốchướngthần,thuốctiềnchất,nguyênliệulàmthuốclàdượcchấtgâynghiện,
+dượcchấthướngthần,tiềnchấtdùnglàmthuốcvàthuốcthúycóchứachấtmatúy,tiềnchất
+1.Trìnhtự,thủtụccấpgiấyphépquácảnhlãnhthổViệtNam
+a)Doanhnghiệpcóhoạtđộngtạiđiểmbkhoản1Điều19củaNghịđịnhnàychuẩnbịhồsơđề
+nghịcấpgiấyphéptheoquyđịnhtạikhoản2Điềunày,gửitrựctiếphoặcgửiquađườngbưuđiệnđến
+BộCônganhoặcgửibảnđiệntửthôngquahệthốngdịchvụcôngtrựctuyếncủaBộCôngantrêncổng
+thôngtinmộtcửaquốcgia;
+b)Trongthờihạnchậmnhấtlà05ngàylàmviệc,kểtừngàynhậnđủhồsơtheoquyđịnh,cơ
+quancấpphéptiếnhànhthẩmđịnhvàcấpgiấyphépquácảnh.Trườnghợpkhôngcấpgiấyphépquá
+cảnhthìphảithôngbáobằngvănbảnnêurõlýdochodoanhnghiệpđềnghịcấpphép.
+2.Hồsơđềnghịcấpgiấyphépquácảnh
+a)Đơnđềnghịcấpgiấyphépquácảnhcủadoanhnghiệpgồmcácthôngtinvềtên,địachỉcủa
+doanhnghiệp;thờigian,địađiểm,lýdoquácảnh;tên,địachỉnơisảnxuất,têngọi,mãsốCASvàHS,
+số lượng, hàm lượng; tên gọi, mã HS, số lượng thuốc và nguyên liệu làm thuốc được điểm soát cần
+quácảnh;trịgiáhànghóa;phươngtiện,hànhtrìnhvàđiềukiệnbảođảmantoànvậnchuyển;
+b)Bảnchínhhợpđồngvậntải;
+c)Bảnchínhmộttrongcácgiấytờsau:Côngthưđềnghịcủacơquancóthẩmquyềncủanước
+đề nghị cho hàng hóa quá cảnh, Giấy phép xuất khẩu của nước có hàng xuất khẩu hoặc Giấy phép
+nhậpkhẩucủanướccóhàngnhậpkhẩu;
+d) Bản chính Giấy phép quá cảnh của nước mà hàng xuất khẩu hoặc nhập khẩu đã đi qua
+trướckhiđếnViệtNam(trườnghợpvậnchuyểnquácảnhnhiềunước).
+CáctàiliệunêutrênnếubằngtiếngnướcngoàithìphảiđượcdịchratiếngViệtcócôngchứng
+theoquyđịnhcủaLuậtCôngchứng.
+3.Giấyphépquácảnh
+a)Nộidunggiấyphépphảighirõtên,địachỉcủadoanhnghiệpđượcphépquácảnh; têngọi,
+mãsốCAS, mãsốHS, mãsốUN (nếucó),sốlượng, hàmlượngcácchấtđượcphépquácảnh; thời
+gian, phương tiện thực hiện việc vận chuyển quá cảnh; tên các cửa khẩu mà hàng vận chuyển quá
+cảnhđiqua;
+b)Giấyphépquácảnhcógiátrịmộtlầntheothờihạnghitronggiấyphépnhưngthờihạnghi
+khôngquá02tháng.Trườnghợphếtthờihạnghitronggiấyphépnhưngviệcquácảnhchưathựchiện
+đượcthìdoanhnghiệpđềnghịđượcgiahạnthờihạnquácảnh. Việcgia hạnđượcthựchiệnmộtlần
+vớithờihạnkhôngquá30ngày;
+c) Giấy phép quá cảnh được gửi cho doanh nghiệp đề nghị cấp phép quá cảnh, Chi cục Hải
+quan, Côngan cáctỉnh, thành phố trực thuộc trungương, đơn vị Bộđội Biênphòng, đơnvịCảnhsát
+biểnnơihàngvậnchuyểnquácảnhđiqua,BộTàichính(TổngcụcHảiquan)vàBộCôngThươngđể
+phốihợpquảnlý,kiểmsoát;
+d) Trường hợp cần điều chỉnh giấy phép do sai sót hoặc cấp lại giấy phép do mất, thất lạc,
+doanhnghiệpcóđơnđềnghịkèmtheogiấytờ, tàiliệuchứngminhnộidungcầnđiềuchỉnhhoặcbáo
+cáogiảitrìnhlýdomất,thấtlạc,gửicơquancấpphép.Trongthờihạnchậmnhấtlà05ngàylàmviệc,
+kể từ ngày nhận đủ hồ sơ theo quy định, cơ quan cấp phép tiến hành xem xét điều chỉnh giấy phép
+hoặccấplạigiấyphép.Trườnghợptừchốiđiềuchỉnhhoặccấplạigiấyphép,cơquancấpphéptrảlời
+bằngvănbản,nêurõlýdo.
+4.Chấtmatúy,tiềnchất,thuốcgâynghiện,thuốchướngthần,thuốctiềnchất,nguyênliệulàm
+thuốclàdượcchấtgâynghiện,dượcchấthướngthần,tiềnchấtdùnglàmthuốcvàthuốcthúycóchứa
+chất ma túy, tiền chất quá cảnh lãnh thổ Việt Nam phải được chứa trong thùng chứa, đóng gói, niêm
+phongvàđảmbảotuânthủtiêuchuẩn, quy chuẩnquốc tếvàhồsơ kèm theo. Trường hợpphát hiện
+thayđổiniêmphonghoặcthayđổinguyêntrạnghàngvậnchuyểnquácảnh,ChicụcHảiquannơilàm
+thủtụcquácảnhtạmdừngcácthủtụchảiquan,lậpbiênbản,xửlýtheothẩmquyềnvàthôngbáongay
+Trangchủ:https://hoatieu.vn/|Hotline:02422426188
+
+quađườngdâynóngchoBộCônganđểphốihợpquảnlý,kiểmsoát.
+5. Hoạt động quá cảnh lãnh thổ Việt Nam chất ma túy, tiền chất, thuốc gây nghiện, thuốc
+hướng thần, thuốc tiền chất, nguyên liệu làm thuốc là dược chất gây nghiện, dược chất hướng thần,
+tiềnchấtdùnglàmthuốcvàthuốcthúycóchứachấtmatúy,tiềnchấtphảitheođúnghànhtrìnhvàovà
+ra theo đúng cửa khẩu đã ghi trong giấy phép quá cảnh. Doanh nghiệp thực hiện việc quá cảnh phải
+làmthủtục,chịusựkiểmsoátcủacơquanHảiquan,cơquancóthẩmquyềncủaViệtNamvàchịumọi
+chiphíquácảnhtheoquyđịnhcủaphápluật;
+Chất matúy, tiền chất, thuốc gây nghiện, thuốc hướng thần, thuốc tiền chất, nguyên liệu làm
+thuốclàdượcchấtgâynghiện,dượcchấthướngthần,tiềnchấtdùnglàmthuốcvàthuốcthúycóchứa
+chấtmatúy,tiềnchấtquácảnhđượcphéplưulạitrênlãnhthổViệtNamtrongthờihạntốiđalà30ngày,
+kểtừngàyhoànthànhthủtụchảiquantạicửakhẩunhậpkhẩu,trừtrườnghợpđượcgiahạnthờigian
+quácảnh,đượclưukhotạiViệtNamhoặchàngquácảnhbịhưhỏng,tổnthấthoặcphươngtiệnvậntải
+hàngquácảnhbịhưhỏng;
+Việctiêuthụnộiđịachấtmatúy,tiềnchất,thuốcgâynghiện,thuốchướngthần,thuốctiềnchất,
+nguyên liệu làm thuốc là dược chất gây nghiện, dược chất hướng thần, tiền chất dùng làm thuốc và
+thuốcthúycóchứachấtmatúy,tiềnchấtquácảnhphảithựchiệntheoquyđịnhcủaphápluậtvềnhập
+khẩu,xuấtkhẩutạiNghịđịnhnàyvàquyđịnhcủaphápluậtcóliênquan.
+6.LựclượngHảiquancótráchnhiệmthựchiệnthủtụchảiquanvàkiểmtra,giámsáthảiquan
+đốivớihàngquácảnhtheoquyđịnhcủaphápluậtHảiquan.Trườnghợppháthiệnhàngvậnchuyển
+quá cảnh không đúng với nội dung giấy phép, cơ quan Hải quan tạm dừng các thủ tục hải quan, lập
+biênbản, xửlý theo thẩmquyền; đồng thời trong thời hạnchậmnhất là03 ngàylàm việc, kểtừ ngày
+pháthiệnsaiphạm,cơquanHảiquancótráchnhiệmthôngbáotrựctiếpchocơquancấpphéphoặc
+thôngbáoquađườngdâynóngchoBộCônganvàBộCôngThươngđểphốihợpquảnlý,kiểmsoátvà
+xửlý.
+7.Côngancáctỉnh,thànhphốtrựcthuộctrungương,đơnvịBộđộiBiênphòng, đơnvịCảnh
+sátbiểnquảnlýtuyếnđườngvậnchuyểncủahoạtđộngquácảnhđượcchophépphảibốtrílựclượng,
+phươngtiệnkiểmsoátchặtchẽ,đảmbảoviệcvậnchuyểntuânthủtheođúngtuyếnđườngvànộidung
+ghi trong giấy phép. Trường hợp hàng vận chuyển có số lượng lớn hoặc trong trường hợp cần thiết
+khác,đơnvịcấpphépđượcquyềnyêucầulựclượngCônganđịaphương,BộđộiBiênphòng,Cảnh
+sátbiểnphốihợpvớilựclượngHảiquantổchứcviệcáptảihàngvậnchuyểnquácảnhrakhỏilãnhthổ
+ViệtNam.Trongquátrìnhdoanhnghiệpthựchiệnthủtụcquácảnh,cáccơquanchứcnăngpháthiện
+códấuhiệuviphạmthìthôngbáongaychocơquanHảiquanđểphốihợpngănchặnvàxửlýtheoquy
+địnhcủaphápluật.
+8. Việc mang theo thuốc gây nghiện, thuốc hướng thần, thuốc tiền chất vì mục đích điều trị
+bệnhchobảnthânngườiquácảnhlãnhthổViệtNamkhôngbịcoilàmanghàngquácảnhlãnhthổViệt
+Nam.Ngườiquácảnhcótráchnhiệmkhaibáovàgiảitrìnhvềsốlượngthuốcđãsửdụngvớicơquan
+HảiquancủaViệtNam,cónghĩavụthựchiệnnghiêmcácbiệnphápantoànthíchhợpdocơquanHải
+quanápdụngđểngănchặnviệcsửdụngkhôngđúngmụcđíchhoặcvậnchuyểntráiphépcácthuốcđó,
+đồngthờichịusựkiểmsoátcủacơquancóthẩmquyềncủaViệtNam.
+Mục3
+KIỂMSOÁTCÁCHOẠTĐỘNGHỢPPHÁPLIÊNQUAN ĐẾNMATÚYVÌMỤCĐÍCHQUỐC
+PHÒNG,AN NINH
+Điều23.Cơquancóthẩmquyềnchophépvàcáccơquan,tổchứcđượctiếnhànhcác
+hoạtđộnghợpphápliênquanđếnmatúyvìmụcđíchquốcphòng,anninh
+1. BộCông an chophép cơquan, tổchứcđược tiếnhànhcác hoạt độnghợpphápliênquan
+đếnmatúyvìmụcđíchquốcphòng,anninhđốivớicáchoạtđộngsau:
+a) Nghiêncứu, vận chuyểncác chất matúy quy địnhtạicác Danh mụcchất matúydo Chính
+phủquyđịnh;
+b)Sảnxuấtchấtmatúy,tiềnchấtquyđịnhtạicácDanhmụcchấtmatúyvàtiềnchấtdoChính
+phủquyđịnh;
+c)Nhậpkhẩu, xuấtkhẩuchấtmatúy, tiềnchấtquyđịnhtạicácDanhmụcchấtmatúyvàtiền
+chất do Chínhphủ quy định (trừ tiền chất do BộQuốc phòng chophépquy định tại khoản2 củaĐiều
+này);
+Trangchủ:https://hoatieu.vn/|Hotline:02422426188
+
+d)Nhậpkhẩumẫuchấtmatúyquyđịnhtạikhoản5củaĐiềunày.
+2.BộQuốcphòngchophépcáccơquan, tổchứcđượctiếnhànhhoạtđộngnhậpkhẩu,xuất
+khẩu,muabán,sửdụngtiềnchấttheoquyđịnhtạiDanhmụctiềnchấtdoChínhphủquyđịnh(trừtiền
+chấtdoBộCôngan,BộYtếquảnlývàchophép).
+3. Bộ Công an, Bộ Quốc phòng trong phạm vi nhiệm vụ, quyền hạn giao cho cơ quan chức
+năng thực hiện nhiệm vụ tiếp nhận hồ sơ, thẩm định và quyết định việc cho phép các hoạt động tại
+khoản1vàkhoản2củaĐiềunày(sauđâygọilàcơquancấpphép).
+4.Cơquan,tổchứctiếnhànhcáchoạtđộngquyđịnhtạikhoản1vàkhoản2củaĐiềunàyphải
+làcáccơquan,tổchứcđượcBộCônganvàBộQuốcphòngchỉđịnhvàcấpphép(sauđâygọilàđơn
+vị).
+5.Cácđơnvịđượcnhậpkhẩu,quảnlývàsửdụngmẫucácchấtmatúy, tiềnchất,thuốcgây
+nghiện,thuốchướngthần,thuốctiềnchất,nguyênliệulàmthuốclàdượcchấtgâynghiện, dượcchất
+hướngthần, tiền chất dùnglàmthuốcvàthuốcthú ycóchứachất matúy, tiềnchất vì mụcđíchquốc
+phòng,anninh(sauđâygọichunglàmẫuchấtmatúy):
+a)ViệnKhoahọchìnhsự,BộCônganlàđơnvịduynhấtđượcphépnhậpkhẩumẫuchấtma
+túy;
+b)Cácđơnvịđượcquảnlý,sửdụngmẫuchấtmatúybaogồm:
+ĐơnvịchứcnăngthuộcViệnKhoahọchìnhsự,BộCôngan;PhòngKỹthuậthìnhsựCôngan
+cáctỉnh,thànhphốtrựcthuộctrungươngđượcnhậnmẫu,quảnlývàsửdụngmẫuchấtmatúytừViện
+Khoahọc,hìnhsựcủaBộCônganđểgiámđịnh,huấnluyệnnghiệpvụphòng,chốngtộiphạmvềma
+túyvàtruynguyênnguồngốcmatúy;
+Các cơ quan chuyên trách phòng, chống tội phạm về ma túy thuộc lực lượng Công an nhân
+dân,BộđộiBiênphòng,CảnhsátbiểnViệtNamvàHảiquanvàcáccơsởđàotạongườilàmcôngtác
+phòng,chốngtộiphạmvềmatúythuộcBộCôngan,BộQuốcphòng,BộTàichính(TổngcụcHảiquan)
+đượcnhậnmẫu,quảnlývàsửdụngmẫuchấtmatúytừViệnKhoahọchìnhsựBộCônganđểhuấn
+luyệnnghiệpvụphòng,chốngtộiphạmvềmatúy;
+CácđơnvịhuấnluyệnđộngvậtnghiệpvụđểpháthiệnmatúythuộcBộCôngan(BộTưlệnh
+Cảnhsátcơđộng),BộQuốcphòng,BộTàichính(TổngcụcHảiquan)đượcnhậnmẫu,quảnlývàsử
+dụngmẫuchấtmatúytừViệnKhoahọchìnhsự,BộCônganđểhuấnluyệnđộngvậtnghiệpvụ.
+Điều24. Kiểm soát hoạtđộngnghiêncứu, giámđịnh,sảnxuấtchấtmatúy, tiền chất vì
+mụcđíchquốcphòng,anninh
+1. Các đơnvị cóhoạt độngquy định tạiđiểmavàđiểm bkhoản1Điều23 củaNghị địnhnày
+gửihồsơđềnghịcấpgiấyphépvềcơquancấpphépcủaBộCôngan.
+2.Hồsơ,trìnhtự,thủtụccấpphépvàcácđiềukiện,tiêuchuẩnchophépnghiêncứu,sảnxuất
+chấtmatúy, tiềnchấtvìmụcđíchquốcphòng,anninhthựchiệntheoquyđịnhtạiĐiều15vàĐiều16
+củaNghịđịnhnày. Đốivớicácđơnvị thuộclựclượng Côngan nhândânvàQuânđộinhândântheo
+quyđịnhtạikhoản4Điều23củaNghịđịnhnàykhiđượcchỉđịnhtiếnhànhhoạtđộngnghiêncứuchất
+matúy, tiềnchất vì mục đích quốc phòng, an ninh được loại trừ Giấy chứng nhận đăng ký hoạt động
+khoahọcvàcôngnghệcủacơquannghiêncứu.
+3.Cácđơnvịđượcphépnghiêncứu,sảnxuấtchấtmatúy,tiềnchấtvìmụcđíchquốcphòng,
+anninhcótráchnhiệmthựchiệnđầyđủcácquyđịnhvềhoạtđộngvàchịusựtheodõi,kiểmtra,giám
+sátcủacơquanchứcnăngtheoquyđịnhtạiĐiềunàyvàquyđịnhcủaphápluậtcóliênquan.
+4.ViệnKhoahọchìnhsự,BộCônganchịutráchnhiệmtổchứcthựchiệntrìnhtự,thủtụcgiám
+địnhchấtmatúy,tiềnchất,thuốcgâynghiện,thuốchướngthần,thuốctiềnchất,nguyênliệulàmthuốc
+làdượcchấtgâynghiện,dượcchấthướngthần,tiềnchấtdùnglàmthuốcvàthuốcthúycóchứachất
+matúy,tiềnchấttheoquyđịnhcủaLuậtGiámđịnhtưpháp,BộluậtTốtụnghìnhsựvàcácvănbảnquy
+phạmphápluậtcóliênquan.
+Điều 25. Kiểm soát các hoạt động nhập khẩu, xuất khẩu, vận chuyển chất ma túy, tiền
+chấtvìmụcđíchquốcphòng,anninh
+1. Các đơnvị cóhoạt độngquy định tạiđiểma, điểmckhoản1và khoản2Điều23 củaNghị
+địnhnàygửihồsơđềnghịcấpphépvềBộCôngan,BộQuốcphòng.
+Trangchủ:https://hoatieu.vn/|Hotline:02422426188
+
+2.Hồsơ,trìnhtự,thủtụccấpphépvàcácđiềukiện,tiêuchuẩnchophépnhậpkhẩu,xuấtkhẩu
+vàvậnchuyểnchấtmatúy,tiềnchấtvìmụcđíchquốcphòng,anninhthựchiệntheoquyđịnhtạiĐiều
+17, Điều 20 của Nghị định này. Tùy từng trường hợp, Bộ trưởng Bộ Công an và Bộ trưởng Bộ Quốc
+phòngquyếtđịnhloạitrừmộtsốđiềukiện,tiêuchuẩnvàtàiliệucụthểíthoặckhôngliênquanđếnhoạt
+độngquốcphòng,anninhhoặctrườnghợpđápứngyêucầucấpbáchchoquốcphòng,anninh.
+3.CơquancấpphépthuộcBộCônganvàBộQuốcphònglàđơnvịtiếpnhậnhồsơ,xemxét,
+đánhgiávàtổchứccáchoạtđộngthẩmđịnh,cấpgiấyphépvàtheodõi,kiểmtra,giámsáthoạtđộng
+nhậpkhẩu,xuấtkhẩu,vậnchuyểnchấtmatúy,tiềnchấtvìmụcđíchquốcphòng,anninhcủacácđơn
+vịđượccấpphéptheoquyđịnh.
+4.Cácđơnvịđượcphépnhậpkhẩu,xuấtkhẩu,vậnchuyểnchấtmatúy,tiềnchấtvìmụcđích
+quốcphòng,anninhcótráchnhiệmthựchiệnđầyđủcácquyđịnhvềhoạtđộngnhậpkhẩu,xuấtkhẩu,
+vậnchuyểnvàchịusựtheodõi,kiểmtra,giámsátcủacơquanchứcnăngtheoquyđịnhtạiĐiềunày,
+Điều17,Điều20củaNghịđịnhnàyvàquyđịnhcủaphápluậtcóliênquan.
+Điều 26. Quy định về hoạt động bảo quản, tồn trữ, phân phối, sử dụng, xử lý, trao đổi
+chấtmatúy,tiềnchấtvìmụcđíchquốcphòng,anninh
+1.Đơnvịđượctiếnhànhcáchoạtđộnghợpphápliênquanđếnmatúyvìmụcđíchquốcphòng,
+anninhđượcquyđịnhtạiĐiều23củaNghịđịnhnàycótráchnhiệm:
+a)Xâydựngkếhoạchtổchứcthựchiệncáchoạtđộngbảoquản,tồntrữ,phânphối,sửdụng,
+xửlý,traođổichấtmatúy, tiềnchấttrongcơquanđảmbảotuyệtđốiantoànvàphảichịutráchnhiệm
+trướcphápluậtvềviệcnhầmlẫn,thấtthoátcácchấtđó;
+b) Chấp hành việc theo dõi, kiểm tra, giám sát của các cơ quan chức năng đối với các hoạt
+độngbảoquản,tồntrữ,phânphối,sửdụng,xửlý,traođổichấtmatúy, tiềnchấttạicơquan,đơnvị.
+2.ĐơnvịchứcnăngthuộcBộCônganchịutráchnhiệmphốihợpvớicáccơquanchứcnăng
+thuộccácbộ,ngànhcóliênquantiếnhànhtheodõi,kiểmtra,giámsátcáchoạtđộngbảoquản,tồntrữ,
+phânphối, sửdụng, xửlý, traođổichất matúy, tiềnchấtvìmụcđíchquốcphòng, anninhđốivớicác
+đơnvịtheoquyđịnhtạikhoản1củaĐiềunày.
+Điều27.Quyđịnhviệcnhậpkhẩumẫu,lấymẫuchấtmatúyvìmụcđíchquốcphòng,an
+ninh
+1.Nguồnmẫuchấtmatúyvìmụcđíchquốcphòng,anninhbaogồm:
+a)Mẫuchấtmatúytừnguồnnhậpkhẩu;
+b)Mẫuchấtmatúylàvậtchứngtừcácvụánvềtộiphạmmatúy;
+c)Mẫuchấtmatúylàsảnphẩmtừcáchoạtđộnghợpphápliênquanđếnmatúyvìmụcđích
+quốcphòng,anninhphụcvụcôngtácgiámđịnh,huấnluyệnnghiệpvụphòng,chốngtộiphạmvềma
+túyvàmẫunguồnhơichấtmatúyhuấnluyệnđộngvậtnghiệpvụ.
+2.Hồsơđềnghịcấpgiấyphépnhậpkhẩumẫuchấtmatúybaogồm:
+a)Vănbảnchứngminhnguồnkinhphíhợppháp;
+b)Kếhoạchdựtrùđãđượccơquancóthẩmquyềnphêduyệt;
+c)Vănbảnthôngbáohàngviệntrợ(nếulàhàngviệntrợ);
+d)CôngvănđềnghịcấpgiấyphépnhậpkhẩucủaViệnKhoahọchìnhsự.
+3.Trìnhtự,thủtụccấpgiấyphépnhậpkhẩumẫuchấtmatúy
+a)CăncứvàodựtrùnhucầusửdụngmẫuchấtmatúyđãđượcBộCônganphêduyệt,Viện
+Khoahọchìnhsựlậphồsơđềnghịcấpgiấyphépnhậpkhẩugửicơquancấpphépthẩmđịnh;
+b)Trongthờihạn10ngàylàmviệc,kểtừngàynhậnđủhồsơtheoquyđịnh,cơquancấpphép
+cótráchnhiệmthẩmđịnhvàcấpgiấyphépnhậpkhẩu;
+Giấyphépnhậpkhẩumẫuchấtmatúyđượclàmthành05bộ(mỗibộgồm01bảntiếngViệtvà
+01bảntiếngAnh)gửichoViệnKhoahọchìnhsự(02bộ);ChicụcHảiquannơilàmthủtụcnhậpkhẩu,
+BộTàichính(TổngcụcHảiquan)vàlưutạicơquancấpphépmỗinơi01bộ;
+c)SaukhiđượccấpGiấyphépnhậpkhẩu,ViệnKhoahọchìnhsựtiếnhànhcácthủtụcnhập
+khẩu: Kýhợpđồngvớiđốitácđượcphêduyệtủythác nhậpkhẩu(trườnghợpđượcBộ Côngan, Bộ
+Trangchủ:https://hoatieu.vn/|Hotline:02422426188
+
+QuốcphònghoặcBộTàichínhchomuađểsửdụng);phốihợpvớiđạidiệnđốitácviệntrợlàmthủtục
+nhậpkhẩu(nếucó).
+4.Lấymẫuchấtmatúyvìmụcđíchquốcphòng,anninh
+a)Việclấymẫuchấtmatúytheoquyđịnhtạiđiểmbkhoản1củaĐiềunàyđểtrưngcầugiám
+địnhphụcvụcôngtácđiềutra,truytố,xétxửcácvụánvềtộiphạmmatúythựchiệntheoquyđịnhcủa
+BộluậtTốtụnghìnhsự;
+b)Hằngnămhoặckhicónhucầubổsungmẫuchấtmatúyphụcvụcôngtácgiámđịnh,huấn
+luyệnnghiệpvụphòng,chốngtộiphạmvềmatúyvàhuấnluyệnđộngvậtnghiệpvụ,ViệntrưởngViện
+KhoahọchìnhsựđềxuấtBộtrưởngBộCônganphêduyệtkếhoạchlấymẫuchấtmatúylàsảnphẩm
+từ các hoạt động hợp pháp liên quan đến ma túy vì mục đích quốc phòng, an ninh. Các đơn vị được
+phéptiếnhànhcáchoạt độngsảnxuất,nhậpkhẩuquy địnhtạikhoản1vàkhoản2Điều23củaNghị
+định này có trách nhiệm bàn giao mẫu chất ma túy về Viện Khoa học hình sự, Bộ Công an theo kế
+hoạchđượcphêduyệt.
+Điều28.Quyđịnhviệcbảoquản,phânphối,sửdụngmẫuchấtmatúyvìmụcđíchquốc
+phòng,anninh
+1.Mẫuchấtmatúyphảiđượclưutrữvàbảoquảntạicáckholưumẫuchấtmatúyquốcgiavà
+kholưumẫuchấtmatúytrunggian.
+a)Kholưumẫuchấtmatúyquốcgialànơitiếpnhậnmẫutheocácnguồnquyđịnhtạikhoản1
+Điều27củaNghịđịnhnàydoTrungtâmgiámđịnhmatúythuộcViệnKhoahọchìnhsự,BộCôngan
+trựctiếpquảnlý,bảoquảnvàphânphốichocáccơquanđượcsửdụngtheoquyđịnhtạiđiểmbkhoản
+5Điều23củaNghịđịnhnày;
+b)Kholưumẫuchấtmatúytrunggiantạicáccơquantheoquyđịnhtạiđiểmbkhoản5Điều23
+củaNghịđịnhnày, baogồm:
+-KholưumẫuchấtmatúytrunggiantạiCôngantỉnh,thànhphốtrựcthuộctrungươnglànơi
+tiếp nhận mẫu chất ma túy từ Viện Khoa học hình sự, Bộ Công an do Phòng Kỹ thuật hình sự thuộc
+Công an tỉnh, thành phố trực thuộc trung ương trực tiếp quản lý và thực hiện giám định, huấn luyện
+nghiệpvụphòng,chốngtộiphạmvềmatúyvàtruynguyênnguồngốcmatúy;
+-KholưumẫuchấtmatúytrunggiantạiBộQuốcphòng,BộTàichính(TổngcụcHảiquan)là
+nơitiếpnhậnmẫuchấtmatúytừViệnKhoahọchìnhsự,BộCôngandocơquanchuyêntráchphòng,
+chốngtộiphạmvềmatúyvàcáccơsởđàotạongườilàmcôngtácphòng, chốngmatúy, huấnluyện
+động vật nghiệpvụ chuyên khoa phát hiệnmatúythuộcBộ đội Biênphòng, Cảnh sát biểnViệt Nam,
+TổngcụcHảiquantrựctiếpquảnlý,sửdụngđểđàotạo,huấnluyệnnghiệpvụphòng,chốngtộiphạm
+vềmatúy;
+-Kholưumẫuchấtmatúytrunggiantạicáccơsởđàotạongườilàmcôngtácphòng,chốngtội
+phạmvềmatúythuộcBộCônganlànơitiếpnhậnvàtrựctiếpquảnlýmẫuchấtmatúytừViệnKhoa
+họchìnhsựBộCônganđểsửdụnghuấnluyệnnghiệpvụphòng,chốngtộiphạmvềmatúy;
+- Kho lưu mẫu chất ma túy trung gian tại Bộ Tư lệnh Cảnh sát cơ động là nơi tiếp nhận mẫu
+chấtmatúytừViệnKhoahọchìnhsự,BộCôngandođơnvịHướngdẫnhuấnluyện,sửdụngđộngvật
+nghiệpvụtrựctiếpquảnlý,sửdụngđểhuấnluyệnđộngvậtnghiệpvụ.
+2. Viện Khoa học hình sự, BộCông an tổchức phân phối, bàn giaomẫu chất ma túy theo kế
+hoạchđượcphêduyệt,tiếpnhậnmẫuchấtmatúykhôngcònsửdụngcủacácđơnvị,tiếnhànhtheo
+dõi,kiểmtraviệcsửdụngtạicácđơnvịvàđánhgiáchấtlượngmẫuchấtmatúycòntồntrữtạikholưu
+mẫuchấtmatúytrunggianđểđềxuấtxửlýtheoquyđịnhtạiĐiều29củaNghịđịnhnày.
+3. Cácđơnvịsửdụngkhikhôngcònnhucầusửdụngmẫuchất matúyphảibàngiaolạicho
+ViệnKhoahọchìnhsự,BộCôngan.
+4. Các đơn vị được tiến hành các hoạt động theo quy định tại khoản 1 của Điều này có trách
+nhiệmthựchiệncácquyđịnhvềhoạtđộngbảoquản,phânphối,sửdụngmẫuchấtmatúyvìmụcđích
+quốcphòng, anninhtheoquyđịnhtạiĐiều26củaNghịđịnhnày.
+Điều29.Quyđịnhvềxửlýmẫuchấtmatúyvìmụcđíchquốcphòng,anninh
+1. Định kỳ hằng năm, Viện Khoa học hình sự, Bộ Công an tiến hành kiểm tra, đánh giá chất
+lượngmẫuchấtmatúycòntồntrữtạicáckholưumẫuchấtmatúytrunggianvàtựkiểmtra,đánhgiá
+chấtlượngmẫuchấtmatúycòntồntrữtạikholưutrữmẫuchấtmatúyquốcgia.
+Trangchủ:https://hoatieu.vn/|Hotline:02422426188
+
+2.Trườnghợpbịnhầmlẫnhoặcthấtthoátmẫuchấtmatúy,cácđơnvịphảibáocáongayvới
+cơquanquảnlýcấptrêntrựctiếp.Khinhậnđượcbáocáo,cơquanquảnlýcấptrêntrựctiếpphảitiên
+hànhngayviệcthẩmtra,xácminhđểcóbiệnphápxửlýthíchhợpvàgửibáocáovềBộCôngan(qua
+ViệnKhoahọchìnhsự).
+3.Khimẫuchấtmatúytồntrữnhiềuhoặcbịgiảmchấtlượngsaukhiđãsửdụnghoặcbịbiến
+đổidothờihạnbảoquảnthìViệntrưởngViệnKhoahọchìnhsựphảicóvănbảnbáocáoBộtrưởngBộ
+Cônganvềtìnhtrạngmẫu(ghirõtên,sốlượng,nồngđộ,hàmlượng,lýdovàphươngphápxửlý)để
+xemxétvàthànhlậpHộiđồngtiêuhủy.
+4.Hộiđồngtiêuhủymẫuchấtmatúybaogồm:LãnhđạoViệnKhoahọchìnhsựlàChủtịchHội
+đồng,thànhviêngồmđạidiệnViệnkiểmsátnhândântốicao,CụcCảnhsátđiềutratộiphạmvềmatúy,
+người phụ tráchkho lưu trữ mẫu quốc gia và Giám đốc Trung tâm Giám định matúy, Viện Khoa học
+hìnhsựlàủyviênthưký.
+5.Trìnhtự,thủtụctiêuhủymẫuchấtmatúythựchiệntheoquyđịnhcủaphápluậttốtụnghình
+sựvềtiêuhủyvậtchứngvàphảilậpbiênbản,chụpảnh,lưuhồsơtheoquyđịnhtạiViệnKhoahọchình
+sự,BộCôngan.
+Điều 30. Lập dự trù, hồ sơ, chế độ báo cáo và kinh phí thực hiện việc nhập khẩu, lấy
+mẫuchấtmatúyvìmụcđíchquốcphòng,anninh
+1.Địnhkỳhằngnăm,cácđơnvịđượcquyđịnhtạiđiểmbkhoản5Điều23củaNghịđịnhnày
+lậpdựtrùvàgửiđăngkýsốlượngmẫuchấtmatúyvềViệnKhoahọchìnhsự,BộCôngantrướcngày
+15 tháng 01 để tổng hợp, đối chiếu số lượng tồn trữ và đề xuất Bộ trưởng Bộ Công an phê duyệt kế
+hoạchdựtrù,phânphốimẫuchấtmatúyvàkếhoạchnhậpkhẩu,lấymẫuchấtmatúyvìmụcđíchquốc
+phòng,anninh.
+2.Đơnvịsửdụngmẫuchấtmatúyphảimởsổtheodõiviệcsửdụng.ViệnKhoahọchìnhsự
+mởsổtheodõinhập,xuấtkho,giaonhậnvàsửdụngtạiđơnvịvàthựchiệnchếđộbáocáo,thốngkê
+theoquyđịnhcủaBộCôngan.Cáctàiliệuliênquanphảiđượclưugiữ,quảnlýtheoquyđịnh.
+a)Đốivớimẫuchấtmatúyphụcvụtruynguyênnguồngốcphảithựchiệntheođúngquyđịnh
+vềgiámđịnhtruynguyênnguồngốc.Lậpbiênbảnhoặcsổghiđầyđủquátrìnhsửdụngmẫucóchữký
+xácnhậncủangườithamgiaphântíchmẫuvàlãnhđạoquảnlýtrựctiếp;
+b)Cácphòngthínghiệmgiámđịnhsửdụngmẫuchuẩnphụcvụgiámđịnhphảimởsổtheodõi
+quátrìnhsửdụngmẫucóchữkýxácnhậncủangườithamgiaphântíchmẫuvàlãnhđạoquảnlýtrực
+tiếp;
+c)Cácđơnvịsửdụngmẫuphụcvụhuấnluyệnnghiệpvụ,đàotạo,huấnluyệnđộngvậtnghiệp
+vụphảilậpbiênbảnghilạitìnhtrạngvàcácquátrìnhsửdụngmẫucóchữkýxácnhậncủangườitrực
+tiếpsửdụngmẫuvàlãnhđạoquảnlýtrựctiếp.
+3.Địnhkỳ(6tháng/01năm)cácđơnvịsửdụngbáocáotìnhhìnhsửdụngmẫuchấtmatúyvề
+ViệnKhoahọchìnhsự,BộCôngantrướcngày15tháng7(sốliệutínhtừngày15tháng12nămtrước
+kỳbáocáođếnngày14tháng6củakỳbáocáo)vàngày15tháng01hàngnăm(tínhtừngày15tháng
+12nămtrướckỳbáocáođếnngày14tháng12củakỳbáocáo).ViệnKhoahọchìnhsựtổnghợpkết
+quảnhậpkhẩu,lấymẫu,phânphối,sửdụng,tiêuhủyvàtồnkhomẫuchấtmatúygửibáocáoBộCông
+an,ViệnKiểmsátnhândântốicaovàTòaánnhândântốicao.
+4. Kinh phí thực hiện việc nhập khẩu, lấy mẫu, xử lý mẫu chất ma túy chi từ ngân sách nhà
+nướcthườngxuyêncủaBộCôngan.Kinhphíđảmbảocácđiềukiệnbảoquảnmẫuchấtmatúychitừ
+ngânsáchnhànướcthườngxuyêncủacácbộ,ngành,địaphương.
+Điều31.Tráchnhiệmkiểmtra,giámsát,xửlýviphạm
+1. Các đơn vị có hoạt động hợp pháp liên quan đến ma túy vì mục đích quốc phòng, an ninh
+chịutráchnhiệmkiểmtra,giámsátvàxửlýviphạmtheothẩmquyềnvàtổnghợpbáocáovềBộCông
+an.
+2.Cơquanchuyêntráchphòng,chốngtộiphạmvềmatúythuộcBộCônganchủtrì,phốihợp
+với cơ quan chức năng của các bộ, ngành, địa phương tiến hành kiểm tra, giám sát và đề xuất xử lý
+hoặcxửlýviphạmphápluậttheothẩmquyền.
+Mục4
+LẬPHỒSƠVÀCHẾĐỘBÁOCÁOCÁCHOẠTĐỘNGHỢPPHÁPLIÊNQUAN ĐẾNMATÚY
+Trangchủ:https://hoatieu.vn/|Hotline:02422426188
+
+Điều32.Lậphồsơ
+1.Cơquan,tổchức,cánhânkhitiếnhànhcáchoạtđộnghợpphápliênquanđếnmatúyquy
+địnhtạikhoản1Điều12củaLuậtPhòng,chốngmatúyphảilậphồsơtheoquyđịnhcủacơquanquản
+lýchuyênngành,trongđóphảiđảmbảobaogồmcácnộidungsau:
+a)Cơquan,tổchứccóhoạtđộngnghiêncứu,giámđịnh,sảnxuấtphảilưutrữsốliệutheodõi
+sốlượng, chấtlượng,thờihạnsửdụng,quytrìnhsảnxuất;sốliệuvềxuất,nhập,tồnkho;phiếuxuất,
+nhậpkho;
+b)Cơquan,tổchức,cánhâncóhoạtđộngmuabán,xuấtkhẩu,nhậpkhẩu,tạmnhập,táixuất,
+tạmxuất,táinhậpphảilưutrữsốliệunhập,xuất,tồnkhovàhóađơn,chứngtừ,tàiliệucóliênquanđối
+vớitừngchấttheodanhmụctạiNghịđịnhquyđịnhcácDanhmụcchấtmatúyvàtiềnchấtcủaChính
+phủ.
+2. Hồ sơ, chứng từ phải lưu giữ trong thời hạn theo quy định của cơ quan quản lý chuyên
+ngành.Hếtthờihạnlưugiữsổsách,chứngtừ,thủtrưởngđơnvịcótráchnhiệmlậpHộiđồngđểtiến
+hànhhủysổsách,chứngtừđóvàphảilậpbiênbản.
+Điều33.Chếđộbáocáo
+1.BộCôngan, BộCôngThương,BộYtế,BộNôngnghiệpvàPháttriểnnôngthôn,BộQuốc
+phòngchịutráchnhiệmtổnghợptìnhhìnhhoạtđộnghợpphápliênquanđếnmatúycủalĩnhvựcquản
+lý trênphạmvi toànquốcvàthựchiệnbáocáođịnhkỳ6tháng(sốliệutínhtừngày15tháng12năm
+trước kỳ báo cáo đến ngày 14 tháng 6 của kỳ báo cáo)/1 năm (số liệu tính từ ngày 15 tháng 12 năm
+trước kỳ báo cáo đến ngày 14 tháng 12 của kỳ báo cáo) gửi Bộ Công an để tổng hợp, báo cáo Thủ
+tướngChínhphủ.
+2.BộTàichínhchịutráchnhiệmtổnghợptìnhhìnhnhậpkhẩu, xuấtkhẩu,tạmnhập,táixuất,
+tạmxuất,táinhập,quácảnhlãnhthổViệtNamchấtmatúy, tiềnchất,thuốcgâynghiện,thuốchướng
+thần,thuốctiềnchất,nguyênliệulàmthuốclàdượcchấtgâynghiện,dượcchấthướngthần,tiềnchất
+dùnglàmthuốcvàthuốcthúycóchứachấtmatúy,tiềnchấttrênphạmvitoànquốc(sốlượngthựctế,
+sốvụviệcviphạm,hìnhthứcxửlývàcácthôngtinkháccóliênquan)vàthựchiệnbáocáođịnhkỳ6
+tháng(sốliệutínhtừ ngày 15tháng12nămtrướckỳbáocáođếnngày14tháng6củakỳbáocáo)/1
+năm(sốliệutínhtừngày15tháng12nămtrướckỳbáocáođếnngày14tháng12củakỳbáocáo)gửi
+BộCônganđểtổnghợp,báocáoThủtướngChínhphủ.
+3.Cơquan,tổchức,cánhântrongquátrìnhtiếnhànhcáchoạtđộnghợpphápliênquanđến
+matúyđềuphảibáocáokhẩntớicơquanquảnlýtrựctiếptrongtrườnghợpcósựnhầmlẫn,ngộđộc,
+bịthấtthoátcácchấtnày.
+4. Khichấtmatúy, tiềnchất,thuốcthúycóchứachấtmatúy, tiềnchất khôngthuộcquy định
+củaĐiều21LuậtPhòng,chốngmatúycầnxửlýthìđơnvịquảnlýphảibáocáocơquancấptrêntrực
+tiếp,ghirõlýdo,phươngphápxửlý.Việcxửlýchỉđượcthựchiệnkhicơquancấptrêncóthẩmquyền
+phêduyệtbằngvănbản.Thủtrưởngđơnvịphảithànhlậphộiđồngxửlývàlậpbiênbảnxửlý,báocáo
+lêncơquanquảnlýcấptrêntrựctiếpvàgửiBộCônganđểtheodõi,quảnlý.
+Điều34.Lậpdựtrù
+1.Cơquan,tổchứccónhucầunhậpkhẩu,xuấtkhẩuđốivớichấtmatúy,tiềnchấtthuộcdanh
+mụcphảidựtrùtheoquyđịnhcủacácCôngướcquốctếvềkiểmsoátmatúy, hằngnămgửiđăngký
+dựtrùnhucầuvềcơquancóthẩmquyềnthuộcBộquảnlýchuyênngành.
+2. Bộ Y tế, Bộ Công Thương, Bộ Quốc phòng, Bộ Nông nghiệp và Phát triển nông thôn tổng
+hợpdựtrùnhucầunhậpkhẩu,xuấtkhẩuchấtmatúy,tiềnchấtquyđịnhtạikhoản1củaĐiềunàytheo
+mẫudựtrùcủaỦybankiểmsoátmatúyquốctếLiênhợpquốcvàgửiBộCôngantrướcngày31tháng
+3hằngnăm.Trườnghợpnhucầuvượtquádựtrùhoặccóthayđổikhác,cácbộthôngbáobằngvăn
+bảnvềBộCônganđểthựchiệnđăngkýbổsungtrướcngày31tháng5vàtrướcngày30tháng9của
+nămđăngký.
+3.BộCôngantổnghợp,ràsoát,đốichiếunhucầuvàkếtquảnhậpkhẩu,xuấtkhẩucủanăm
+trước,thựchiệnviệcđăngkýnhucầuvớiỦybankiểmsoátmatúyquốctếLiênhợpquốcvàtheodõi,
+thựchiệnthôngbáotiềnxuấtkhẩuvớicácnướctheoquy định;đồngthờigửiBộTàichính(Tổngcục
+Hảiquan)đểphốihợptheodõi.
+Trangchủ:https://hoatieu.vn/|Hotline:02422426188
+
+Mục5
+PHỐIHỢPKIỀMSOÁTCÁCHOẠTĐỘNGHỢPPHÁPLIÊNQUANĐẾNMATÚY
+Điều35.Nộidungvàcơchếphốihợpkiểmsoátcáchoạtđộnghợpphápliênquanđến
+matúy
+1. Phối hợp kiểm soát các hoạt động nghiên cứu, kiểm nghiệm, kiểm định, sản xuất, vận
+chuyển, bảo quản, tồn trữ, mua bán, phân phối, sử dụng, xử lý, trao đổi chất ma túy, tiền chất, thuốc
+gây nghiện, thuốc hướng thần, thuốc tiềnchất, nguyên liệulàm thuốc làdượcchất gâynghiện, dược
+chấthướngthần,tiềnchấtdùnglàmthuốcvàthuốcthúycóchứachấtmatúy, tiềnchất.
+a)BộCônganchủtrì, phốihợpvớicácđơnvị,địaphươngtiếnhànhtheodõi,kiểmtra, giám
+sáthoạtđộngnghiêncứu,sảnxuất,vậnchuyểnchấtmatúy, tiềnchấttheoquyđịnh;
+b)BộCôngThương,BộYtế,BộNôngnghiệpvàPháttriểnnôngthôn,BộTàichính(Tổngcục
+Hải quan) và Bộ Quốc phòng trong phạm vi chức năng, nhiệm vụ và quyền hạn được giao có trách
+nhiệmchủtrì,phốihợpvớiBộCônganhướngdẫn,kiểmtracơquanchứcnăngcủacácđịaphương
+tiếnhànhkiểmsoáthoạtđộngbảoquản,tồntrữ,muabán,phânphối,sửdụng,xửlý,traođổichấtma
+túy,tiềnchất,thuốcgâynghiện,thuốchướngthần,thuốctiềnchất,nguyênliệulàmthuốclàdượcchất
+gâynghiện,dượcchấthướngthần, tiềnchấtdùnglàmthuốcvàthuốcthúycóchứachấtmatúy, tiền
+chấtcủacácđơnvịcóhoạtđộngsảnxuất,nhậpkhẩu,xuấtkhẩu,tạmnhập,táixuất,tạmxuất,táinhập;
+c)Ủybannhândâncáctỉnh,thànhphốtrựcthuộctrungươngtrongphạmvichứcnăng,nhiệm
+vụ và quyền hạn được giao có trách nhiệm chỉ đạo các cơ quan chức năng phối hợp thực hiện kiểm
+soátcáchoạtđộngvậnchuyển,bảoquản,tồntrữ,muabán,phânphối,sửdụng,xửlý,traođổichấtma
+túy,tiềnchất,thuốcgâynghiện,thuốchướngthần,thuốctiềnchất,nguyênliệulàmthuốclàdượcchất
+gâynghiện,dượcchấthướngthần, tiềnchấtdùnglàmthuốcvàthuốcthúycóchứachấtmatúy, tiền
+chấttạiđịaphương.
+2. Phối hợp kiểm soát các hoạt động nhập khẩu, xuất khẩu, tạm nhập, tái xuất, tạm xuất, tái
+nhập,quácảnhchấtmatúy,tiềnchất,thuốcgâynghiện,thuốchướngthần,thuốctiềnchất,nguyênliệu
+làmthuốclàdượcchấtgâynghiện,dượcchấthướngthần,tiềnchấtdùnglàmthuốcvàthuốcthúycó
+chứachấtmatúy, tiềnchất.
+a)Phốihợpkiểmsoáttrongthôngbáotiềnxuấtkhẩuđốivớihoạtđộngnhậpkhẩucáctiềnchất
+từnướcngoàivàoViệtNam(ápdụngđốivớihoạtđộngnhậpkhẩutừcácnướcthamgiaĐiều12Công
+ướcnăm1988củaLiênhợpquốcvềchốngbuônbánbấthợpphápcácchấtmatúyvàcácchấthướng
+thần):
+TrêncơsởgiấyphépnhậpkhẩudocácbộchứcnăngcấpgửiđếnBộCônganhoặcthôngtin
+giấy phép nhập khẩu trên Cổng thông tin một cửa quốc gia, trong thời hạn chậm nhất là 02 ngày làm
+việc, kể từ ngày nhận được thông báo của nước xuất khẩu, Bộ Công an có trách nhiệm trả lời nước
+xuất khẩu về tính hợp pháp của lô hàng. Trong trường hợp Bộ Công an không nhận được giấy phép
+nhập khẩu đối với lô hàng được thông báo, Bộ Công an có trách nhiệm đề nghị nước xuất khẩu tạm
+dừngviệcxuấtkhẩulôhàngsangViệtNamvàgửiBộTàichính(TổngcụcHảiquan)đểtheodõi;
+b)Phốihợpkiểmsoáttrongthôngbáotiềnxuấtkhẩuđốivớihoạtđộngxuấtkhẩutiềnchấttừ
+ViệtNamranướcngoài(ápdụngđốivớihoạtđộngxuấtkhẩusangcácnướcthamgiaĐiều12Công
+ướcnăm1988củaLiênhợpquốcvềchốngbuônbánbấthợpphápcácchấtmatúyvàcácchấthướng
+thần),baogồmcảdạngđơnchấtvàdạngphốihợp;
+Trongthờihạnchậmnhấtlà03ngàylàmviệc,kểtừngàynhậnđượcđơnvàhồsơđềnghịcấp
+giấyphépxuấtkhẩuhợplệ, cơ quan cóthẩmquyềncấpphépcótráchnhiệmgửi BộCôngannhững
+thôngtinvềtên,địachỉtổchứcđềnghịcấpphépxuấtkhẩu;têngọi,hàmlượng,sốlượngtiềnchất;tên,
+địachỉtổchứcnhậpkhẩu;têncửakhẩucóhàngxuấtkhẩuđiquađểrathôngbáotiềnxuấtkhẩuđốivới
+lôhàngchocơquanchứcnăngcủanướcnhậpkhẩu.
+Trongthờihạnchậmnhấtlà02ngàylàmviệc,kểtừngàynhậnđượcthôngtincủacơquancó
+thẩmquyềncấpphép,BộCôngancótráchnhiệmthựchiệnthôngbáotiềnxuấtkhẩuđốivớilôhàngđề
+nghịcấpgiấyphépxuấtkhẩu.Trongthờihạnchậmnhấtlà02ngàylàmviệc,kểtừngàynhậnđượcý
+kiếnphảnhồicủacơquanchứcnăngnướcnhậpkhẩu,BộCôngancótráchnhiệmtrảlờicơquancấp
+phép để quyết định cấp giấy phép hoặc không cấp giấy phép theo thẩm quyền và gửi Bộ Tài chính
+(TổngcụcHảiquan)đểtheodõi;
+c) Phối hợp kiểm soát hoạt động nhập khẩu chất ma túy, tiền chất, nguyên liệu làm thuốc là
+Trangchủ:https://hoatieu.vn/|Hotline:02422426188
+
+dượcchấtgâynghiện,dượcchấthướngthần,tiềnchấtdùnglàmthuốctừnướcngoàivàoViệtNam;
+TrêncơsởbáocáocủaBộTàichính(TổngcụcHảiquan)vềsốlượngnhậpkhẩuthựctếđối
+vớicácchấtmatúy, tiềnchất,nguyênliệulàmthuốclàdượcchấtgâynghiện,dượcchấthướngthần,
+tiềnchấtdùnglàmthuốctheoquyđịnhtạikhoản2Điều33củaNghịđịnhnày,BộCônganchủtrì,phối
+hợpvớiBộCông Thương, BộYtế, BộNôngnghiệpvà Pháttriểnnôngthôn, BộQuốc phòngtổchức
+đánh giá kết quả nhập khẩu của năm và nhu cầu nhập khẩu các chất ma túy, tiền chất của năm tiếp
+theo để tổng hợp thông báo kết quả nhập khẩu, đăng ký dự trù với Ủy ban kiểm soát ma túy quốc tế
+Liênhợpquốctheoquyđịnh.
+d)Phốihợpkiểmsoáthoạt độngtạmnhập, táixuất,tạmxuất,táinhậpchấtmatúy, tiềnchất,
+nguyênliệulàmthuốclàdượcchấtgâynghiện,dượcchấthướngthần,tiềnchấtdùnglàmthuốc;
+Trongthời hạnchậm nhấtlà03ngàylàmviệc, kểtừngàynhậnđượchồsơđềnghị cấpgiấy
+phéptạmnhập,táixuất,tạmxuất,táinhậpđốivớichấtmatúy,tiềnchất,nguyênliệulàmthuốclàdược
+chấtgâynghiện,dượcchấthướngthần,tiềnchấtdùnglàmthuốc,BộCôngThươngcótráchnhiệmgửi
+BộCôngancácthôngtinvềtên,địachỉdoanhnghiệpđềnghịcấpphép;têngọi,sốlượng,hàmlượng
+chấtmatúy,tiềnchất;tên,địachỉtổchứcnhậpkhẩu,xuấtkhẩu;thờigianvàtêncửakhẩucóhàngtạm
+nhập,táixuất,tạmxuất,táinhậpđiquađểthựchiệnthôngbáotiềnxuấtkhẩu;
+Trongthờihạnchậmnhấtlà02ngàylàmviệc,kểtừngàynhậnđượcthôngtinyêucầucủaBộ
+CôngThương, BộCôngancótráchnhiệmthựchiệnthôngbáotiềnxuất khẩuđốivớilôhàngxincấp
+giấy phép. Trong thời hạnchậm nhất là 02ngày làm việc, kểtừngày nhận được ý kiến phản hồi của
+nước nhập khẩu, Bộ Công an có trách nhiệm trả lời cơ quan cấp phép để quyết định cấp giấy phép
+hoặckhôngcấpgiấyphéptạmnhập,táixuất,tạmxuất,táinhậptheothẩmquyềnvàgửiBộTàichính
+(TổngcụcHảiquan)đểtheodõi;
+đ)BộCôngan,BộCôngThương,BộYtế,BộNôngnghiệpvàPháttriểnnôngthôn,BộQuốc
+phòngtrongphạmvichứcnăng,nhiệmvụvàquyềnhạnđượcgiaothựchiệnviệccấpgiấyphépnhập
+khẩu, xuất khẩu, tạm nhập, tái xuất, tạm xuất, tái nhập, quá cảnh chất ma túy, tiền chất, thuốc gây
+nghiện,thuốchướngthần,thuốctiềnchất,nguyênliệulàmthuốclàdượcchấtgâynghiện, dượcchất
+hướng thần, tiền chất dùng làm thuốc và thuốc thú y có chứa chất ma túy, tiền chất, trong thời hạn
+chậm nhất là 03 ngày làm việc, kểtừ ngày cấpgiấy phép, cơ quan cấp phép có tráchnhiệmgửigiấy
+phépnhậpkhẩu,xuấtkhẩu,tạmnhập,táixuất,tạmxuất,táinhập,quácảnhchocơquan,tổchức,cá
+nhânđềnghịcấpphép,ChicụcHảiquannơilàmthủtụchảiquanchohàngnhậpkhẩu,xuấtkhẩu,tạm
+nhập, tái xuất, tạmxuất, tái nhập, quácảnh và gửiBộ Tàichính(Tổng cụcHảiquan), BộCông anđể
+theodõi,quảnlý.
+4.Phốihợptraođổithôngtinvềkiểmsoátcáchoạtđộnghợpphápliênquanđếnmatúy.
+a)BộCônganlàcơquanđầumốitraođổithôngtinvềkiểmsoátcáchoạtđộnghợpphápliên
+quanđếnmatúyvớiBộCôngThương,BộNôngnghiệpvàPháttriểnnôngthôn,BộYtế,BộTàichính
+(TổngcụcHảiquan),BộQuốcphòng,cácđịaphương,cácnướcliênquanvàỦybanKiểmsoátmatúy
+quốctếLiênhợpquốcthôngquaTrungtâmDữliệukiểmsoátcáchoạtđộnghợpphápliênquanđến
+matúy(sauđâygọitắtlàTrungtâmdữliệu)đặttạiBộCôngan.
+Trungtâm dữ liệu do Cơ quan chứcnăng thuộc BộCôngan trực tiếpquản lý, vận hành, truy
+cập,cậpnhật,khaithác,xửlývàtraođổithôngtinvớiBộCôngThương,BộNôngnghiệpvàPháttriển
+nôngthôn,BộYtế,BộTàichính(TổngcụcHảiquan),BộQuốcphòng,cácđịaphương,cácnướcliên
+quanvàỦybanKiểmsoátmatúyquốctếLiênhợpquốcbằngphầnmềmhệthốngquảnlýdữliệuvề
+phòng,chốngmatúy;
+BộCôngthương,BộNôngnghiệpvàPháttriểnnôngthôn,BộYtế,BộTàichính(TổngcụcHải
+quan),BộQuốcphòngvàỦybannhândâncáctỉnh,thànhphốtrựcthuộctrungươngcótàikhoảnvà
+mật khẩuriêngcủaphầnmềmhệthốngquảnlýdữliệuvềphòng, chốngmatúydoBộCôngan cung
+cấp để truy cập, cập nhật, khai thác và trao đổi thông tin tại Trung tâm dữ liệu, trừ những thông tin
+nghiệpvụdoBộCônganquyđịnh;
+Trườnghợpcầnthôngtin,tàiliệukhôngthuộcphạmviTrungtâmdữliệuđểphụcvụcôngtác
+kiểm soát các hoạt động hợp pháp liên quan đến ma túy, cơ quan phối hợp có trách nhiệm trao đổi,
+cungcấpthôngtin,tàiliệutheoyêucầucủacơquanđềnghị.Nếutừchốicungcấpthôngtin,tàiliệucơ
+quanđượcyêucầuphảitrảlờibằngvănbảnvànêurõlýdotừchối.
+b)BộCôngancótráchnhiệmthôngbáochocácbộ,ngànhvàcácđịaphươngliênquanthông
+tinvềphương thức,thủđoạnhoạt động củatộiphạmvànhữngthôngtinkháccóliênquantrongquá
+Trangchủ:https://hoatieu.vn/|Hotline:02422426188
+
+trìnhkiểmsoátcáchoạtđộnghợpphápliênquanđếnmatúyđểcácbộ,ngànhvàcácđịaphươngcó
+biệnphápchủđộngngănchặn,phòngngừahiệuquả;
+c)BộCôngThương,BộNôngnghiệpvàPháttriểnnôngthôn,BộYtế,BộTàichính(Tổngcục
+Hảiquan),BộQuốcphòngcótráchnhiệm:
+Thu thập, quản lý thông tin về các hoạt động hợp pháp liên quan đến ma túy trong phạm vi
+chứcnăng,nhiệmvụvàquyềnhạnđượcgiao;
+Cung cấp những thông tin cần thiết có liên quan đến công tác kiểm soát các hoạt động hợp
+phápliênquanđếnmatúychoTrungtâmdữliệuthôngquaviệctruycậpvàcậpnhậtdữliệubằngphần
+mềmhệthốngquảnlýdữliệuvềphòng, chốngmatúy; riêngđốivớigiấyphépnhậpkhẩu,xuấtkhẩu,
+tạmnhập,táixuất,tạmxuất,táinhập,quácảnhchấtmatúy,tiềnchất,thuốcgâynghiện,thuốchướng
+thần,thuốctiềnchất,nguyênliệulàmthuốclàdượcchấtgâynghiện,dượcchấthướngthần,tiềnchất
+dùnglàmthuốcvàthuốcthúycóchứachấtmatúy, tiềnchấtgửikèmtheobảnchính;
+Kịpthờitraođổi,thôngtinvớiBộCônganđểcóbiệnphápphốihợpphòngngừa,ngănchặn,
+xửlýhànhviviphạmkhinhậnđượcnguồntin, tàiliệuhoặcpháthiệnnhữngsaiphạmtrongcôngtác
+kiểmsoátcáchoạtđộnghợpphápliênquanđếnmatúy.
+d)BộTàichính(TổngcụcHảiquan)đảmbảokếtnốidữliệuvàvậnhànhcủaTrungtâmdữliệu
+vớicổngthôngtinmộtcửaquốcgia.
+BộTàichính(TổngcụcHảiquan)cungcấptàikhoảnvàmậtkhẩuriêngchoTrungtâmdữliệu
+đểtruycập,cậpnhật,khaithácvàtraođổithôngtinvềgiấyphépxuấtkhẩu,nhậpkhẩu,tạmnhập,tái
+xuất,tạmxuất,táinhập,quácảnhtạiCổngthôngtinmộtcửaquốcgia.
+đ)Ủybannhândâncáctỉnh,thànhphốtrựcthuộctrungươngtrongphạmvichứcnăng,nhiệm
+vụvàquyềnhạnđượcgiaocótráchnhiệmchỉđạocáccơquanchứcnăngthườngxuyêntraođổithông
+tinvớinhauvềkiểmsoátcáchoạtđộnghợpphápliênquanđếnmatúytạiđịaphương.
+5.Phốihợptheodõi,kiểmtra,giámsátcáchoạtđộnghợpphápliênquanđếnmatúy
+a) Bộ Công an chịu trách nhiệm chủ trì, phối hợp với Bộ Công Thương, Bộ Nông nghiệp và
+Pháttriểnnôngthôn,BộYtế,BộTàichính(TổngcụcHảiquan),BộQuốcphònghướngdẫn,theodõi,
+kiểmtra,giámsátcáccơquan,tổchức,cánhânvàđịaphươngthựchiệncácvănbảnquyphạmpháp
+luậtvềkiểmsoátcáchoạtđộnghợpphápliênquanđếnmatúynhằmphòngngừa,ngănchặnviệclợi
+dụngcáchoạtđộngđónhằmmụcđíchbấthợppháp;
+b) Các bộ trong phạm vi nhiệm vụ, quyền hạn của mình, có trách nhiệm tổ chức thực hiện
+nhiệmvụđượcgiaovàthanhtra,kiểmtraviệcthựchiệncácquyđịnhvềkiểmsoátcáchoạtđộnghợp
+phápliênquanđếnmatúycủacáccơquan,tổchức,cánhân;xửlýcáchànhviviphạmtheoquyđịnh
+củaphápluậttheothẩmquyền,chuyểnBộCônganđiềutra,xửlýnhữngvụviphạmcódấuhiệuhình
+sự;
+c)Ủybannhândâncáctỉnh,thànhphốtrựcthuộctrungươngtrongphạmvichứcnăng,nhiệm
+vụvàquyềnhạnđượcgiaocótráchnhiệmchỉđạocáccơquanchứcnănghướngdẫn,kiểmtra,giám
+sát các cơ quan, tổ chức, cá nhân thực hiện các văn bản quy phạm pháp luật về kiểm soát các hoạt
+động hợp pháp liên quan đến ma túy nhằm phòng ngừa, ngăn chặn việc lợi dụng các hoạt động đó
+nhằm mục đích bất hợp pháp. Thanh tra, kiểm tra việc thực hiện các quy định về kiểm soát các hoạt
+độnghợpphápliênquanđếnmatúycủacáccơquan,tổchức,cánhân;xửlýcáchànhviviphạmtheo
+quy định của pháp luật theo thẩm quyền, chuyển Công an các tỉnh, thành phố trực thuộc trung ương
+điềutra,xửlýnhữngvụviphạmcódấuhiệuhìnhsự.
+Điều36. TổCông tácliên ngànhphối hợpkiểm soátcáchoạtđộnghợpphápliênquan
+đếnmatúycáccấp
+1. Tổ Công tác liên ngành phối hợp kiểm soát các hoạt động hợp pháp liên quan đến ma túy
+cấptrungương.
+a) Tổ Công tác liên ngành phối hợp kiểm soát các hoạt động hợp pháp liên quan đến ma túy
+cấptrungươngdoBộCônganthànhlập,quyếtđịnhbanhànhquychếvàchỉđạohoạtđộngcủaTổ;
+b)NhiệmvụcủaTổCôngtácliênngànhphốihợpkiểmsoátcáchoạtđộnghợpphápliênquan
+đến matúy cấptrung ương: Tổ chức tuyên truyền, hướngdẫn, tập huấn, đôn đốc, theo dõi, kiểm tra,
+giámsátcáccơquan,tổchức,cánhân,địaphươngthựchiệncácvănbảnquyphạmphápluậtvềkiểm
+soátcáchoạtđộnghợpphápliênquanđếnmatúynhằmphòngngừa,ngănchặnviệclợidụngcáchoạt
+Trangchủ:https://hoatieu.vn/|Hotline:02422426188
+
+độngđónhằmmụcđíchbấthợppháp.Pháthiện,ngănchặnvàkiếnnghịcáccấpcóthẩmquyềnxửlý
+cáchànhviviphạmtheoquyđịnhcủaphápluật.
+2. Tổ Công tác liên ngành phối hợp kiểm soát các hoạt động hợp pháp liên quan đến ma túy
+cáctỉnh,thànhphốtrựcthuộctrungương.
+a) Tổ Công tác liên ngành phối hợp kiểm soát các hoạt động hợp pháp liên quan đến ma túy
+cáctỉnh, thànhphốdoỦybannhândâncáctỉnh, thànhphốtrựcthuộctrungươngthànhlậpvàquyết
+địnhbanhànhquychế,chỉđạohoạtđộng;
+b) Tổ Công tác liên ngành phối hợp kiểm soát các hoạt động hợp pháp liên quan đến ma túy
+cáctỉnh,thànhphốcónhiệmvụ:Tổchứctuyêntruyền,hướngdẫn, tậphuấn,theodõi,kiểmtra, giám
+sátcáccơquan, tổchức,cánhântrênđịabàntỉnh, thànhphốthựchiệncácvănbảnquyphạmpháp
+luậtvềkiểmsoátcáchoạtđộnghợpphápliênquanđếnmatúynhằmphòngngừa,ngănchặnviệclợi
+dụngcáchoạtđộngđóvàomụcđíchbấthợppháp.Pháthiện,ngănchặnvàkiếnnghịcáccấpcóthẩm
+quyềnxửlýcáchànhviviphạmtheoquyđịnhcủaphápluật.
+ChươngIV
+QUẢNLÝNGƯỜISỬDỤNGTRÁIPHÉPCHẤTMATÚY
+Điều37.Đốitượngbịquảnlý
+Đối tượng bị quản lý là người có hành vi sử dụng trái phép chất ma túy mà không thuộc các
+trườnghợpquyđịnhtạikhoản5Điều23củaLuậtPhòng,chốngmatúy.
+Điều38.Căncứxétnghiệmngườicódấuhiệusửdụngtráiphépchấtmatúy
+1.Mộtngườicódấuhiệusửdụngtráiphépchấtmatúykhicómộttrongcáccăncứsauđây:
+a) Tin báo, tố giác củacánhân, cơquan, tổchức đãđược cơquan cóthẩmquyềntiếnhành
+xácminh, làmrõ;
+b)Thôngtin,tàiliệutrongcácvụviphạmphápluật;
+c)Ngườicóbiểuhiệnmấtnănglựcnhậnthứchoặckiểmsoáthànhvinghidosửdụngmatúy;
+d) Trên người, phương tiện, nơi ở của người đó có dấu vết của chất ma túy hoặc dụng cụ,
+phươngtiệnsửdụngtráiphépchấtmatúy;
+đ)Ngườiđiềukhiểnphươngtiệncóbiểuhiệnsửdụngchấtkíchthíchnghilàmatúy;
+e)Ngườicómặttạicácđịađiểmcóhànhvitổchức,chứachấphoặcsửdụngtráiphépchấtma
+túynhưngkhôngcólýdochínhđáng.
+g)Ngườitựkhaibáohànhvisửdụngtráiphépchấtmatúy;
+h)Ngườibịpháthiệnquảtangsửdụngtráiphépchấtmatúy;
+i)Nhữngcăncứkháctheoquyđịnhcủaphápluật.
+2.Khicócăncứchorằngngườicódấuhiệusửdụngtráiphépchấtmatúyquyđịnhtạikhoản
+1Điềunàythìcơquan,ngườicóthẩmquyềnxétnghiệmchấtmatúytrongcơthểquyđịnhtạikhoản2
+Điều22củaLuậtPhòng,chốngmatúytiếnhànhxétnghiệm.Kếtquảxétnghiệmchấtmatúytrongcơ
+thểthựchiệntheoMẫusố03tạiPhụlụcbanhànhkèmtheoNghịđịnhnày).
+Điều39.Kinhphíchoviệcthựchiệnbiệnphápquảnlýngườisửdụngtráiphépchấtma
+túy
+1.Kinhphíchoviệctổchứcxétnghiệmchấtmatúytrongcơthểtheoquyđịnhtạikhoản2Điều
+38Nghịđịnhnàygồm:
+a)Chiphícôngcụxétnghiệmchấtmatúytrongcơthể;
+b)Chiphíđưangườibịxétnghiệmchấtmatúytrongcơthểtớinơithựchiệnxétnghiệm;
+c)Chiphíđềnghịcơquanchuyênmônthựchiệnxétnghiệmchấtmatúytrongcơthể(nếucó).
+2.Kinhphíchoviệcxácđịnhtìnhtrạngnghiệnkhipháthiệnngườisửdụngtráiphépchất ma
+túythuộctrườnghợpphảixácđịnhtìnhtrạngnghiệntheoquyđịnhtạikhoản8Điều27củaLuậtPhòng,
+chốngmatúygồm:
+Trangchủ:https://hoatieu.vn/|Hotline:02422426188
+
+a)Chiphíđưangườibịđềnghịxácđịnhtìnhtrạngnghiệnđếnnơithựchiệnxácđịnhtìnhtrạng
+nghiệnvàchiphíăn,ởcủangườibịđềnghịxácđịnhtìnhtrạngnghiệntrongthờigiantheodõiđểxác
+địnhtìnhtrạngnghiện(trừtrườnghợpngườibịtạmgiữđểxácđịnhtìnhtrạngnghiện);
+b)Chiphíđềnghịcơsởytếtiếnhànhxácđịnhtìnhtrạngnghiện.
+3.Kinhphítrongquátrìnhquảnlýngườisửdụngtráiphépchấtmatúygồm:
+a)ChiphíchoviệcchuyểngiaongườisửdụngtráiphépchấtmatúyvàhồsơliênquanvềỦy
+bannhândâncấpxãcóthẩmquyềnquảnlý;
+b)Chiphíhỗtrợchongườikhôngthuộctrườnghợphưởnglươngtừngânsáchnhưngđược
+phâncôngtrựctiếpgiúpđỡngườiđangtrongthờihạnquảnlýquyđịnhtạiđiểmckhoản2Điều42Nghị
+địnhnày;
+4.Cáckhoảnkinhphíquyđịnhtạikhoản1,2và3Điềunàydongânsáchnhànướcđảmbảo
+theophâncấpngânsáchhiệnhànhvàcácnguồnkinhphíhợppháp.
+Ủyban nhândâncấptỉnhcótráchnhiệm trìnhHộiđồngnhândâncùng cấpbốtrí kinh phí từ
+nguồn ngân sách địa phương cho các cơ quan chức năng thực hiện các công việc quy định tại tại
+khoản1,2và3Điềunàytheoquyđịnhcủaphápluậtvềngânsáchnhànước.
+5.Mứchỗtrợngườiđượcphâncônggiúpđỡquyđịnhtạiđiểmbkhoản3ĐiềunàydoHộiđồng
+nhândâncấptỉnhquyếtđịnhnhưngkhôngthấphơn25%mứclươngcơsở.
+Điều 40. Thu thập thông tin, tài liệu để lập Hồ sơ quản lý người sử dụng trái phép chất
+matúy
+1. Khi có kết quảxét nghiệmquy địnhtạikhoản 2Điều38 Nghị định này làdươngtínhthì cơ
+quanCôngannơipháthiệnngườisửdụngtráiphépchấtmatúycótráchnhiệm:
+a) Thực hiện xác minh nơi cư trú của người sử dụng trái phép chất ma túy theo quy định tại
+Điều41Nghịđịnhnày;
+b)GửithôngbáovềhànhvisửdụngtráiphépchấtmatúychoChủtịchỦybannhândâncấp
+xãnơingườisửdụngtráiphépchấtmatúycưtrúhoặcnơipháthiệnhànhvisửdụngtráiphépchấtma
+túytrongtrườnghợpngườisửdụngtráiphépchấtmatúykhôngcónơicưtrúổnđịnhtheoMẫusố04
+tạiPhụlụcbanhànhkèmtheoNghịđịnhnàyđểtổchứcquảnlýngườisửdụngtráiphépchấtmatúyvà
+lậpHồsơquảnlýngườisửdụngtráiphépchấtmatúy.
+2.Hồsơquảnlýngườisửdụngtráiphépchấtmatúybaogồmcáctàiliệusauđây:
+a)QuyếtđịnhápdụngbiệnphápquảnlýngườisửdụngtráiphépchấtmatúytheoMẫusố07
+tạiPhụlụcbanhànhkèmtheoNghịđịnhnày;
+b)BảntómtắtlýlịchngườisửdụngtráiphépchấtmatúytheoMẫusố05tạiPhụlụcbanhành
+kèmtheoNghịđịnhnày; kếtquảxácminhnơicưtrúcủangườisửdụngtráiphépchấtmatúy;
+c)PhiếukếtquảxétnghiệmchấtmatúytrongcơthểtheoMẫusố03tạiPhụlụcbanhànhkèm
+theoNghịđịnhnày;
+d)Tàiliệu,biênbảnvềhànhvisửdụngtráiphépchấtmatúy;tàiliệuvềnhữnglầnsửdụngtrái
+phépchấtmatúytrướcđâyhoặccainghiệncủangườiviphạm(nếucó);
+đ) Bản tường trình của người sử dụng trái phép chất ma túy theo Mẫu số 06 tại Phụ lục ban
+hànhkèmtheoNghịđịnhnày;
+e)Trườnghợpngườiđóthuộcđốitượngquyđịnhtạikhoản1Điều27củaLuậtPhòng,chống
+matúythìphảicókếtquảxácđịnhtìnhtrạngkhôngnghiệnmatúycủađốitượng.
+3.CôngancấpxãcótráchnhiệmgiúpChủtịchỦybannhândâncấpxãthuthậptàiliệuđểlập
+Hồsơquảnlýngườisửdụngtráiphépchấtmatúy.
+Điều41.Xácminhnơicưtrúvàgửihồsơ
+1.Trongthờihạntốiđakhôngquá03ngàylàmviệc,kểtừngàypháthiệnngườicóhànhvisử
+dụng trái phép chất matúy, cơ quan Công an nơi phát hiệnhành vi sử dụng trái phépchất matúy có
+tráchnhiệmxácminhnơicưtrúcủangườisửdụngtráiphépchấtmatúy.
+Đốivớicácđịabànlàvùngmiềnnúi,hảiđảo,vùngxaxôi,hẻolánhmàviệcđilạigặpkhókhăn
+thìthờihạnxácminhnơicưtrúcóthểkéodàihơnnhưngkhôngđượcquá10ngàylàmviệc,kểtừngày
+Trangchủ:https://hoatieu.vn/|Hotline:02422426188
+
+pháthiệnngườicóhànhvisửdụngtráiphépchấtmatúy.
+2.Tiêuchíxácđịnhngườicónơicưtrúổnđịnh:
+a) Người có nơi cư trú ổn định là người hiện đang sinh sống tại nơi đăng ký thường trú hoặc
+tạmtrú;
+b) Trường hợp không xác định được nơi đăng ký thường trú, tạmtrú thì nơi cư trú ổnđịnh là
+nơiởhiệntạitheoquyđịnhtạikhoản1Điều19củaLuậtCưtrúvàthờigianthườngxuyênsinhsốngtừ
+30ngàytrởlên,cóxácnhậncủaTrưởngCôngancấpxã.
+3.Tiêuchíxácđịnhngườikhôngcónơicưtrúổnđịnh:
+a)Ngườicóđăngkýthườngtrúhoặctạmtrúnhưngkhôngsinhsốngtạinơiđăngkýthườngtrú
+hoặc tạm trú, có xác nhận của Trưởng Công an cấp xã nơi đăng ký thường trú hoặc tạm trú về việc
+ngườiđókhôngsinhsốngởnơiđăngkýthườngtrúhoặctạmtrúvàkhôngbiếtngườiđóđangởđâu;
+b)Thànhviêngiađìnhtheoquyđịnhphápluậtvềhônnhânvàgiađìnhcungcấpthôngtincho
+cơquanchứcnăngkhôngbiếtngườiđóhiệnnay đangởđâu,làmgìvàcơquanCôngantracứudữ
+liệutrong Cơsởdữliệuquốcgia vềdâncư,Cơ sởdữliệuvềcư trú, hệthốngtàng thưhồsơcưtrú,
+tàngthưcăncướccôngdâncũngkhôngxácđịnhđượcngườiđóđangởđâu;
+c) Người không có cả nơi thường trú, tạm trú và thời gian sinh sống ở nơi ở hiện tại dưới 30
+ngày.
+4.Việcxácminhnơicưtrúvàtrảlờixácminhvềcưtrúthựchiệntheoquyđịnhcủaphápluật
+vềcưtrúvàhướngdẫncủaBộCôngan.
+5.Trườnghợpngườicóhànhvisửdụngtráiphépchấtmatúycónơicưtrúổnđịnh,trongthời
+hạn03ngàylàmviệc,kểtừngàycókếtquảxácminh,cơquanCôngannơipháthiệnhànhvisửdụng
+tráiphépchất matúythôngbáovềhànhvisửdụngtráiphépchất matúyvàgửicáctàiliệuliênquan
+choChủtịchỦybannhândâncấpxãnơingườisửdụngtráiphépchấtmatúycưtrúổnđịnh.
+6. Trường hợp người có hành vi sử dụng trái phép chất ma túy không có nơi cư trú ổn định,
+trongthờihạn03ngàylàmviệc,kểtừngàycókếtquảxácminh,cơquanCôngannơipháthiệnhành
+visửdụngtráiphépchấtmatúythôngbáovềhànhvisửdụngtráiphépchấtmatúyvàcáctàiliệuliên
+quanchoChủtịchỦybannhândâncấpxãnơipháthiệnhànhvisửdụngtráiphépchấtmatúy.
+Điều42.Quyếtđịnhquảnlýngườisửdụngtráiphépchấtmatúy
+1. Trong thời hạn 03 ngàylàm việc, kểtừngàynhận được thông báo vềhànhvi sử dụng trái
+phépchấtmatúyvàkếtquảxétnghiệmchấtmatúytrongcơthể,ChủtịchỦybannhândâncấpxãnơi
+ngườisửdụngtráiphépchấtmatúycưtrúổnđịnhhoặcnơipháthiệnhànhvisửdụngtráiphépchất
+matúyđốivớingườikhôngcónơicưtrúổnđịnhraquyết địnhvàtổchứcquảnlýngườisửdụng trái
+phépchấtmatúytheoquyđịnhtạikhoản2,khoản4Điều23củaLuậtPhòng,chốngmatúy.
+2. Quyết địnhápdụngbiệnphápquảnlýngười sử dụng tráiphépchất matúy thựchiệntheo
+Mẫusố07tạiPhụlụcbanhànhkèmtheoNghịđịnhnày, trongđónêurõ:
+a)Tómtắthànhvisửdụngtráiphépchất matúy; kếtquảxétnghiệmdươngtínhvớichất ma
+túytrongcơthể;kếtquảxácđịnhtìnhtrạngnghiệnlàkhôngnghiện(nếucó);
+b)PhâncôngCôngancấpxãlậpdanhsáchngườisửdụngtráiphépchấtmatúyquảnlýtạiđịa
+phươngvàtổchứcthựchiệnviệcxétnghiệmchấtmatúytrongcơthểtrongthờihạnquảnlý;
+c)PhâncôngTổquảnlýngườisửdụngtráiphépchấtmatúydocánbộCôngancấpxãlàmTổ
+trưởng;đạidiệnthôn/tổdânphốlàmTổphó;đạidiệngiađìnhcủangườisửdụngtráiphépchấtmatúy
+hoặcngườiuytíntrongdònghọ,đạidiệntổchứcchínhtrị-xãhội(căncứvàonhânthâncủangườisử
+dụngtráiphépchấtmatúy)vànhânviêncôngtácxãhội(nếucó)làmtổviên;phâncôngmộtthànhviên
+Tổquảnlýtrựctiếpthựchiệncácnộidungtưvấn,độngviên,giáodục,giúpđỡngườisửdụngtráiphép
+chấtmatúy.
+3.Quyếtđịnhquảnlýngườisửdụngtráiphépchấtmatúycóhiệulựctừngàyký.
+4.Quyếtđịnhquảnlýngườisửdụngtráiphépchấtmatúyđượclưutạihồsơquảnlýngườisử
+dụngtráiphépchấtmatúy01bản,gửichongườiđượcquảnlý01bản,gửiCôngancấpxãlàtổtrưởng
+01bản,gửi01bảnđếnđạidiệngiađìnhđểthamgiaquảnlý.
+Điều43.Thờihạnquảnlývàcáchtínhthờihạnquảnlý
+Trangchủ:https://hoatieu.vn/|Hotline:02422426188
+
+1.Thờihạnquảnlýngườisửdụngtráiphépchấtmatúylà01năm,kểtừngàyChủtịchỦyban
+nhândâncấpxãraQuyếtđịnhquảnlý.
+2.Trongthờihạnquảnlý,nếungườiđangcóquyếtđịnhquảnlýbịpháthiệntiếptụcsửdụng
+trái phép chất ma túy mà không thuộc các trường hợp quy định tại khoản 5 Điều 23 của Luật Phòng,
+chốngmatúythìChủtịchỦybannhândâncấpxãcóthẩmquyềnraQuyếtđịnhquảnlýmới,trongđó
+xácđịnhlạithờihạnquảnlýlà01năm,kểtừngàyraQuyếtđịnhquảnlýmới.
+3.Trườnghợpngườiđangtrongthờihạnquảnlýchuyểnnơicưtrúthìthờihạnquảnlýđược
+tínhtiếptừngàychuyểnđitớikhihếtthờigianquảnlýcònlại.
+Điều44.Nộidungquảnlý
+1. Mụcđíchquảnlýngườisử dụngtráiphépchất matúylàđểhọkhôngtiếp tụcsử dụng trái
+phépchấtmatúyvàphòngngừacáchànhviviphạmphápluậtcủahọ.
+2.Nộidungquảnlý:
+a) Xét nghiệm chất ma túy trong cơ thể của người sử dụng trái phép chất ma túy đang trong
+thờihạnquảnlý;
+b)Tưvấnvềtâmlý,thayđổitháiđộcủangườisửdụngtráiphépchấtmatúyđểhọcótháiđộ
+tíchcực,chủđộngtránhxamatúy;
+c)Giáodụcvềphápluậtphòng,chốngmatúy, táchạicủamatúy, cácnộidungkháctùytheo
+đặcđiểmnhânthân;
+d) Động viên, giúp đỡ để người sử dụng trái phép chất ma túy tham gia các hoạt động cộng
+đồng,hoạtđộngtựquản,hoạtđộngthểdục,thểthao,cácphongtràogiúpíchchoxãhộiđểnângcao
+sứckhỏe,kỹnăngsống,phòngngừacáchànhviviphạmphápluật.
+3.Đốivớingườisửdụngtráiphépchấtmatúydưới18tuổithìphảiđảmbảoviệchọcvănhóa
+vànhữngngườiđượcphâncôngtưvấn,độngviên,giáodục,giúpđỡphảicósựthamgiacủagiáoviên
+nơingườiđóđanghọchoặcđộithiếuniêntiềnphong,đoànthanhniên.
+Điều45.Xétnghiệmchấtmatúytrongcơthểtrongthờihạnquảnlý
+1.Côngancấpxãnơiquảnlýngườisửdụngtráiphépchấtmatúythựchiệnhoặcđềnghịcơ
+quan,ngườicóchuyênmônthựchiệnviệcxétnghiệmchấtmatúytrongcơthểcủangườisửdụngtrái
+phépchấtmatúytrongthờihạnquảnlý.
+2.Việcxétnghiệmchấtmatúytrongcơthểđượctiếnhànhđộtxuấtđốivớingườiđangtrong
+thờihạnquảnlýkhiCơquanCôngancấpxãcócăncứquyđịnhtạikhoản1Điều38Nghịđịnhnày.
+Điều46.Quyđịnhvềviệcxétnghiệmchấtmatúytrongcơthể
+1.Đốivớingườithuộctrườnghợpphảixétnghiệmchấtmatúytrongcơthểthìcơquan,người
+cóthẩmquyềnxétnghiệmchấtmatúytrongcơthểmờingườiđóđếnđịađiểmxétnghiệmđểthựchiện
+việcxétnghiệm.
+Trường hợp người đó không hợp tác thực hiện xét nghiệm chất ma túy trong cơ thể thì Cơ
+quanCôngantriệutậpngườiđóđếnđịađiểmxétnghiệmđểlấymẫuxétnghiệmchấtmatúytrongcơ
+thể.NgườithuộctrườnghợpphảixétnghiệmchấtmatúytrongcơthểphảicómặtkhiđượcCơquan
+Cônganyêucầu.
+2.Hìnhthứclấymẫuxétnghiệmchấtmatúytrongcơthểlàlấymáu,lấynướctiểu,thôngtiểu
+hoặclấycácmẫuvậtkháctrêncơthể.
+3.Cácbuồngchờxétnghiệmvànơilấymẫuphảichiakhuvựcdànhchonamriêng,nữriêng.
+Nơikhôngcóbuồngchờriêngthìbốtríchonam,nữđứngriêngvànơilấymẫuphảicóbuồngnam,nữ
+riêng.
+Việclấymẫunướctiểuphảicócánbộcùnggiớigiámsát.
+4. Trường hợp lấy mẫu xét nghiệm người dưới 18 tuổi phải có sự đồng ý của cha, mẹ hoặc
+ngườigiámhộhoặcngườiđạidiệntheophápluật,trừtrườnghợplấymẫunướctiểu.
+Điều47.Quảnlýngườisửdụngtráiphépchấtmatúytrongtrườnghợpchuyểnđikhỏi
+nơicưtrú
+1.ítnhất01lầntrongtháng,Côngancấpxãnơiquảnlýngườisửdụngtráiphépchấtmatúy
+Trangchủ:https://hoatieu.vn/|Hotline:02422426188
+
+phảikiểmtra,cậpnhậtnơicưtrúcủangườiđangtrongthờihạnquảnlý.
+2.KhingườisửdụngtráiphépchấtmatúythayđổinơicưtrúthìCôngancấpxãnơichuyển
+đếnphốihợpvớiCôngancấpxãnơiđangquảnlýđểkiểmtra,xácminhthôngtin. Saukhixácminh,
+CôngancấpxãnơiđangquảnlýthôngbáochoChủtịchỦybannhândâncấpxãnơiđangquảnlýbiết.
+Trongthờihạn05ngàylàmviệc,kểtừngàyngườiđóchuyểnđếnnơicưtrúmới,ChủtịchỦy
+ban nhân dâncấp xãnơi chuyểnđi thông báo vàchuyểnhồsơquảnlýngườisửdụngtráiphépchất
+matúytheoMẫusố08tạiPhụlụcbanhànhkèmtheoNghịđịnhnàychoChủtịchỦybannhândâncấp
+xãnơichuyểnđếntiếptụcquảnlý.
+3. Công an cấp xã có trách nhiệm thường xuyên cập nhật nơi cư trú của người sử dụng trái
+phépchấtmatúyvàocơsởdữliệuvềcưtrú,cơsởdữliệuquốcgiavềdâncư.
+Điều48.Dừng,chấmdứtquảnlýngườisửdụngtráiphépchấtmatúy
+1. Chủ tịch Ủy ban nhân dân cấp xã nơi đang quản lý ra Quyết định dừng quản lý người sử
+dụngtráiphépchấtmatúyđốivớicáctrườnghợpquyđịnhtạikhoản5Điều23củaLuậtPhòng,chống
+matúytheoMẫusố09tạiPhụlụcbanhànhkèmtheoNghịđịnhnày.
+2.ChủtịchỦybannhândâncấpxãnơiquảnlýraQuyếtđịnhchấmdứtquảnlýngườisửdụng
+trái phép chất ma túy trong trường hợp hết thời hạn quản lý mà không phát hiện người bị quản lý có
+hànhvisửdụngtráiphépchấtmatúytheoMẫusố10tạiPhụlụcbanhànhkèmtheoNghịđịnhnày.
+3.Trongthờihạn03ngàylàmviệc,kểtừngàyraQuyếtđịnhtheoquyđịnhtạikhoản1,khoản
+2Điềunày,ChủtịchỦybannhândâncấpxãgửiQuyếtđịnhchocơquan,tổchức,cánhânquyđịnhtại
+điểmckhoản2,khoản4Điều42Nghịđịnhnày.
+Điều49.Côngtácquảnlývàlưutrữhồsơquảnlýngườisửdụngtráiphépchấtmatúy
+Cơ quan Công an cấpxã nơilậphồ sơ chịutráchnhiệm quảnlý, lưu trữhồsơ của ngườisử
+dụngtráiphépchấtmatúytheoquyđịnhcủaBộCôngan.
+ChươngV
+TRÁCHNHIỆMCỦACƠQUAN
+Điều50.BộCôngan
+1. Chỉ đạo cơ quan chuyên trách phòng, chống tội phạm về ma túy thuộc Công an nhân dân
+chủđộngphốihợpchặtchẽvớicáccơquanchuyêntráchphòng,chốngtộiphạmvềmatúythuộcBộ
+độiBiênphòng,CảnhsátbiênvàHảiquanthựchiệncáchoạtđộngphòngngừa,đấutranh,ngănchặn,
+điềutra,xửlýtộiphạmvềmatúy.
+2.Chủtrì,phốihợpvớicácbộ,cơquanngangbộ,cơquanthuộcChínhphủthốngnhấtquảnlý
+nhànướcvềkiểmsoátcáchoạtđộnghợpphápliênquanđếnmatúy.
+a)Tổnghợpkếhoạch,kếtquảthựchiệnkếhoạchtổngthểdàihạnvàhằngnămvềkiểmsoát
+các hoạt động hợp pháp liên quan đến ma túy của các bộ, ngành, địa phương, báo cáo Thủ tướng
+Chínhphủ;
+b)Hướngdẫn,đônđốc,kiểmtracáccơquan,tổchức,cánhân,địaphươngthựchiệncácvăn
+bảnquyphạmphápluậtvềkiểmsoátcáchoạtđộnghợpphápliênquanđếnmatúytrongphạmvilĩnh
+vựcvàđịabànquảnlýnhàmphòngngừa,ngănchặnviệclợidụngcáchoạtđộngđóvàomụcđíchbất
+hợppháp;
+3.BanhànhvàtổchứcthựchiệncácvănbảnthuộcthẩmquyềncủaBộCônganvềkiểmsoát
+cáchoạtđộnghợpphápliênquanđếnmatúyvìmụcđíchquốcphòng,anninh.
+4. Xây dựng và tổ chức thực hiện quy chế, kế hoạch, tổ chức đào tạo, bồi dưỡng cán bộ và
+thựchiệnthốngkênhànướcvềnhậpkhẩumẫu,lấymẫu,quảnlývàsửdụngmẫucácchấtmatúy.
+5. Chỉ đạo cơ quan chuyên trách phòng, chống tội phạm về ma túy thực hiện nhiệm vụ cho
+phépcáchoạtđộngtheoquyđịnhtạikhoản1Điều14, khoản1Điều19vàkhoản1Điều23củaNghị
+địnhnày;thựchiệnthốngkênhànước,hợptácquốctếvềkiểmsoátcáchoạtđộnghợpphápliênquan
+đếnmatúy vàquảnlý,vậnhành TrungtâmDữliệukiểmsoátcáchoạt động hợpphápliênquanđến
+matúy;thườngtrựcthựchiệnnhiệmvụcủaTổCôngtácliênngànhphốihợpkiểmsoátcáchoạtđộng
+hợp pháp liên quan đến matúy cấp trung ương và hướng dẫn, kiểm tra Tổ Công tác liên ngành phối
+hợpkiểmsoátcáchoạtđộnghợpphápliênquanđếnmatúycáctỉnh,thànhphốtrựcthuộctrungương
+Trangchủ:https://hoatieu.vn/|Hotline:02422426188
+
+thựchiệnnhiệmvụtheoquyđịnhtạiNghịđịnhnày.
+6.ChỉđạolựclượngCôngancáccấpthựchiệnvàphốihợpvớicơquan,tổchứccóliênquan
+pháthiện,quảnlýngườisửdụngtráiphépchấtmatúy.
+7.HướngdẫnCôngancấpxãlậpdanhsáchngườisửdụngtráiphépchấtmatúy.
+Điều51.BộQuốcphòng
+1. Chỉ đạo cơ quan chuyên trách phòng, chống tội phạm về ma túy thuộc Bộ đội Biên phòng
+chủ trì thực hiện các hoạt động phòng ngừa; ngăn chặn ma túy thẩm lậu vào Việt Nam; kịp thời phát
+hiện,bắtgiữtộiphạmvềmatúyxảyraởkhuvựcbiêngiớitheoquyđịnhcủaphápluật;thườngxuyên
+phốihợpchặtchẽvớicáccơquanchuyêntráchphòng,chốngtộiphạmvềmatúythuộcCôngannhân
+dân,Cảnhsátbiển,Hảiquantrongcôngtácphòngngừa,đấutranhvớitộiphạmvềmatúy.
+2. Chỉ đạo cơ quan chuyên trách phòng, chống tội phạm về ma túy thuộc Cảnh sát Biển Việt
+Namchủtrìthựchiệncáchoạtđộngphòngngừa,đấutranh,ngănchặn,điềutra,xửlýtộiphạmvềma
+túytrênbiển;phốihợpchặtchẽvớicáccơquanchuyêntráchphòng,chốngtộiphạmvềmatúythuộc
+BộđộiBiênphòng,Hảiquan,Cônganvàchínhquyềnđịaphương,cơquan,tổchứccóliênquanthực
+hiệncáchoạtđộngphòng,ngừa,đấutranhvớitộiphạmvềmatúy.
+3. Cấp, thu hồi giấy phép nhập khẩu, xuất khẩu tiền chất vì mục đích quốc phòng theo thẩm
+quyền quy định tại khoản 2 Điều 23 và thực hiện quy định về phối hợp kiểm soát các hoạt động hợp
+phápliênquanđếnmatúytạiNghịđịnhnày.
+4. Phối hợp với cơ quan hữu quan của nước khác để phát hiện, ngăn chặn các hành vi mua
+bán, vận chuyển trái phép các chất matúy, tiền chất, thuốc gây nghiện, thuốc hướng thần, thuốc tiền
+chất,nguyênliệulàmthuốclàdượcchấtgâynghiện,dượcchấthướngthần,tiềnchấtdùnglàmthuốc
+vàthuốcthúycóchứachấtmatúy, tiềnchấtquabiêngiớitheoquyđịnhcủaphápluật.
+Điều52.BộTàichính
+1.Chỉđạocơquanchuyêntráchphòng,chốngtộiphạmvềmatúythuộcHảiquanchủtrì,phối
+hợpvớicáccơquanchuyêntráchphòng, chốngtộiphạmvềmatúythuộcCôngannhândân,Bộđội
+BiênphòngvàCảnhsátbiểntrongkiểmtra, kiểmsoát, pháthiệnvàphốihợpvớicáclựclượngchức
+năngxửlýcáchànhviviphạmphápluật,tộiphạmvềmatúytrongđịabànhoạtđộngcủaHảiquan.
+2.Chủtrì,tổnghợptrìnhcấpcóthẩmquyềnphêduyệtdựtoánchithườngxuyênđảmbảocho
+cáchoạtđộngphốihợp,kiểmsoátcáchoạtđộnghợpphápliênquanđếnmatúyvàodựtoánchingân
+sáchnhànướcthườngxuyêncủaBộCôngan,BộQuốcphòng,BộTàichínhvàcácbộ,ngànhcóliên
+quantheoquyđịnhhiệnhànhcủaLuậtNgânsáchnhànước.
+3.ChỉđạocơquanHảiquanthựchiệnthủtụchảiquan,chếđộkiểmtra,giámsáthảiquanđối
+với các hoạt động nhập khẩu, xuất khẩu, tạm nhập, tái xuất, tạm xuất tái nhập, vận chuyển quá cảnh
+lãnhthổViệtNamchấtmatúy,tiềnchất,thuốcgâynghiện,thuốchướngthần,thuốctiềnchất,nguyên
+liệulàmthuốclàdượcchấtgâynghiện,dượcchấthướngthần,tiềnchấtdùnglàmthuốcvàthuốcthúy
+cóchứa chất matúy, tiền chất theo quy định của phápluật Hảiquan; thực hiện quy định vềphối hợp
+kiểmsoátcáchoạtđộnghợpphápliênquanđếnmatúytạiNghịđịnhnày.
+Điều53.BộYtế
+Thực hiện quy định về phối hợp kiểm soát các hoạt động hợp pháp liên quan đến ma túy tại
+Nghịđịnhnày.
+Điều54.BộCôngThương
+1.Thựchiệnchứcnăngquảnlýnhànướcvềnghiêncứu,kiểmnghiệm,sảnxuất,kinhdoanh,
+sửdụngtiềnchấtcôngnghiệptheoquyđịnhcủaLuậtPhòng,chốngmatúy,LuậtHóachấtvàquyđịnh
+kháccủaphápluậtcóliênquan.
+2.Cấp,thuhồigiấyphépcáchoạtđộngquyđịnhtạikhoản2Điều19vàthựchiệnquyđịnhvề
+phốihợpkiểmsoátcáchoạtđộnghợpphápliênquanđếnmatúytạiNghịđịnhnày.
+Điều55.BộNôngnghiệpvàPháttriểnnôngthôn
+1. Thực hiệnchứcnăngquản lý nhànước vềthuốcthúycóchứachất matúy, tiềnchất theo
+quyđịnhcủaLuậtPhòng,chốngmatúy, LuậtThúyvàcácvănbảnquyphạmphápluậtcóliênquan.
+2.Banhànhdanhmụcthuốcthúycóchứachấtmatúy,tiềnchấtvàdanhmụcchấtmatúy,tiền
+Trangchủ:https://hoatieu.vn/|Hotline:02422426188
+
+chấtlànguyênliệulàmthuốcthúycóchứachấtmatúy,tiềnchất.
+3.Cấp,thuhồigiấyphépcáchoạtđộngquyđịnhtạikhoản2Điều14,khoản3Điều19vàthực
+hiệnquyđịnhvềphốihợpkiểmsoátcáchoạtđộnghợpphápliênquanđếnmatúytạiNghịđịnhnày.
+ChươngVI
+TỔCHỨCTHỰCHIỆN
+Điều56.Kinhphíthựchiện
+Kinh phí thực hiện các hoạt động phối hợp của các cơ quan chuyên trách phòng, chống tội
+phạmvềmatúy;kiểmsoátcáchoạtđộnghợpphápliênquanđếnmatúyvàquảnlýngườisửdụngtrái
+phépchấtmatúydongânsáchnhànướcđảmbảo,đượcbốtrítrongdựtoánchithườngxuyêncủacác
+bộ,cơquantrungươngvàcácđịaphươngtheoquyđịnhcủaphápluậtvềNgânsáchnhànước.
+Điều57.Hiệulựcthihành
+1.Nghịđịnhnàycóhiệulựcthihànhkểtừngày01tháng01năm2022.
+2.CácvănbảnsauđâyhếthiệulựcthihànhkểtừngàyNghịđịnhnàycóhiệulựcthihành:
+a) Nghị định số 80/2001/NĐ-CP ngày 05 tháng 11 năm 2001 của Chính phủ hướng dẫn việc
+kiểmsoátcáchoạtđộnghợpphápliênquanđếnmatúyởtrongnước;
+b) Nghị định số 58/2003/NĐ-CP ngày 29 tháng 5 năm 2003 của Chính phủ quy định về kiểm
+soát nhập khẩu, xuất khẩu, vậnchuyểnquácảnh lãnh thổ Việt Nam chất matúy, tiềnchất, thuốc gây
+nghiện,thuốchướngthần;
+c) Nghị định số 45/2009/NĐ-CP ngày 13 tháng 5 năm 2009 của Chính phủ hướng dẫn việc
+nhập khẩu mẫu, lấy mẫu, quản lý sử dụng mẫu các chất ma túy, tiền chất, thuốc gây nghiện, thuốc
+hướngthầnvìmụcđíchquốcphòng,anninh;
+d)Quyếtđịnhsố133/2002/QĐ-TTgngày09tháng10năm2002củaThủtướngChínhphủban
+hànhQuychếphốihợpgiữalựclượngCôngan,BộđộiBiênphòng,CảnhsátbiểnvàHảiquantrong
+đấutranhphòng,chốngcáctộiphạmvềmatúytạiđịabànbiêngiới,cửakhẩuvàtrênbiển;
+đ) Quyết định số 52/2011/QĐ-TTgngày 21 tháng 9 năm 2011 của Thủ tướng Chính phủ ban
+hànhQuychếphốihợpkiểmsoátcáchoạtđộnghợpphápliênquanđếnmatúy.
+Điều58.Quyđịnhchuyểntiếp
+1.Hồsơđềnghịchophépnghiêncứu,sảnxuấtchấtmatúy, tiềnchấtvàthuốcthúycóchứa
+chấtmatúy, tiềnchấtđãtiếpnhậntrướcngàyNghịđịnhnàycóhiệulựcthihànhthìtiếptụcgiảiquyết
+theoquyđịnhcủaNghịđịnhsố80/2001/NĐ-CPngày05tháng11năm2001củaChínhphủhướngdẫn
+việckiểmsoátcáchoạtđộnghợpphápliênquanđếnmatúyởtrongnướctạithờiđiểmtiếpnhận,trừ
+trườnghợpcơquan,tổchức,cánhânđãnộphồsơcóyêucầuthựchiệntheoquyđịnhcủaNghịđịnh
+này.
+2. Hồsơđề nghịchophéphoạt động nhập khẩu, xuất khẩu, quácảnhchất matúy, tiền chất,
+thuốcgâynghiện,thuốchướngthầnqualãnhthổViệtNamđãtiếpnhậntrướcngàyNghịđịnhnàycó
+hiệulựcthihànhthìtiếptụcgiảiquyếttheoquyđịnhcủaNghịđịnhsố58/2003/NĐ-CPngày29tháng5
+năm2003củaChínhphủquy địnhvềkiểmsoátnhậpkhẩu,xuấtkhẩu, vậnchuyểnquácảnhlãnh thổ
+ViệtNamchấtmatúy,tiềnchất,thuốcgâynghiện,thuốchướngthầntạithờiđiểmtiếpnhận,trừtrường
+hợpcơquan,tổchứcđãnộphồsơcóyêucầuthựchiệntheoquyđịnhcủaNghịđịnhnày.
+Điều59.Tráchnhiệmthihành
+CácBộtrưởng,Thủtrưởngcơquanngangbộ,ThủtrưởngcơquanthuộcChínhphủ,Chủtịch
+Ủybannhândâncáctỉnh,thànhphốtrựcthuộctrungươngvàtổchức,cánhâncóliênquanchịutrách
+nhiệmhướngdẫnvàthihànhNghịđịnhnày.
+Nơinhận: TM.CHÍNHPHỦ
+-BanBíthưTrungươngĐảng; THỦTƯỚNG
+-Thủtướng,cácPhóThủtướngChínhphủ;
+-Cácbộ,cơquanngangbộ,cơquanthuộcChínhphủ
+-HĐND,UBNDcáctỉnh,thànhphốtrựcthuộctrungương;
+-VănphòngTrungươngvàcácBancủaĐảng;
+Trangchủ:https://hoatieu.vn/|Hotline:02422426188
+
+-VănphòngTổngBíthư;
+-VănphòngChủtịchnước;
+-HộiđồngDântộcvàcácỦybancủaQuốchội; PhạmMinhChính
+-VănphòngQuốchội;
+-Tòaánnhândântốicao;
+-Việnkiểmsátnhândântốicao;
+-ỦybanGiámsáttàichínhQuốcgia;
+-Kiểmtoánnhànước;
+-NgânhàngChínhsáchxãhội;
+-NgânhàngPháttriểnViệtNam;
+-ỦybantrungươngMặttrậnTổquốcViệtNam;
+-Cơquantrungươngcủacácđoànthể;
+- VPCP: BTCN, các PCN, Trợ lý TTg, TGĐ cổng TTĐT, các
+Vụ,Cục,đơnvịtrựcthuộc,Côngbáo;
+-Lưu:VT,KGVX(2b).
+Trangchủ:https://hoatieu.vn/|Hotline:02422426188
+
+Phụlục
+DANHMỤCBIỂUMẪU
+(KèmtheoNghịđịnhsố:105/2021/NĐ-CPngày04tháng12năm2021củaChínhphủ)
+_____________
+| STT         | KÝHIỆU |                                        | TÊNBIỂUMẪU        |           |             |           |
+| ----------- | ------ | -------------------------------------- | ----------------- | --------- | ----------- | --------- |
+| 1. Mẫusố01  |        | Đơnđềnghịcấpgiấyphépnhậpkhẩu(xuấtkhẩu) |                   |           |             |           |
+| 2. Mẫusố02A |        | Giấyphépnhậpkhẩu(xuấtkhẩu)bảntiếngViệt |                   |           |             |           |
+|             |        | Giấy phép/Import                       | (Export) Licences | nhập khẩu | (xuất khẩu) | bản tiếng |
+3. Mẫusố02B
+Anh
+| 4. Mẫusố03 |     | Phiếukếtquảxétnghiệmchấtmatúytrongcơthể     |     |     |     |     |
+| ---------- | --- | ------------------------------------------- | --- | --- | --- | --- |
+| 5. Mẫusố04 |     | Thôngbáovềhànhvisửdụngtráiphépchấtmatúy     |     |     |     |     |
+| 6. Mẫusố05 |     | Bảntómtắtlýlịchngườisửdụngtráiphépchấtmatúy |     |     |     |     |
+| 7. Mẫusố06 |     | Bảntườngtrình                               |     |     |     |     |
+Quyếtđịnhápdụngbiệnphápquảnlýngườisửdụngtráiphépchấtma
+8. Mẫusố07
+túy
+Thôngbáovềviệcchuyểnhồsơquảnlýngườisửdụngtráiphépchất
+9. Mẫusố08
+matúy
+| 10. Mẫusố09 |     | Quyếtđịnhdừngquảnlýngườisửdụngtráiphépchấtmatúy |     |     |     |     |
+| ----------- | --- | ----------------------------------------------- | --- | --- | --- | --- |
+11. Mẫusố10 Quyếtđịnhchấmdứtquảnlýngườisửdụngtráiphépchấtmatúy
+Trangchủ:https://hoatieu.vn/|Hotline:02422426188
+
+Mẫusố01
+........................1 CỘNGHÒAXÃHỘICHỦNGHĨAVIỆTNAM
+........................2 Độclập-Tựdo-Hạnhphúc
+__________ _________________________
+Số:............ ........3,ngày....tháng....năm.......
+ĐƠNĐỀNGHỊCẤPGIẤYPHÉPNHẬPKHẨU(XUẤTKHẨU)...........4
+Kínhgửi:...................................................5
+Têndoanhnghiệp:.................................................................................................................................2
+QuyếtđịnhhoặcGiấyphépthànhlậpsố:...........................................................................................
+Giấychứngnhậnđăngkíkinhdoanhsố:............................................................................................
+Do..................................1Cấpngày: ..................................
+Nơiđặttrụsởchính:...............................................................................................................................
+Sốđiệnthoại:........................SốFax:............................
+Mặthàng,ngànhnghềkinhdoanh:......................................................................................................
+Đề nghị ............................. 5 cấp giấy phép cho nhập khẩu (xuất khẩu) ........ 4 Mục đích nhập
+khẩu(xuấtkhẩu)6:.............................................
+Tên,địachỉnơisảnxuất4:......................................................................................................................
+Tênthươngmại/Tên
+STT MãCAS MãHS ĐVT Sốlượng Hàmlượng
+hóahọc
+1
+2
+-Têncửakhẩulàmthủtụcnhậpkhẩu(xuấtkhẩu):..........................................................................
+-Phươngtiệnvàđiềukiệnbảođảmantoànvậnchuyển:...............................................................
+-Thờigianvàsốlầnthựchiệnnhập(xuất)khẩu:..............................................................................
+-Hồsơkèmtheogồm(CáctàiliệutheoquyđịnhtạiĐiều20củaNghịđịnhsố /NĐ-CPngày
+tháng năm2021củaChínhphủquyđịnhchitiếtvàhướngdẫnthihànhmộtsốđiềucủaLuậtPhòng,
+chốngmatúy):
+GIÁMĐỐCDOANHNGHIỆP
+(Kýtênvàđóngdấu)
+---------------------
+1Cơquanchủquản(nơicấpQuyếtđịnhthànhlậpdoanhnghiệp).
+2Têndoanhnghiệp.
+3Địadanhnơidoanhnghiệpđăngkýhoạtđộng.
+4Chấtmatúy, tiềnchất,thuốcthúycóchứachấtmatúy, tiềnchất.
+5CơquancấpphépthuộcBộCôngan,BộCôngThương,BộNôngnghiệpvàPháttriểnnông
+thôn.
+6Mục đích: sử dụng, kinh doanh, nghiên cứu, kiểm nghiệm, khảo nghiệm và mục đích khác
+(nêuchitiết).
+Trangchủ:https://hoatieu.vn/|Hotline:02422426188
+
+Mẫusố02A
+........................1 CỘNGHÒAXÃHỘICHỦNGHĨAVIỆTNAM
+........................2 Độclập-Tựdo-Hạnhphúc
+__________ _________________________
+Số:...../năm/GPNK-tênviếttắt3 HàNội,ngày....tháng....năm.......
+GIẤYPHÉPNHẬPKHẨU(XUẤTKHẨU)..............4
+Thủtrưởng......................................2
+CăncứLuậtPhòng,chốngmatúyngày30tháng3năm2021;
+Căn cứ Nghị định số... /NĐ-CP ngày ...tháng... năm 2021 của Chính phủ quy định chi tiết và
+hướngdẫnthihànhmộtsốđiềucủaLuậtPhòng,chốngmatúy;
+Căncứ Quyết định số:... ngày...tháng...năm... của...1vềviệc quy định chứcnăng, nhiệm vụ,
+quyềnhạnvàcơcấutổchứccủa...2
+XétđơnđềnghịcấpGiấyphépnhậpkhẩu(xuấtkhẩu)...4tạihồsơsố......ngày...tháng...năm...
+của.......................................................................................................................................................................5
+Theođềnghịcủa.............................................................................................................................. 6
+QUYẾTĐỊNH:
+Điều1.Côngty.......7trụsởtại:..................điệnthoại:...............,sốfax:................,Giấyphép
+kinhdoanhsố:............................do:......................cấpngày....tháng.....năm......,đượcphép:
+1.Nhậpkhẩu(xuấtkhẩu):.................................................................................................................. 4
+2.Mụcđíchnhậpkhẩu(xuấtkhẩu)8:..................................................................................................
+3.Cửakhẩunhậpkhẩu(xuấtkhẩu):..................................................................................................
+4.Phươngtiệnvàđiềukiệnvậnchuyển:...........................................................................................
+5.Thờigianthựchiệnnhậpkhẩu(xuấtkhẩu)dựkiến:...................................................................
+6.Sốlầnthựchiệnnhậpkhẩu(xuấtkhẩu):.......................................................................................
+Điều 2. Công ty ........... 7có tráchnhiệm thực hiện đúng quy định củaLuật Phòng, chống ma
+túy;Nghịđịnhsố.../NĐ-CPngày...tháng...năm2021củaChínhphủquyđịnhchitiếtvàhướngdẫnthi
+hànhmộtsốđiềucủaLuậtPhòng,chốngmatúyvà....9
+Điều3.Giấyphépnàycógiátrịđếnhếtngày...tháng...năm..../.
+Nơinhận: THỦTRƯỞNGCƠQUAN CẤPPHÉP2
+-NhưĐiều2; (Kýtênvàđóngdấu)
+-BộCôngan10;
+-BộTàichính(TổngcụcHảiquan);
+-ChicụcHảiquan...11;
+-Lưu:VT,2
+Trangchủ:https://hoatieu.vn/|Hotline:02422426188
+
+Phụlục
+DANHMỤC
+(KèmtheoGiấyphépsố:...ngày...tháng...năm...)
+_____________
+Tênthươngmại/Tên
+STT MãCAS MãHS ĐVT Sốlượng Hàmlượng
+hóahọc
+1
+2
+------------------
+1Cơquanchủquản(BộCôngan,BộCôngThương,BộNôngnghiệpvàPháttriểnnôngthôn).
+2Cơquancấpphép.
+3Viếttắtcủaloạihàngnhậpkhẩu/xuấtkhẩu(chấtmatúygồmGN,HT;TC;TTY).
+4 Chất ma túy (ghi rõ chất gây nghiện hoặc chất hướng thần), tiền chất, thuốc thú y có chứa
+chấtmatúy, tiềnchất.
+5GhitheosốtiếpnhậncủaCơquancấpphép.
+6Thủtrưởngđơnvịtiếpnhận,thẩmđịnhtrựctiếpđượcCơquancấpphépgiaonhiệmvụ.
+7TêndoanhnghiệpđềnghịcấpGiấyphépnhậpkhẩu.
+8 Mục đích: sử dụng, kinh doanh, nghiên cứu, kiểm nghiệm, khảo nghiệm và mục đích khác
+(nêuchitiết).
+9Tênvănbảnquyđịnhkháccóliênquancủacơquanquảnlýchuyênngành(chấtmatúy,tiền
+chất,thuốcthúycóchứachấtmatúy, tiềnchất).
+10Cơquanđượcgiaonhiệmvụđầumốiphốihợpkiểmsoát.
+11GhirõtênChicụcHảiquannơilàmthủtụcnhậpkhẩu(xuấtkhẩu).
+Trangchủ:https://hoatieu.vn/|Hotline:02422426188
+
+Mẫusố02B
+........................1 SOCIALISTREPUBLICOFVIETNAM
+........................2 Independent-Freedom-Happiness
+__________ _________________________________
+Number: HaNoi,date......month.....year......
+/Year/GPNK-abbreviations3
+IMPORT(EXPORT)LICENSE................4
+Director/Generalof.........................................2
+PursuanttotheLawonDrugPreventionandControlofMarch30,2021;
+Pursuant to the Government’s Decree No. /2021/ND-CP of..., 2021, detailing and guiding the
+implementationofanumberofarticlesoftheLawonDrugPreventionandControl
+Pursuant toDecisionNo:... date...month...year... of...ondefining functions, tasks,powersand
+organizationalstructureof...2
+Consider the Application for an Import (Export) License........ 4 in the application file No ........
+date...month...year...of.........................5
+Attheproposalofthe................................................6
+DECISION
+Article 1. Company ......... 7head office at: ................................... telephone: ........................,
+fax number: ............................, The business license number: ................ Issuing Office: ....................
+Issuingdate.........month...........year.........,allowed:
+1.Import(Export):...............................................................................................................................4
+2.Purpose8:...........................................................................................................................................
+3.Import(Export)bordergate:...........................................................................................................
+4.Meansandconditionsoftransportation:......................................................................................
+5.Estimatedtimeofimport(export):.................................................................................................
+6.Numberoftimesmadeimport(export):........................................................................................
+Article2.Company...........7isresponsibleforstrictlycomplyingwiththeprovisionsoftheLaw
+on Drug Prevention and Control; Decree No.... /ND-CP dated ...month... 2021 of the Government
+detailing and guiding the implementation of a number of articles of the Law on Drug Prevention and
+Controland....9
+Article3.Thislicenseisvaliduntiltheendoftheday...month...year..../.
+Recipients: HEAD OFLICENSINGAGENCY2
+-AsArticle2; (signedandsealed)
+-Police;
+-MinistryofFinance(GeneralDepartmentof
+Customs);
+-CustomsBranch...;
+-Archives:officestorage,2
+Trangchủ:https://hoatieu.vn/|Hotline:02422426188
+
+Annex
+LISTOFSUBSTANCES
+(EnclosedwithLicenseNo:...date...month)
+Tradenames/ CAS
+Number HSnumber Unit Quantity Content
+Chemicalname number
+1
+2
+------------------
+1 Managing agency (Ministry of Public Security, Ministry of Industry and Trade, Ministry of
+AgricultureandRuralDevelopment)
+2Licensingauthorities
+3Abbreviationforimport/exportgoods(drugsincludeGN,HT;TC;TTY)
+4 Narcotic substances (specify narcotic or psychotropic substances), precursors, veterinary
+drugscontainingnarcoticsubstances,precursors
+5RecordaccordingtothereceivingnumberoftheLicensingAuthority
+6Theheadofthereceivingandappraisingunitisassignedthetaskbythelicensingagency
+7Nameofenterpriseapplyingforimportlicense
+8Purpose:use,busmess,research,testing,testingandotherpurposes(specify)
+9Nameofotherrelevantregulatorydocumentsofspecializedmanagementagencies(narcotics,
+precursors,veterinarydrugscontainingnarcoticsubstances,precursors).
+Trangchủ:https://hoatieu.vn/|Hotline:02422426188
+
+Mẫusố03
+........................1 CỘNGHÒAXÃHỘICHỦNGHĨAVIỆTNAM
+........................2 Độclập-Tựdo-Hạnhphúc
+__________ _________________________
+........3,ngày....tháng....năm.......
+PHIẾUKẾTQUẢ
+Xétnghiệmchấtmatúytrongcơthể
+Tómtắtnộidungsựviệc:
+..........................................................................................................................................................
+..........................................................................................................................................................
+..........................................................................................................................................................
+..........................................................................................................................................................
+..........................................................................................................................................................
+..........................................................................................................................................................
+..........................................................................................................................................................
+..........................................................................................................................................................
+..........................................................................................................................................................
+Đểxácđịnhhànhvisửdụngtráiphépchấtmatúy,...........2thựchiệnxétnghiệmchấtmatúy
+trongcơthểđốivới:
+Họvàtên:............................................Giớitính: ................................
+Têngọikhác.............................................................................................................................................
+Ngày, tháng,nămsinh:.........../........./............Nơisinh:...................................................................
+Quêquán:..................................................................................................................................................
+Nơithườngtrú/tạmtrú:...........................................................................................................................
+Nơiởhiệntại:...........................................................................................................................................
+Số CMND/CCCD/Hộ chiếu: ................. ; ngày cấp: ...../..../.... ; nơi
+cấp:...................................................
+Dântộc:................Tôngiáo:..............Trìnhđộhọcvấn:.........................
+Nghềnghiệp:.............................................................................................................................................
+Nơilàmviệc/họctập:...............................................................................................................................
+1.Ngườitiếnhànhxétnghiệm:..............;chứcvụ............đơnvị.................4
+2.Biệnphápxétnghiệm:........................................................................................................................
+Cácbướctiếnhành:................................................................................................................................
+.....................................................................................................................................................................
+.....................................................................................................................................................................
+.....................................................................................................................................................................
+.....................................................................................................................................................................
+.....................................................................................................................................................................
+.....................................................................................................................................................................
+.....................................................................................................................................................................
+.....................................................................................................................................................................
+Trangchủ:https://hoatieu.vn/|Hotline:02422426188
+
+.....................................................................................................................................................................
+Kếtquả:
+.....................................................................................................................................................................
+.....................................................................................................................................................................
+.....................................................................................................................................................................
+.....................................................................................................................................................................
+.....................................................................................................................................................................
+.....................................................................................................................................................................
+3.Căncứvàokếtquảtrên,kếtluận:.......................................................................................5;
+□Dươngtínhvớichấtmatúytrongcơthể.
+□Âmtínhvớichấtmatúytrongcơthể.
+Ngườitiếnhànhxétnghiệm THỦTRƯỞNGCƠQUAN2
+(Ký,ghirõhọtên) (Ký,ghirõhọtên,đóngdấu)
+-------------------
+1Cơquanchủquản.
+2Cơ quan thực hiện xét nghiệm hoặc cơ quan của người thực hiện xét nghiệm theo khoản 2
+Điều22LuậtPhòng,chốngmatúy.
+3Cấpxãnơicótrụsởcơquanlậpphiếu.
+4Têncơquancủangườitiếnhànhxétnghiệm.
+5Tênngườibịxétnghiệmchấtmatúytrongcơthể.
+Trangchủ:https://hoatieu.vn/|Hotline:02422426188
+
+Mẫusố04
+........................1 CỘNGHÒAXÃHỘICHỦNGHĨAVIỆTNAM
+........................2 Độclập-Tựdo-Hạnhphúc
+__________ _________________________
+Số:...../TB-...... ........,ngày....tháng....năm.......
+THÔNGBÁO
+Vềhànhvisửdụngtráiphépchấtmatúy
+_____________
+Kínhgửi:ChủtịchỦybannhândân3..............................
+................................. 2 thông báo về hành vi sử dụng trái phép chất ma túy của người có tên
+sauđây:
+Họvàtên:.................................4Giớitính:.......................
+Têngọikhác:............................................................................................................................................
+Ngày, tháng,nămsinh:...../...../......Nơisinh:............................
+Quêquán:........................................................................................................................................................
+Nơithườngtrú/tạmtrú:..................................................................................................................................
+Nơiởhiệntại:.................................................................................................................................................
+SốCMND/CCCD/Hộchiếu:..................;ngàycấp:..../..../......;nơicấp:...........
+Dântộc:.........................Tôngiáo:..............Trìnhđộhọcvấn:.........................
+Nghềnghiệp:...................................................................................................................................................
+Nơilàmviệc/họctập:.....................................................................................................................................
+Nộidungthôngbáo:(Ghirõhànhviviphạm,nơithựchiệnhànhviviphạm;ghirõcơquantiến
+hànhxétnghiệmchấtmatúytrongcơthể)
+.......................................................................................................................................
+.......................................................................................................................................
+Kếtquảxétnghiệmchấtmatúytrongcơthểcủa..............4làdươngtính.
+........................ 2thông báo để Chủ tịchỦy ban nhân dân ............... 3biết, thực hiện theo quy
+định./.
+Nơinhận: THỦTRƯỞNGCƠQUAN
+-Nhưtrên; (Ký,ghirõhọtên,đóngdấu)
+-Côngancấpxã..............3;
+-Lưu:VT,....
+-------------------
+1Cơquanchủquản.
+2Cơquangửithôngbáo.
+3Nơingườisửdụngtráiphépchấtmatúycưtrúhoặcnơipháthiệntrongtrườnghợpkhôngcó
+nơicưtrúổnđịnh.
+4Ngườisửdụngtráiphépchấtmatúy.
+Trangchủ:https://hoatieu.vn/|Hotline:02422426188
+
+Mẫusố05
+........................1 CỘNGHÒAXÃHỘICHỦNGHĨAVIỆTNAM
+........................2 Độclập-Tựdo-Hạnhphúc
+__________ _________________________
+........,ngày....tháng....năm.......
+BẢNTÓMTẮTLÝLỊCH
+Ảnh3x4,đóng
+Ngườisửdụngtráiphépchấtmatúy
+dấugiáplai
+_______________
+1.Họvàtên:..................................................................................................
+2.Têngọikhác:.............................................................................................
+3.Giớitính(Nam/Nữ):..................................................................................
+4.Ngày, tháng,nămsinh:...../...../......
+5.Quêquán:....................................................................................................
+6.Nơithườngtrú/tạmtrú:.............................................................................
+7.Nơiởhiệntại:.............................................................................................
+8.SốCMND/CCCD:.......................nơicấp:............ngàycấp.....................
+9.Dântộc: Kinh:□ Khác:...................
+10.Tôngiáo: Có:□ Không:□
+11.Trìnhđộvănhóa:
++Chưađihọc:□+Tiểuhọc:□+THCS:□
++THPT:□+Đạihọc,trungcấp,caođẳng:□+Sauđạihọc:□
+12.Quốctịch:..........................................................................................................................................
+13.Họtêncha:.......................................................................................................................................
+SốCMND/CCCD:.......................nơicấp:............ngàycấp.....................
+14.Họtênmẹ:..........................................................................................................................................
+SốCMND/CCCD:.......................nơicấp:............ngàycấp.....................
+15.Nghềnghiệp;nơilàmviệc/họctập:
+...................................................................................................................................................................
+...................................................................................................................................................................
+...................................................................................................................................................................
+16.Nhânthân:
++Cótiềnáncáctộivềmatúy: □
++Bịxửlýviphạmhànhchínhvềmatúy: □
++Cótiềnánvềtộiphạmkhác:□
++Bịxửlýviphạmhànhchínhkhác:□
+Cácquyếtđịnhxửphạt,ápdụngbiệnphápxửlýhànhchínhdosửdụngtráiphépchấtmatúy,
+nghiệnmatúy(số,ngày,tháng,cơquanbanhànhQuyếtđịnh,hìnhthứcxửphạt,biệnphápxửlýhành
+Trangchủ:https://hoatieu.vn/|Hotline:02422426188
+
+chính)
+Lần1:.........................................................................................................................................................
+Lần2:.........................................................................................................................................................
+Lần3:.........................................................................................................................................................
+.....................................................................................................................................................................
+17.Cóbiểuhiệnloạnthần(ngáođá):Có:□ Không:□
+18. Thờiđiểmngườisử dụng tráiphépchấtmatúy khai nhậnbắtđầusửdụngtráiphépchất
+matúy:
+...................................................................................................................................................................
+...................................................................................................................................................................
+19.Thờiđiểmbịpháthiệnsửdụngtráiphépchấtmatúylầnđầutiên:
+.....................................................................................................................................................................
+.....................................................................................................................................................................
+20.Loạimatúysửdụng
++Thuốcphiện:□ +Cocain:□
++Heroine:□ +Cầnsa:□
++Amphetamine/Methamphetamine:□ +Ketamine:□
++Matúykhác:□ +Sửdụngnhiềuloạimatúy: □
+21.Hìnhthứcsửdụngmatúy.
++Tiêmchích:□ +Hít:□
++Uống:□ +Khác:□
++Sửdụngnhiềuhìnhthức:□
+22.Đãtừngcainghiện:................... (có/không).Nếucó,sốlầncainghiện:
++1lần:□ +2lần:□ +3lần:□ +Từ4lầntrởlên:□
+Cụ thể (Ghi rõ địa điểm, hình thức, thời gian mỗilần cai nghiện; số, ngày tháng, cơ quan ban
+hànhQuyếtđịnhtrongtrườnghợpcainghiệnbắtbuộc):
+...................................................................................................................................................................
+...................................................................................................................................................................
+23.Tầnsuấtsửdụngmatúy(theongày,tuần,tháng)
+...................................................................................................................................................................
+24.Liềulượngmatúymỗilầnsửdụng
+...................................................................................................................................................................
+...................................................................................................................................................................
+25.Thôngtinliênhệcủangườisửdụngtráiphépchấtmatúyhoặcngườiđạidiện:
+Sốđiệnthoại:............................................................................................................................................
+Tàikhoảnmạngxãhội(nếucó):...........................................................................................................
+NGƯỜILẬPBẢNTÓMTẮTLÝLỊCH THỦTRƯỞNGĐƠNVỊ
+(Ký,ghirõhọtên) (Ký,ghirõhọtên,đóngdấu)
+----------------------
+Trangchủ:https://hoatieu.vn/|Hotline:02422426188
+
+1Têncơquanchủquản.
+2Têncơquanlậpbảntómtắtlýlịch.
+Trangchủ:https://hoatieu.vn/|Hotline:02422426188
+
+Mẫusố06
+CỘNGHÒAXÃHỘICHỦNGHĨAVIỆTNAM
+Độclập-Tựdo-Hạnhphúc
+_________________________
+.......,ngày.....tháng...năm.......
+BẢNTƯỜNGTRÌNH
+Họvàtên:....................................................Giớitính: ..............................
+Têngọikhác..............................................................................................................................................
+Ngày, tháng,nămsinh:....../...../.......Nơisinh: ..........................................
+Quêquán:..................................................................................................................................................
+Nơithườngtrú/tạmtrú:............................................................................................................................
+Nơiởhiệntại:............................................................................................................................................
+SốCMND/CCCD/Hộchiếu:..................;ngàycấp:....../....../........;nơicấp:...............................
+Dântộc:.........................Tôngiáo:..............Trìnhđộhọcvấn:.........................
+Nghềnghiệp:.............................................................................................................................................
+Nơilàmviệc/họctập:...............................................................................................................................
+Tường trình cụ thể về hành vi sử dụng ma túy của bản thân (quá trình sử dụng ma túy, hình
+thức sử dụng matúy, tìnhtrạngsửdụng matúy, lý do sử dụngmatúy, thờiđiểm sử dụng matúylần
+cuối)...........................................................................................................................................................................
+......................................................................................................................................................................
+......................................................................................................................................................................
+......................................................................................................................................................................
+......................................................................................................................................................................
+Đãápdụngbiệnphápgiáodụctạixã,phường,thịtrấndosửdụngtráiphépchấtmatúy(ghirõ
+sốlần(nếuđãbịápdụng));(trườnghợpkhôngbịápdụngthìghilà:không):............................................
+......................................................................................................................................................................
+Đãcainghiệnmatúy(ghirõnơicainghiện,sốlần(nếuđãbịápdụng);trườnghợpkhôngbịáp
+dụngthìghilà:không):...........................................................................................................................................
+......................................................................................................................................................................
+NGƯỜITƯỜNGTRÌNH
+(Ký,ghirõhọtên)
+Trangchủ:https://hoatieu.vn/|Hotline:02422426188
+
+Mẫusố07
+........................ CỘNGHÒAXÃHỘICHỦNGHĨAVIỆTNAM
+........................1 Độclập-Tựdo-Hạnhphúc
+__________ _________________________
+Số:......./QĐ-UBND ........1,ngày....tháng....năm.......
+QUYẾTĐỊNH
+Ápdụngbiệnphápquảnlýngườisửdụngtráiphépchấtmatúy
+_____________
+CHỦTỊCHUBND...........................................1
+Căn cứ Luật Tổ chức chính quyền địa phương ngày 19 tháng 6 năm 2015; Luật sửa đổi, bổ
+sungmộtsốđiềucủaLuậtTổchứcChínhphủvàLuậtTổchứcchínhquyềnđịaphươngngày22tháng
+11năm2019;
+CăncứLuậtPhòng,chốngmatúyngày30tháng3năm2021;
+Căn cứ Nghị định số........../2021/NĐ-CP ngày ... tháng ... năm2021 của Chính phủ quy định
+chitiếtvàhướngdẫnthihànhmộtsốđiềucủaLuậtPhòng,chốngmatúy;
+XétđềnghịcủaTrưởngCôngan........................................................................................................ 1
+QUYẾTĐỊNH:
+Điều1.Ápdụngbiệnphápquảnlýngườisửdụngtráiphépchấtmatúyvớingườicótênsau:
+Họvàtên:.....................................................Giớitính:......................
+Têngọikhác.............................................................................................................................................
+Ngày, tháng,nămsinh:....../...../.......Nơisinh: ..........................................
+Quêquán:.................................................................................................................................................
+Nơithườngtrú/tạmtrú:...........................................................................................................................
+Nơiởhiệntại:...........................................................................................................................................
+SốCMND/CCCD/Hộchiếu:..................;ngàycấp:....../....../........;nơicấp:...............................
+Dântộc:.........................Tôngiáo:..............Trìnhđộhọcvấn:.........................
+Nghềnghiệp:............................................................................................................................................
+Nơilàmviệc/họctập:..............................................................................................................................
+Tómtắthànhvisửdụngtráiphépchấtmatúy: .................................................................................
+.....................................................................................................................................................................
+.....................................................................................................................................................................
+.....................................................................................................................................................................
+.....................................................................................................................................................................
+.....................................................................................................................................................................
+Kếtquảxétnghiệmdươngtínhvớichấtmatúytrongcơthểngày...../...../......
+Thờihạnquảnlýngườisửdụngtráiphépchấtmatúylà01năm,kểtừngày.../.../......
+Điều2.ThànhlậpTổquảnlýngườisửdụngtráiphépchấtmatúyvàphâncôngnhiệmvụnhư
+sau:
+1.Đ/c.............................Côngan...............................1-Tổtrưởng;
+2.Ông/bà:.............................................-ĐạidiệnThôn/Tổdânphố-Tổphó;
+3.Ông/bà:...............................................2-Tổviên;
+Trangchủ:https://hoatieu.vn/|Hotline:02422426188
+
+4.Ông/bà:...............................................3-Tổviên;
+................................................4
+Điều3.Tráchnhiệmthựchiệnquảnlýngườisửdụngtráiphépchấtmatúy
+1.Côngan1..................................cótráchnhiệm:
+a)Đưangườisửdụngtráiphépchấtmatúyvàodanhsáchquảnlý.
+b)Tổchứcthựchiệnviệcxétnghiệmchấtmatúytrongcơthểtrongthờihạnquảnlý.
+2.Tổquảnlýngườisửdụngtráiphépchấtmatúycótráchnhiệmtưvấn,độngviên,giáodục,
+hỗtrợngườibịquảnlýcótênnêutạiĐiều1Quyếtđịnhnày.
+3. Giađìnhngười bịquản lýcótráchnhiệmphốihợpquảnlý, độngviên, giáo dục vàgiúpđỡ
+ngườisửdụngtráiphépchấtmatúy.
+4.Ngườisửdụngtráiphépchấtmatúybịápdụngbiệnphápquảnlýcótráchnhiệmchấphành
+yêucầuxétnghiệmchấtmatúytrongcơthểcủaCôngan...................................1
+Điều4.Quyếtđịnhnàycóhiệulựckểtừngàyký.
+Điều 5. Trưởng Công an1 ....................... và những người có tên tại Điều1, Điều 2 chịu trách
+nhiệmthihànhQuyếtđịnhnày./.
+Nơinhận: CHỦTỊCH1
+-NhưĐiều5; (Ký,ghirõhọtên,đóngdấu)
+-Lưu:VT,...
+----------------------
+1Tênxã/phường/thịtrấnnơiraquyếtđịnh.
+2Ngườiđạidiệnchogiađìnhngườisửdụngtráiphépchấtmatúyhoặcngườicóuytíntrong
+dònghọ.
+3Đạidiệntổchứcchínhtrị-xãhội(căncứvàonhânthâncủangườisửdụngtráiphépchấtma
+túy).
+4Nhữngthànhviênkhác(nếucó).
+Trangchủ:https://hoatieu.vn/|Hotline:02422426188
+
+Mẫusố08
+........................1 CỘNGHÒAXÃHỘICHỦNGHĨAVIỆTNAM
+ỦYBAN NHÂNDÂN2 Độclập-Tựdo-Hạnhphúc
+__________ _________________________
+Số:......./TB-......... ........2,ngày....tháng....năm.......
+THÔNGBÁO
+Vềviệcchuyểnhồsơquảnlýngườisửdụngtráiphépchấtmatúy
+_____________
+Kínhgửi:ChủtịchUBND................................ 3
+ChủtịchUBND........................2thôngbáovớiChủtịchUBND....................3vềviệcchuyểnhồ
+sơquảnlýngườisửdụngtráiphépchấtmatúycótênsau:
+Họvàtên:.....................................................Giớitính:......................
+Ngày, tháng,nămsinh:....../...../.......Nơisinh: ..........................................
+Quêquán:........................................................................................................................................................
+Nơithườngtrú/tạmtrú:.................................................................................................................................
+Nơiởhiệntại:.................................................................................................................................................
+SốCMND/CCCD/Hộchiếu:..................;ngàycấp:..../..../;nơicấp:...................
+Dântộc:.........................Tôngiáo:..............Trìnhđộhọcvấn:.........................
+Nghềnghiệp:..................................................................................................................................................
+Nơilàmviệc/họctập:.....................................................................................................................................
+Làngườiđangtrongthờihạnbịápdụngbiệnphápquảnlýngườisửdụngtráiphépchấtmatúy
+tại.......................2
+Thờigianquảnlýtừngày...../...../......đếnngày...../...../......
+Nơichuyểnđến:..................................................................................................................................... 3
+Hồsơquảnlý:códanhmụckèmtheo.
+ChủtịchUBND............................. 2thôngbáođểChủtịchUBND3tiếptụctổchứcquảnlýđối
+vớingườisửdụngtráiphépchấtmatúycótênnêutrên./.
+Nơinhận: CHỦTỊCH
+-Nhưtrên; (Ký,ghirõhọtên,đóngdấu)
+-Côngancấpxã........2;
+-Côngancấpxã........3;
+-Lưu:VT,...
+-------------------
+1Cơquanchủquản.
+2Nơiđangquảnlýngườisửdụngtráiphépchấtmatúy.
+3Nơingườiđangtrongthờihạnquảnlýchuyểnđến.
+Trangchủ:https://hoatieu.vn/|Hotline:02422426188
+
+DANHMỤCTÀILIỆUTRONGHỒSƠQUẢNLÝ
+STT Têntàiliệu Số,ngày,tháng
+1
+2
+3
+4
+...
+....
+....
+Trangchủ:https://hoatieu.vn/|Hotline:02422426188
+
+Mẫusố09
+........................ CỘNGHÒAXÃHỘICHỦNGHĨAVIỆTNAM
+UBND............1 Độclập-Tựdo-Hạnhphúc
+__________ _________________________
+Số:......./QĐ-UBND ........1,ngày....tháng....năm.......
+QUYẾTĐỊNH
+Dừngquảnlýngườisửdụngtráiphépchấtmatúy
+______________
+CHỦTỊCHUBND.................................1
+Căn cứ Luật Tổ chức chính quyền địa phương ngày 19 tháng 6 năm 2015; Luật sửa đổi, bổ
+sungmộtsốđiềucủaLuậtTổchứcChínhphủvàLuậtTổchứcchínhquyềnđịaphươngngày22tháng
+11năm2019;
+CăncứLuậtPhòng,chốngmatúyngày30tháng3năm2021;
+CăncứNghịđịnhsố......./2021/NĐ-CPngày...tháng...năm2021củaChínhphủquyđịnhchi
+tiếtvàhướngdẫnthihànhmộtsốđiềucủaLuậtPhòng, chốngmatúy;
+CăncứQuyếtđịnhápdụngbiệnphápquảnlýngườisửdụngtráiphépchấtmatúy;
+XétđềnghịcủaTrưởngCôngan........................................................................................................ 1
+QUYẾTĐỊNH:
+Điều1.Dừngápdụngbiệnphápquảnlýngườisửdụngtráiphépchấtmatúyvớingườicótên
+sau:
+Họvàtên:.....................................................Giớitính:......................
+Ngày, tháng,nămsinh:....../...../.......Nơisinh: ..........................................
+Quêquán:........................................................................................................................................................
+Nơithườngtrú/tạmtrú:..................................................................................................................................
+Nơiởhiệntại:.................................................................................................................................................
+Số CMND/CCCD/Hộ chiếu: ..................; ngày cấp: ....../....../........; nơi
+cấp:.................................
+Dântộc:.........................Tôngiáo:..............Trìnhđộhọcvấn:.........................
+Nghềnghiệp:...................................................................................................................................................
+Nơilàmviệc/họctập:.....................................................................................................................................
+Bị quản lý theo Quyết định áp dụng biện pháp quản lý người sử dụng trái phép chất ma túy
+số.............../QĐ-UBNDngàycủaChủtịchỦybannhândân..................2
+Theoquyđịnhtạiđiểmkhoản5Điều23LuậtPhòng,chốngmatúy, dừngquảnlýđốivới vì
+lýdo:
+□Kếtquảxácđịnhtìnhtrạngnghiệnlàcónghiện:
+□Bịápdụngbiệnphápxửlýhànhchínhgiáodụctạixã,phường,thịtrấndocóhànhvisửdụng
+tráiphépchấtmatúytheoQuyếtđịnhsố...............................
+□Bịápdụngbiệnphápxửlýhànhchínhđưavàocơsởgiáodụcbắtbuộc,đưavàotrườnggiáo
+dưỡngtheoQuyếtđịnhsố................................
+□PhảithihànhánphạttùtheoQuyếtđịnhthihànhánphạttùsố...................thihànhBảnán
+số..............................
+□Chết,bịTòaántuyênbốlàmấttích.
+Dừngquảnlýngườisửdụngtráiphépchấtmatúykểtừngày...../...../......
+Trangchủ:https://hoatieu.vn/|Hotline:02422426188
+
+Điều 2. Tổ quản lý người sử dụng trái phép chất ma túy thành lập theo Quyết định
+số...........................giảithểkểtừngàyQuyếtđịnhnàycóhiệulực.
+Điều3.Quyếtđịnhnàycóhiệulựckểtừngàyký.
+Điều 4. Trưởng Công an1..................... và những người có tên tại Điều 1, Điều 2 chịu trách
+nhiệmthihànhQuyếtđịnhnày./.
+Nơinhận: CHỦTỊCH
+-NhưĐiều4; (Ký,ghirõhọtên,đóngdấu)
+-GiađìnhngườicótêntạiĐiều1;
+-Cáctổchức,cánhâncóliênquan;
+-Lưu:VT,...
+----------------------
+1Tênxã,phường,thịtrấnnơiraquyếtđịnhdừngquảnlý.
+2Nơiraquyếtđịnhquảnlý.
+Trangchủ:https://hoatieu.vn/|Hotline:02422426188
+
+Mẫusố10
+........................ CỘNGHÒAXÃHỘICHỦNGHĨAVIỆTNAM
+UBND............1 Độclập-Tựdo-Hạnhphúc
+__________ _________________________
+Số:......./QĐ-UBND ........1,ngày....tháng....năm.......
+QUYẾTĐỊNH
+Chấmdứtquảnlýngườisửdụngtráiphépchấtmatúy
+_____________
+CHỦTỊCHUBND...................................1
+Căn cứ Luật Tổ chức chính quyền địa phương ngày 19 tháng 6 năm 2015; Luật sửa đổi, bổ
+sungmộtsốđiềucủaLuậtTổchứcChínhphủvàLuậtTổchứcchínhquyềnđịaphươngngày22tháng
+11năm2019;
+CăncứLuậtPhòng,chốngmatúyngày30tháng3năm2021;
+CăncứNghịđịnhsố......./2021/NĐ-CPngày...tháng...năm2021củaChínhphủquyđịnhchi
+tiếtvàhướngdẫnthihànhmộtsốđiềucủaLuậtPhòng, chốngmatúy;
+CăncứQuyếtđịnhápdụngbiệnphápquảnlýngườisửdụngtráiphépchấtmatúy;
+XétđềnghịcủaTrưởngCôngan.........................................................................................................1
+QUYẾTĐỊNH:
+Điều1.Chấmdứtápdụngbiệnphápquảnlýngườisửdụngtráiphépchấtmatúyvớingườicó
+tênsau:
+Họvàtên:.....................................................Giớitính:......................
+Ngày, tháng,nămsinh:....../...../.......Nơisinh: ..........................................
+Quêquán:........................................................................................................................................................
+Nơithườngtrú/tạmtrú:.................................................................................................................................
+Nơiởhiệntại:.................................................................................................................................................
+Số CMND/CCCD/Hộ chiếu: ..................; ngày cấp: ....../....../........; nơi
+cấp:.................................
+...................................................................................................................................................
+Dântộc:.........................Tôngiáo:..............Trìnhđộhọcvấn:.........................
+Nghềnghiệp:...................................................................................................................................................
+Nơilàmviệc/họctập:.....................................................................................................................................
+Đến nay đã hết thời hạn quản lý theo Quyết định số ngày của Chủ tịch Ủy ban nhân
+dân....................2
+Điều 2. Tổ quản lý người sử dụng trái phép chất ma túy thành lập theo Quyết định
+số...................giảithểkểtừngàyQuyếtđịnhnàycóhiệulực.
+Điều3.Quyếtđịnhnàycóhiệulựckểtừngàyký.
+Điều4.TrưởngCôngan1.................vànhữngngườicótêntạiĐiều1,Điều2chịutráchnhiệm
+thihànhQuyếtđịnhnày./.
+Nơinhận: CHỦTỊCH
+-NhưĐiều4; (Ký,ghirõhọtên,đóngdấu)
+-GiađìnhngườicótêntạiĐiều1;
+-Cáctổchức,cánhâncóliênquan;
+-Lưu:VT,...
+Trangchủ:https://hoatieu.vn/|Hotline:02422426188
+
+----------------------
+1Tênxã,phường,thịtrấnnơiraquyếtđịnhdừngquảnlý.
+2Nơiraquyếtđịnhquảnlý.
+Trangchủ:https://hoatieu.vn/|Hotline:02422426188
